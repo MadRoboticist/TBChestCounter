@@ -1,0 +1,29 @@
+--------------- 2023-12-13 14:55:47 --------------------------
+is
+ae
+--------------- The above segment might not be present in the archive file due to processing errors
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-13 14:55:55 --------------------------
+Golden Chest
+From: NEVIO
+Source: Bank
+--------------- 2023-12-13 14:55:57 --------------------------
+Golden Chest
+From: NEVIO
+Source: Bank
+--------------- 2023-12-13 14:55:58 --------------------------
+Golden Chest
+From: NEVIO
+Source: Bank
+--------------- 2023-12-13 14:56:00 --------------------------
+Bronze Chest
+From: Braveheart
+Source: Bank
+--------------- 2023-12-13 14:56:02 --------------------------
+Bronze Chest
+From: Braveheart
+Source: Bank
+--------------- 2023-12-13 14:56:03 --------------------------
+Bronze Chest
+From: Braveheart
+Source: Bank

@@ -1,0 +1,67 @@
+--------------- 2023-12-21 12:09:23 --------------------------
+Bone Chest
+From: Lady G
+Source: Level 20 Crypt
+--------------- 2023-12-21 12:09:25 --------------------------
+Elven Citadel Chest
+From: Lady G
+Source: Level 15 Citadel
+--------------- 2023-12-21 12:09:26 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-21 12:09:28 --------------------------
+Snowman chest
+From: Menelaos
+Source: Snowman
+--------------- 2023-12-21 12:09:30 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-21 12:09:32 --------------------------
+Fire Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-21 12:09:33 --------------------------
+Snowman chest
+From: Menelaos
+Source: Christmas Ritual tournament.
+--------------- 2023-12-21 12:09:35 --------------------------
+Fire Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-21 12:09:37 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-21 12:09:39 --------------------------
+Snowman chest
+From: Snowberry
+Source: Showman
+--------------- 2023-12-21 12:09:41 --------------------------
+Merchant's Chest
+From: Thorn
+Source: Mercenary Exchange
+--------------- 2023-12-21 12:09:42 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-21 12:09:44 --------------------------
+Barbarian Chest
+From: Granidred
+Source: Level 20 Crypt
+--------------- 2023-12-21 12:09:46 --------------------------
+ee
+ee
+ee
+oe
+--------------- The above segment might not be present in the archive file due to processing errors
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-21 12:37:08 --------------------------
+Bronze Chest
+From: Vlad the Impaler
+Source: Bank
+--------------- 2023-12-21 12:37:09 --------------------------
+Bronze Chest
+From: Vlad the Impaler
+Source: Bank

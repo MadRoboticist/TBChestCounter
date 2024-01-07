@@ -1,0 +1,1214 @@
+--------------- 2023-06-08 23:58:34 --------------------------
+Bone Chest
+From: Muradin Bronzebeard
+Source: Level 25 Crypt
+--------------- 2023-06-08 23:58:36 --------------------------
+Cobra Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:58:38 --------------------------
+Barbarian Chest
+From: Gros jnr
+Source: Level 20 Crypt
+--------------- 2023-06-08 23:58:40 --------------------------
+Elegant Chest
+From: Gros jnr
+Source: Level 20 Crypt
+--------------- 2023-06-08 23:58:41 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 25 rare Crypt
+--------------- 2023-06-08 23:58:43 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:58:45 --------------------------
+Elegant Chest
+From: 3CPo
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:58:47 --------------------------
+Cobra Chest
+From: 3CPo
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:58:48 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-06-08 23:58:50 --------------------------
+Gladiator's Chest
+From: Eydaen
+Source: Arena
+--------------- 2023-06-08 23:58:52 --------------------------
+Stone Chest
+From: 3CPo
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:58:54 --------------------------
+Sand Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:58:55 --------------------------
+Orc Chest
+From: Grosvenor
+Source: Level 20 Crypt
+--------------- 2023-06-08 23:58:57 --------------------------
+Forgotten Chest
+From: Grosvenor
+Source: Level 25 Crypt
+--------------- 2023-06-08 23:58:59 --------------------------
+Rare Dragon Chest
+From: Grosvenor
+Source: Level 25 rare Crypt
+--------------- 2023-06-08 23:59:01 --------------------------
+Cobra Chest
+From: Grosvenor
+Source: Level 25 Crypt
+--------------- 2023-06-08 23:59:03 --------------------------
+Gladiator's Chest
+From: Mighty Forger
+Source: Arena
+--------------- 2023-06-08 23:59:04 --------------------------
+Stone Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-06-08 23:59:06 --------------------------
+Infernal Chest
+From: Immortal
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:59:08 --------------------------
+Cobra Chest
+From: Immortal
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:59:10 --------------------------
+Orc Chest
+From: Maximus Decimus
+Source: Level 20 Crypt
+--------------- 2023-06-08 23:59:12 --------------------------
+Union Chest
+From: Mighty Forger
+Source: Union of Triumph personal reward
+--------------- 2023-06-08 23:59:13 --------------------------
+Union Chest
+From: Mighty Forger
+Source: Union of Triumph personal reward
+--------------- 2023-06-08 23:59:15 --------------------------
+Infernal Chest
+From: Immortal
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:59:17 --------------------------
+Gnome Workshop Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:59:19 --------------------------
+Gnome Workshop Chest
+From: Vlad the Impaler
+Source: Level 5 Crypt
+--------------- 2023-06-08 23:59:20 --------------------------
+Orc Chest
+From: Maximus Decimus
+Source: Level 20 Crypt
+--------------- 2023-06-08 23:59:22 --------------------------
+Orc Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:59:24 --------------------------
+Bone Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:59:26 --------------------------
+Gnome Workshop Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:59:27 --------------------------
+Cobra Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:59:29 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt
+--------------- 2023-06-08 23:59:31 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:59:33 --------------------------
+Orc Chest
+From: Maximus Decimus
+Source: Level 25 Crypt
+--------------- 2023-06-08 23:59:34 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt
+--------------- 2023-06-08 23:59:36 --------------------------
+Infernal Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:59:38 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-08 23:59:40 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-06-08 23:59:41 --------------------------
+Sand Chest
+From: MADMAN
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:59:43 --------------------------
+Barbarian Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:59:45 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 15 Citadel
+--------------- 2023-06-08 23:59:47 --------------------------
+Barbarian Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-08 23:59:49 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 20 rare Crypt
+--------------- 2023-06-08 23:59:51 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 15 rare Crypt
+--------------- 2023-06-08 23:59:52 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-06-08 23:59:54 --------------------------
+Barbarian Chest
+From: MADMAN
+Source: Level 15 Crypt
+--------------- 2023-06-08 23:59:56 --------------------------
+Gnome Workshop Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-06-08 23:59:58 --------------------------
+Infernal Chest
+From: MADMAN
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:00 --------------------------
+Elegant Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:00:01 --------------------------
+Cobra Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:03 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:00:05 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:00:07 --------------------------
+Gladiator's Chest
+From: Nobody special
+Source: Arena
+--------------- 2023-06-09 00:00:09 --------------------------
+Rare Dragon Chest
+From: Marcelo
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:00:10 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:12 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:14 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:00:16 --------------------------
+Sand Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:17 --------------------------
+Sand Chest
+From: D23
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:19 --------------------------
+Infernal Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:21 --------------------------
+Barbarian Chest
+From: D23
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:23 --------------------------
+Sand Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:24 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:00:26 --------------------------
+Bone Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-06-09 00:00:28 --------------------------
+Fire Chest
+From: D23
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:30 --------------------------
+Orc Chest
+From: D23
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:31 --------------------------
+Infernal Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:33 --------------------------
+Orc Chest
+From: D23
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:35 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:00:37 --------------------------
+Scorpion Chest
+From: D23
+Source: Level 25 epic Crypt
+--------------- 2023-06-09 00:00:38 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2023-06-09 00:00:40 --------------------------
+Rare Dragon Chest
+From: D23
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:00:42 --------------------------
+Infernal Chest
+From: Marcelo
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:00:44 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:46 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:48 --------------------------
+Rare Dragon Chest
+From: D23
+Source: Level 25 rare Crypt
+--------------- 2023-06-09 00:00:50 --------------------------
+Fire Chest
+From: D23
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:00:51 --------------------------
+Orc Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:00:53 --------------------------
+Cursed Citadel Chest
+From: Marcelo
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:00:55 --------------------------
+Orc Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-06-09 00:00:57 --------------------------
+Rare Dragon Chest
+From: Marcelo
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:00:58 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:01:00 --------------------------
+Titansteel Chest
+From: D23
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:01:02 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:01:04 --------------------------
+Sand Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:01:06 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:01:08 --------------------------
+Orc Chest
+From: Morg
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:01:09 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:01:11 --------------------------
+Cobra Chest
+From: Morg
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:01:13 --------------------------
+Mayan Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:01:15 --------------------------
+Fire Chest
+From: Muradin Bronzebeard
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:01:16 --------------------------
+Elegant Chest
+From: Morg
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:01:18 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:01:20 --------------------------
+Common Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+--------------- 2023-06-09 00:01:22 --------------------------
+Uncommon Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+--------------- 2023-06-09 00:01:24 --------------------------
+Rare Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+--------------- 2023-06-09 00:01:25 --------------------------
+Epic Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+--------------- 2023-06-09 00:01:27 --------------------------
+Sand Chest
+From: Legon
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:01:29 --------------------------
+Mayan Chest
+From: Legon
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:01:31 --------------------------
+Elegant Chest
+From: Legon
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:01:33 --------------------------
+Forgotten Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:01:34 --------------------------
+Sand Chest
+From: Legon
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:01:36 --------------------------
+Fire Chest
+From: Mazura
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:01:38 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:01:40 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:01:41 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-09 00:01:43 --------------------------
+Gnome Workshop Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:01:45 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:01:47 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:01:49 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:01:51 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:01:53 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:01:56 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:01:58 --------------------------
+Cobra Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:02:00 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:02:03 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-09 00:02:05 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:02:07 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:02:09 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:02:12 --------------------------
+Mayan Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:02:14 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:02:16 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:02:18 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:02:20 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-09 00:02:23 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:02:25 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:02:27 --------------------------
+Orc Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:02:30 --------------------------
+Scorpion Chest
+From: Mazura
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:02:32 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:02:34 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:02:36 --------------------------
+Rare Dragon Chest
+From: Logan
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:02:38 --------------------------
+Cobra Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:02:40 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-09 00:02:42 --------------------------
+Stone Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:02:44 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:02:46 --------------------------
+Forgotten Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:02:47 --------------------------
+Minotaur Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:02:49 --------------------------
+Braided Chest
+From: Logan
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:02:51 --------------------------
+Abandoned Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:02:53 --------------------------
+Cobalt Chest
+From: Logan
+Source: Level 25 epic Crypt
+--------------- 2023-06-09 00:02:54 --------------------------
+Titansteel Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:02:56 --------------------------
+White Wood Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:02:58 --------------------------
+Scarab Chest
+From: Logan
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:03:00 --------------------------
+Cobra Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:02 --------------------------
+Ancient Bastion Chest
+From: Logan
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:03:04 --------------------------
+Barbarian Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:03:06 --------------------------
+White Wood Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:03:08 --------------------------
+Chest of the Cursed
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:03:10 --------------------------
+Turtle Chest
+From: Logan
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:03:11 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-09 00:03:13 --------------------------
+Stone Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:15 --------------------------
+Minotaur Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:03:17 --------------------------
+Trillium Chest
+From: Logan
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:03:18 --------------------------
+Cobalt Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:03:20 --------------------------
+Scarab Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:03:22 --------------------------
+Elegant Chest
+From: Mazura
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:03:24 --------------------------
+Turtle Chest
+From: Logan
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:03:25 --------------------------
+Ancient Bastion Chest
+From: Logan
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:03:27 --------------------------
+Forgotten Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:29 --------------------------
+Barbarian Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:31 --------------------------
+Forgotten Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:32 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-09 00:03:34 --------------------------
+Barbarian Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:36 --------------------------
+Orc Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:03:38 --------------------------
+Cobra Chest
+From: Mazura
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:03:39 --------------------------
+Infernal Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:41 --------------------------
+Sand Chest
+From: Painmoon
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:43 --------------------------
+Gladiator's Chest
+From: Painmoon
+Source: Arena
+--------------- 2023-06-09 00:03:45 --------------------------
+Cobra Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:46 --------------------------
+Infernal Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:48 --------------------------
+Cobra Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:50 --------------------------
+Infernal Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:52 --------------------------
+Barbarian Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:53 --------------------------
+Forgotten Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:55 --------------------------
+Barbarian Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:57 --------------------------
+Barbarian Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:03:59 --------------------------
+Infernal Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:00 --------------------------
+Infernal Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:02 --------------------------
+Sand Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:04 --------------------------
+Cobra Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:06 --------------------------
+Forgotten Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:07 --------------------------
+Elegant Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:09 --------------------------
+Mayan Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:11 --------------------------
+Forgotten Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:13 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:04:14 --------------------------
+Forgotten Chest
+From: Tricolor Carioca
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:16 --------------------------
+Elven Citadel Chest
+From: Muradin Bronzebeard
+Source: Level 10 Citadel
+--------------- 2023-06-09 00:04:18 --------------------------
+Gladiator's Chest
+From: Granidred
+Source: Arena
+--------------- 2023-06-09 00:04:20 --------------------------
+Orc Chest
+From: Granidred
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:21 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:04:23 --------------------------
+Elegant Chest
+From: Granidred
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:25 --------------------------
+White Wood Chest
+From: Tricolor Carioca
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:04:27 --------------------------
+Mayan Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:28 --------------------------
+Gnome Workshop Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:04:30 --------------------------
+Barbarian Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:32 --------------------------
+Scorpion Chest
+From: Mazura
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:04:34 --------------------------
+Barbarian Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:35 --------------------------
+Elegant Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:37 --------------------------
+Orc Chest
+From: Mazura
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:39 --------------------------
+Cobra Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:41 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:04:42 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:44 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:46 --------------------------
+Elegant Chest
+From: Vlad the Impaler
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:48 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:04:51 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:52 --------------------------
+Mayan Chest
+From: Nobody special
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:54 --------------------------
+Fire Chest
+From: Nobody special
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:56 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:04:58 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:04:59 --------------------------
+Gnome Workshop Chest
+From: Nobody special
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:05:01 --------------------------
+Rare Dragon Chest
+From: Nobody special
+Source: Level 15 rare Crypt
+--------------- 2023-06-09 00:05:03 --------------------------
+Fire Chest
+From: Cain
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:05:05 --------------------------
+Sand Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:07 --------------------------
+Orc Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:08 --------------------------
+Bone Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:10 --------------------------
+Elegant Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:12 --------------------------
+Orc Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:13 --------------------------
+Bone Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:15 --------------------------
+Barbarian Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:17 --------------------------
+Sand Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:19 --------------------------
+Gnome Workshop Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:20 --------------------------
+Infernal Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:22 --------------------------
+Forgotten Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:24 --------------------------
+Forgotten Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:25 --------------------------
+Barbarian Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:27 --------------------------
+Infernal Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:29 --------------------------
+Mayan Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:31 --------------------------
+Gnome Workshop Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:32 --------------------------
+Infernal Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:34 --------------------------
+Mayan Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:36 --------------------------
+Sand Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:38 --------------------------
+Fire Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:05:39 --------------------------
+Stone Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:41 --------------------------
+Elegant Chest
+From: Tha Supreme
+Source: Level 25 Crypt
+--------------- 2023-06-09 00:05:43 --------------------------
+Cobra Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-06-09 00:05:45 --------------------------
+Stone Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-06-09 00:05:46 --------------------------
+Mayan Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:05:48 --------------------------
+Gnome Workshop Chest
+From: Foolish Mortal
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:05:50 --------------------------
+Forgotten Chest
+From: Foolish Mortal
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:05:52 --------------------------
+Forgotten Chest
+From: Foolish Mortal
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:53 --------------------------
+Stone Chest
+From: Foolish Mortal
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:05:55 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:05:57 --------------------------
+Barbarian Chest
+From: Foolish Mortal
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:05:59 --------------------------
+Gnome Workshop Chest
+From: Foolish Mortal
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:06:01 --------------------------
+Titansteel Chest
+From: Groi
+ree
+Source: Level 15 epic Crypt
+--------------- The above segment might not be present in the archive file due to processing errors
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-06-09 00:48:23 --------------------------
+Titansteel Chest
+From: Groi
+ree
+Source: Level 15 epic Crypt
+--------------- The above segment might not be present in the archive file due to processing errors
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-06-09 00:49:59 --------------------------
+Titansteel Chest
+From: Grozilkree
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:50:01 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:50:03 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:04 --------------------------
+Priest's Chest
+From: Grozilkree
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:50:06 --------------------------
+Infernal Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:08 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:09 --------------------------
+Mayan Chest
+From: Painmoon
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:50:11 --------------------------
+Mayan Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:13 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:50:14 --------------------------
+White Wood Chest
+From: Grozilkree
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:50:16 --------------------------
+Bone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:18 --------------------------
+Infernal Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:19 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:21 --------------------------
+Cobalt Chest
+From: Grozilkree
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:50:23 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:50:24 --------------------------
+Ancient Bastion Chest
+From: Grozilkree
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:50:26 --------------------------
+Mayan Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:28 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 15 Citadel
+--------------- 2023-06-09 00:50:29 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:31 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 10 Citadel
+--------------- 2023-06-09 00:50:33 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:50:34 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:50:36 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:50:38 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:50:40 --------------------------
+Bone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:41 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:50:43 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:50:45 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-06-09 00:50:46 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:50:48 --------------------------
+Bone Chest
+From: doc48
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:49 --------------------------
+Stone Chest
+From: Feli
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:50:51 --------------------------
+Mayan Chest
+From: Sir RES
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:50:53 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:50:54 --------------------------
+Scarab Chest
+From: Sir RES
+Source: Level 20 epic Crypt
+--------------- 2023-06-09 00:50:56 --------------------------
+Rare Dragon Chest
+From: Racibor
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:50:58 --------------------------
+Stone Chest
+From: zipkinci
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:50:59 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-06-09 00:51:01 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 25 rare Crypt
+--------------- 2023-06-09 00:51:03 --------------------------
+Rare Dragon Chest
+From: Racibor
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:51:04 --------------------------
+Barbarian Chest
+From: doc48
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:51:06 --------------------------
+Sand Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-06-09 00:51:08 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 25 rare Crypt
+--------------- 2023-06-09 00:51:09 --------------------------
+Orc Chest
+From: Racibor
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:51:11 --------------------------
+Ancient Bastion Chest
+From: Sir RES
+Source: Level 15 epic Crypt
+--------------- 2023-06-09 00:51:13 --------------------------
+Rare Dragon Chest
+From: Racibor
+Source: Level 20 rare Crypt
+--------------- 2023-06-09 00:51:14 --------------------------
+Orc Chest
+From: doc48
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:51:16 --------------------------
+Infernal Chest
+From: doc48
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:51:18 --------------------------
+Orc Chest
+From: Racibor
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:51:19 --------------------------
+Bone Chest
+From: doc48
+Source: Level 5 Crypt
+--------------- 2023-06-09 00:51:21 --------------------------
+Orc Chest
+From: Racibor
+Source: Level 20 Crypt
+--------------- 2023-06-09 00:51:23 --------------------------
+Rare Dragon Chest
+From: doc48
+Source: Level 10 rare Crypt
+--------------- 2023-06-09 00:51:24 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 30 Citadel
+--------------- 2023-06-09 00:51:26 --------------------------
+Cursed Citadel Chest
+From: Racibor
+Source: Level 20 Citadel
+--------------- 2023-06-09 00:51:28 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 30 Citadel
+--------------- 2023-06-09 00:51:29 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 20 Citadel

@@ -1,0 +1,20 @@
+--------------- 2023-11-17 09:09:40 --------------------------
+Gladiator's Chest
+From: Thoth
+Source: Arena
+--------------- 2023-11-17 09:09:41 --------------------------
+Elven Citadel Chest
+From: Bamsi
+Source: Level 10 Citadel
+--------------- 2023-11-17 09:09:43 --------------------------
+Infernal Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-11-17 09:09:45 --------------------------
+Elven Citadel Chest
+From: Bamsi
+Source: Level 15 Citadel
+--------------- 2023-11-17 09:09:47 --------------------------
+Forgotten Chest
+From: Diovani
+Source: Level 15 Crypt

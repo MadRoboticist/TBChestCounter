@@ -1,0 +1,541 @@
+--------------- 2023-12-28 08:46:30 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:46:32 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:46:34 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:46:36 --------------------------
+Bone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:46:38 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:46:40 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:46:41 --------------------------
+Snowman chest
+From: Marvi
+Source: Snowman
+--------------- 2023-12-28 08:46:43 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:46:45 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-28 08:46:47 --------------------------
+Snowman chest
+From: Thoth
+Source: Snowman
+--------------- 2023-12-28 08:46:49 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:46:50 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:46:52 --------------------------
+Elven Citadel Chest
+From: Mighty Forger
+Source: Level 20 Citadel
+--------------- 2023-12-28 08:46:54 --------------------------
+Snowman chest
+From: Thoth
+Source: Snowman
+--------------- 2023-12-28 08:46:56 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:46:58 --------------------------
+Orc Chest
+From: White Knight
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:47:00 --------------------------
+Snowman chest
+From: Marvilla
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:47:02 --------------------------
+Snowman chest
+From: Hulk
+Source: Snowman
+--------------- 2023-12-28 08:47:03 --------------------------
+Minotaur Chest
+From: Golgotha
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:47:05 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:47:07 --------------------------
+Snowman chest
+From: Gradog
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:47:09 --------------------------
+Bone Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:47:11 --------------------------
+Forgotten Chest
+From: Menelaos
+Source: Level 5 Crypt
+--------------- 2023-12-28 08:47:13 --------------------------
+Bone Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:47:14 --------------------------
+Snowman chest
+From: Golgotha
+Source: Snowman.
+--------------- 2023-12-28 08:47:16 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:47:18 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:47:20 --------------------------
+Snowman chest
+From: Kirimand
+Source: Snowman
+--------------- 2023-12-28 08:47:22 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:47:24 --------------------------
+Snowman chest
+From: White Knight
+Source: Snowman,
+--------------- 2023-12-28 08:47:26 --------------------------
+Snowman chest
+From: Marvi
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:47:27 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:47:29 --------------------------
+Fire Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:47:31 --------------------------
+Snowman chest
+From: Maedrosin
+Source: Snowman
+--------------- 2023-12-28 08:47:33 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-28 08:47:35 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-28 08:47:36 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:47:38 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:47:40 --------------------------
+Bone Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:47:42 --------------------------
+Snowman chest
+From: Hulk
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:47:44 --------------------------
+Gnome Workshop Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:47:45 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:47:47 --------------------------
+Snowman chest
+From: Germanicus
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:47:49 --------------------------
+Forgotten Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:47:51 --------------------------
+Snowman chest
+From: Kirimand
+Source: Snowman
+--------------- 2023-12-28 08:47:53 --------------------------
+Snowman chest
+From: Rhodry
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:47:55 --------------------------
+Forgotten Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:47:56 --------------------------
+Mayan Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:47:58 --------------------------
+Elegant Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:48:00 --------------------------
+Snowman chest
+From: Maedrosin
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:48:02 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:48:04 --------------------------
+Snowman chest
+From: Menelaos
+Source: Snowman
+--------------- 2023-12-28 08:48:06 --------------------------
+Infernal Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:48:08 --------------------------
+Bone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:48:09 --------------------------
+Stone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:48:11 --------------------------
+Snowman chest
+From: Kirimand
+Source: Snowman
+--------------- 2023-12-28 08:48:13 --------------------------
+Trillium Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:48:15 --------------------------
+Forgotten Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:48:17 --------------------------
+Snowman chest
+From: Sir RES
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:48:18 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:48:20 --------------------------
+Gnome Workshop Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:48:22 --------------------------
+Cobra Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:48:24 --------------------------
+Elven Citadel Chest
+From: Maedrosin
+Source: Level 20 Citadel
+--------------- 2023-12-28 08:48:26 --------------------------
+Bone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:48:28 --------------------------
+Snowman chest
+From: Golgotha
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:48:29 --------------------------
+Chest of the Cursed
+From: MADMAN
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:48:31 --------------------------
+Snowman chest
+From: White Knight
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:48:33 --------------------------
+Snowman chest
+From: Sir RES
+Source: Snowman
+--------------- 2023-12-28 08:48:35 --------------------------
+Ancient Bastion Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:48:37 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:48:39 --------------------------
+Scorpion Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:48:41 --------------------------
+Elegant Chest
+From: MADMAN
+Source: Level 15 Crypt
+--------------- 2023-12-28 08:48:42 --------------------------
+Mayan Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2023-12-28 08:48:44 --------------------------
+Priest's Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:48:46 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:48:48 --------------------------
+Snowman chest
+From: Tumitac
+Source: Snowman
+--------------- 2023-12-28 08:48:50 --------------------------
+Bone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:48:52 --------------------------
+Snowman chest
+From: Menelaos
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:48:54 --------------------------
+Harpy Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:48:55 --------------------------
+Orc Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:48:57 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:48:59 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-28 08:49:01 --------------------------
+Scorpion Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:49:03 --------------------------
+Snowman chest
+From: Kirimand
+Source: Snowman
+--------------- 2023-12-28 08:49:05 --------------------------
+Sand Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:49:07 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:49:08 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:49:10 --------------------------
+Barbarian Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:49:12 --------------------------
+Orc Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-28 08:49:14 --------------------------
+Titansteel Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:49:16 --------------------------
+Undead Chest
+From: Bamsi
+Source: Level 16 heroic Monster
+--------------- 2023-12-28 08:49:18 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:49:19 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:49:21 --------------------------
+Priest's Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-28 08:49:23 --------------------------
+Snowman chest
+From: MADMAN
+Source: Snowman
+--------------- 2023-12-28 08:49:25 --------------------------
+Scorpion Chest
+From: here
+Source: Level 15 epic Crypt
+--------------- 2023-12-28 08:49:27 --------------------------
+Snowman chest
+From: Kirimand
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:49:28 --------------------------
+Minotaur Chest
+From: here
+Source: Level 15 epic Crypt
+--------------- 2023-12-28 08:49:30 --------------------------
+Elven Citadel Chest
+From: Thoth
+Source: Level 20 Citadel
+--------------- 2023-12-28 08:49:32 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:49:34 --------------------------
+White Wood Chest
+From: here
+Source: Level 15 epic Crypt
+--------------- 2023-12-28 08:49:36 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:49:38 --------------------------
+Sand Chest
+From: here
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:49:40 --------------------------
+Elven Citadel Chest
+From: Thoth
+Source: Level 20 Citadel
+--------------- 2023-12-28 08:49:41 --------------------------
+Snowman chest
+From: Thoth
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:49:43 --------------------------
+Snowman chest
+From: Diovani
+Source: Snowman
+--------------- 2023-12-28 08:49:45 --------------------------
+Orc Chest
+From: here
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:49:48 --------------------------
+Snowman chest
+From: Diovani
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:49:49 --------------------------
+Orc Chest
+From: here
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:49:51 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:49:53 --------------------------
+Fire Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-12-28 08:49:55 --------------------------
+Snowman chest
+From: Tumitac
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:49:57 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:49:59 --------------------------
+Rare Dragon Chest
+From: here
+Source: Level 20 rare Crypt
+--------------- 2023-12-28 08:50:00 --------------------------
+Snowman chest
+From: Diovani
+Source: Snowman
+--------------- 2023-12-28 08:50:03 --------------------------
+Snowman chest
+From: MADMAN
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:50:05 --------------------------
+Snowman chest
+From: Bamsi
+Source: Christmas Ritual tournament.
+--------------- 2023-12-28 08:50:07 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt
+--------------- 2023-12-28 08:50:08 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:50:10 --------------------------
+Rare Dragon Chest
+From: here
+Source: Level 20 rare Crypt
+--------------- 2023-12-28 08:50:12 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt
+--------------- 2023-12-28 08:50:14 --------------------------
+Rare Dragon Chest
+From: here
+Source: Level 20 rare Crypt
+--------------- 2023-12-28 08:50:16 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt
+--------------- 2023-12-28 08:50:18 --------------------------
+Snowman chest
+From: Bamsi
+Source: Snowman
+--------------- 2023-12-28 08:50:20 --------------------------
+Rare Dragon Chest
+From: here
+Source: Level 20 rare Crypt
+--------------- 2023-12-28 08:50:22 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2023-12-28 08:50:23 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:50:25 --------------------------
+Common Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-28 08:50:27 --------------------------
+Uncommon Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-28 08:50:29 --------------------------
+Rare Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-28 08:50:31 --------------------------
+Epic Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-28 08:50:33 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:50:34 --------------------------
+Mayan Chest
+From: Diovani
+Source: Level 5 Crypt
+--------------- 2023-12-28 08:50:36 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-28 08:50:38 --------------------------
+Elegant Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-12-28 08:50:40 --------------------------

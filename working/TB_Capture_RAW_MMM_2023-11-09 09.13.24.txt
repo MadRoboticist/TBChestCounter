@@ -1,0 +1,400 @@
+--------------- 2023-11-09 09:13:26 --------------------------
+Forgotten Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:13:28 --------------------------
+Barbarian Chest
+From: Lorfanor
+Source: Level 10 Crypt
+--------------- 2023-11-09 09:13:30 --------------------------
+House of Horrors Chest
+From: Tumitac
+Source: Level 20 epic Crypt
+--------------- 2023-11-09 09:13:32 --------------------------
+Bone Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-11-09 09:13:34 --------------------------
+Bone Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:13:36 --------------------------
+Forgotten Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:13:38 --------------------------
+Bone Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:13:39 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-11-09 09:13:41 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-11-09 09:13:43 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-11-09 09:13:45 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:13:47 --------------------------
+Elven Citadel Chest
+From: MADMAN
+Source: Level 20 Citadel
+--------------- 2023-11-09 09:13:49 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-11-09 09:13:50 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:13:52 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt
+--------------- 2023-11-09 09:13:54 --------------------------
+Gnome Workshop Chest
+From: MADMAN
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:13:56 --------------------------
+Sand Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:13:58 --------------------------
+Gnome Workshop Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:13:59 --------------------------
+Fire Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:14:01 --------------------------
+Bone Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:14:03 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:05 --------------------------
+Trillium Chest
+From: Fabrinir
+Source: Level 20 epic Crypt
+--------------- 2023-11-09 09:14:07 --------------------------
+Trillium Chest
+From: Fabrinir
+Source: Level 20 epic Crypt
+--------------- 2023-11-09 09:14:09 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-11-09 09:14:10 --------------------------
+Barbarian Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:14:12 --------------------------
+Elegant Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:14:14 --------------------------
+Rare Dragon Chest
+From: Xan
+Source: Level 10 rare Crypt
+--------------- 2023-11-09 09:14:16 --------------------------
+Barbarian Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-11-09 09:14:18 --------------------------
+Elegant Chest
+From: Lorfanor
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:19 --------------------------
+Bone Chest
+From: Lorfanor
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:21 --------------------------
+Barbarian Chest
+From: Lorfanor
+Source: Level 5 Crypt
+--------------- 2023-11-09 09:14:23 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:25 --------------------------
+Stone Chest
+From: Lorfanor
+Source: Level 5 Crypt
+--------------- 2023-11-09 09:14:27 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 15 Citadel
+--------------- 2023-11-09 09:14:29 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 15 Citadel
+--------------- 2023-11-09 09:14:30 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 15 Citadel
+--------------- 2023-11-09 09:14:32 --------------------------
+Elegant Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:34 --------------------------
+Fire Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-11-09 09:14:36 --------------------------
+Fire Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-11-09 09:14:38 --------------------------
+Elven Citadel Chest
+From: Painmoon
+Source: Level 15 Citadel
+--------------- 2023-11-09 09:14:39 --------------------------
+Elegant Chest
+From: Granidred
+Source: Level 10 Crypt
+--------------- 2023-11-09 09:14:41 --------------------------
+Sand Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:43 --------------------------
+Cobra Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:45 --------------------------
+Infernal Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:47 --------------------------
+Bone Chest
+From; Rudepravo Italiano
+Source: Level 25 Crypt
+--------------- 2023-11-09 09:14:49 --------------------------
+Infernal Chest
+From; Rudepravo Italiano
+Source: Level 5 Crypt
+--------------- 2023-11-09 09:14:51 --------------------------
+Stone Chest
+From; Rudepravo Italiano
+Source: Level 10 Crypt
+--------------- 2023-11-09 09:14:52 --------------------------
+Bone Chest
+From; Rudepravo Italiano
+Source: Level 10 Crypt
+--------------- 2023-11-09 09:14:54 --------------------------
+Rare Dragon Chest
+From; Rudepravo Italiano
+Source: Level 25 rare Crypt
+--------------- 2023-11-09 09:14:56 --------------------------
+Gnome Workshop Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:14:58 --------------------------
+Fire Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-11-09 09:15:00 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:02 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:04 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:06 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:07 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:09 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:11 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:13 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:15 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:17 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:19 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:21 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:23 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:25 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:26 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:28 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:30 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:32 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:34 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:36 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:38 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:40 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:41 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:43 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:45 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:47 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:49 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:51 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:53 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:54 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:56 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:15:58 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:00 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:02 --------------------------
+Golden Guardian Epic Chest
+From: Thorn
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:04 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-11-09 09:16:06 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-11-09 09:16:08 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-11-09 09:16:10 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-11-09 09:16:11 --------------------------
+Quick March Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-11-09 09:16:13 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:15 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:17 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:19 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:21 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:22 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:24 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:26 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:28 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad
+--------------- 2023-11-09 09:16:30 --------------------------
+Golden Guardian Epic Chest
+From: Painmoon
+Source: Epic Ancient squad

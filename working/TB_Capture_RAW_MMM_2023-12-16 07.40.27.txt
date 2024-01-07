@@ -1,0 +1,481 @@
+--------------- 2023-12-16 07:40:32 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 20 rare Crypt
+--------------- 2023-12-16 07:40:34 --------------------------
+Elegant Chest
+From: Maveriel
+Source: Level 10 Crypt
+--------------- 2023-12-16 07:40:36 --------------------------
+Common Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-16 07:40:38 --------------------------
+Uncommon Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-16 07:40:40 --------------------------
+Rare Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-16 07:40:42 --------------------------
+Epic Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-16 07:40:43 --------------------------
+Stone Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:40:45 --------------------------
+Jormungandr's Chest
+From: Bjorn
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:40:47 --------------------------
+Jormungandr's Chest
+From: Bjorn
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:40:49 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 20 rare Crypt
+--------------- 2023-12-16 07:40:51 --------------------------
+Forgotten Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:40:52 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 15 Citadel
+--------------- 2023-12-16 07:40:54 --------------------------
+Forgotten Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:40:56 --------------------------
+Barbarian Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:40:58 --------------------------
+Fire Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:00 --------------------------
+Sand Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:01 --------------------------
+Gnome Workshop Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:03 --------------------------
+Infernal Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:05 --------------------------
+Bone Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:07 --------------------------
+Forgotten Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:08 --------------------------
+Gnome Workshop Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:10 --------------------------
+Barbarian Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:12 --------------------------
+Bone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:14 --------------------------
+Gnome Workshop Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:16 --------------------------
+Bone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:17 --------------------------
+Mayan Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:19 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:21 --------------------------
+Cobra Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:23 --------------------------
+Union Chest
+From: Snowberry
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:25 --------------------------
+Union Chest
+From: Snowberry
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:26 --------------------------
+Union Chest
+From: Snowberry
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:28 --------------------------
+Bone Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:41:30 --------------------------
+Union Chest
+From: Heretical Hermit
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:32 --------------------------
+Union Chest
+From: Heretical Hermit
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:33 --------------------------
+Union Chest
+From: Heretical Hermit
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:35 --------------------------
+Union Chest
+From: Kosti
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:37 --------------------------
+Union Chest
+From: Kosti
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:39 --------------------------
+Union Chest
+From: Kosti
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:41 --------------------------
+Jormungandr's Chest
+From: Heretical Hermit
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:41:42 --------------------------
+Jormungandr's Chest
+From: Heretical Hermit
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:41:44 --------------------------
+Jormungandr's Chest
+From: Heretical Hermit
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:41:46 --------------------------
+Jormungandr's Chest
+From: Heretical Hermit
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:41:48 --------------------------
+Jormungandr's Chest
+From: Heretical Hermit
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:41:50 --------------------------
+Union Chest
+From: Gradog
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:52 --------------------------
+Union Chest
+From: Gradog
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:54 --------------------------
+Union Chest
+From: Gradog
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:55 --------------------------
+Sand Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:41:57 --------------------------
+Union Chest
+From: Germanicus
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:41:59 --------------------------
+Union Chest
+From: Germanicus
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:01 --------------------------
+Union Chest
+From: Germanicus
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:02 --------------------------
+Winter gift
+From: Bjorn
+Source: Winterfest tournament
+--------------- 2023-12-16 07:42:04 --------------------------
+Winter gift
+From: Bjorn
+Source: Winterfest tournament
+--------------- 2023-12-16 07:42:06 --------------------------
+Winter gift
+From: Bjorn
+Source: Winterfest tournament
+--------------- 2023-12-16 07:42:08 --------------------------
+Winter gift
+From: Bjorn
+Source: Winterfest tournament
+--------------- 2023-12-16 07:42:10 --------------------------
+Winter gift
+From: Bjorn
+Source: Winterfest tournament
+--------------- 2023-12-16 07:42:11 --------------------------
+Winter gift
+From: Bjorn
+Source: Winterfest tournament
+--------------- 2023-12-16 07:42:13 --------------------------
+Winter gift
+From: Bjorn
+Source: Winterfest tournament
+--------------- 2023-12-16 07:42:15 --------------------------
+Orc Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:42:18 --------------------------
+Jormungandr's Chest
+From: Amginir
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:42:19 --------------------------
+Jormungandr's Chest
+From: Amginir
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:42:21 --------------------------
+Jormungandr's Chest
+From: Amginir
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:42:23 --------------------------
+Jormungandr's Chest
+From: Amginir
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:42:25 --------------------------
+Barbarian Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:42:26 --------------------------
+Elegant Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:42:28 --------------------------
+Stone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:42:30 --------------------------
+Fire Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-16 07:42:32 --------------------------
+Union Chest
+From: Uhtred
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:33 --------------------------
+Union Chest
+From: Uhtred
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:35 --------------------------
+Union Chest
+From: Uhtred
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:37 --------------------------
+Union Chest
+From: Rhodry
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:39 --------------------------
+Union Chest
+From: Rhodry
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:40 --------------------------
+Union Chest
+From: Rhodry
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:42 --------------------------
+Union Chest
+From: Marvi
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:44 --------------------------
+Union Chest
+From: Marvi
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:46 --------------------------
+Union Chest
+From: Marvi
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:42:47 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:42:49 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:42:51 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:42:53 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:42:54 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:42:56 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:42:58 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:00 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:02 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:04 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:05 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:07 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:09 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:11 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:12 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:14 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:16 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:18 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:19 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:21 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:23 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:25 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:26 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:28 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:30 --------------------------
+Fenrir's Chest
+From: Gradog
+Source: Epic Fenrir squad
+--------------- 2023-12-16 07:43:32 --------------------------
+Winter gift
+From: Amginir
+Source: Winterfest tournament
+--------------- 2023-12-16 07:43:33 --------------------------
+Winter gift
+From: Germanicus
+Source: Winterfest tournament
+--------------- 2023-12-16 07:43:35 --------------------------
+Winter gift
+From: Germanicus
+Source: Winterfest tournament
+--------------- 2023-12-16 07:43:37 --------------------------
+Winter gift
+From: Germanicus
+Source: Winterfest tournament
+--------------- 2023-12-16 07:43:39 --------------------------
+Union Chest
+From: Menelaos
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:43:40 --------------------------
+Union Chest
+From: Menelaos
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:43:42 --------------------------
+Union Chest
+From: Menelaos
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:43:44 --------------------------
+Union Chest
+From: Mr BaCk
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:43:46 --------------------------
+Union Chest
+From: Mr BaCk
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:43:48 --------------------------
+Union Chest
+From: Mr BaCk
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 07:43:49 --------------------------
+Elven Citadel Chest
+From: Vlad the Impaler
+Source: Level 15 Citadel
+--------------- 2023-12-16 07:43:51 --------------------------
+Mayan Chest
+From: Amginir
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:43:53 --------------------------
+Fire Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-16 07:43:55 --------------------------
+Jormungandr's Chest
+From: AlexLeroc
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:43:56 --------------------------
+Jormungandr's Chest
+From: AlexLeroc
+Source: Jormungandr Shop
+--------------- 2023-12-16 07:43:58 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-16 07:44:00 --------------------------
+Forgotten Chest
+From: Vlad the Impaler
+Source: Level 25 Crypt
+--------------- 2023-12-16 07:44:02 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-16 07:44:04 --------------------------
+Winter gift
+From: Germanicus
+Source: Winterfest tournament
+--------------- 2023-12-16 07:44:06 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-16 07:44:07 --------------------------

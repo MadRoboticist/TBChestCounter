@@ -1,0 +1,330 @@
+Barbarian Chest
+From : Modnar
+Source : Level 10 Crypt
+Sand Chest
+From : Modnar
+Source : Level 10 Crypt
+Mayan Chest
+From : Karo
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Jaakarhu
+Source : Level 15 Citadel
+Infernal Chest
+From : Maveriel
+Source : Level 5 Crypt
+Gnome Workshop Chest
+From : Modnar
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Jaakarhu
+Source : Level 15 Citadel
+Forgotten Chest
+From : Modnar
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Jaakarhu
+Source : Level 15 Citadel
+Stone Chest
+From : Modnar
+Source : Level 10 Crypt
+Fire Chest
+From : Modnar
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Jaakarhu
+Source : Level 15 Citadel
+Orc Chest
+From : Vlad the Impaler
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Jaakarhu
+Source : Level 15 Citadel
+Sand Chest
+From : Modnar
+Source : Level 5 Crypt
+Cobra Chest
+From : Maveriel
+Source : Level 5 Crypt
+Cobra Chest
+From : Jaakarhu
+Source : Level 20 Crypt
+Bone Chest
+From : Modnar
+Source : Level 10 Crypt
+Orc Chest
+From : Jaakarhu
+Source : Level 20 Crypt
+Fire Chest
+From : Modnar
+Source : Level 10 Crypt
+Orc Chest
+From : Maveriel
+Source : Level 15 Crypt
+Fire Chest
+From : Maveriel
+Source : Level 5 Crypt
+Orc Chest
+From : Karo
+Source : Level 15 Crypt
+Elegant Chest
+From : Maveriel
+Source : Level 10 Crypt
+Mayan Chest
+From : Maveriel
+Source : Level 10 Crypt
+Orc Chest
+From : Snowberry
+Source : Level 15 Crypt
+Fire Chest
+From : Maveriel
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : TOKUGAWA NOBUNAGA
+Source : Level 10 Citadel
+Infernal Chest
+From : Maveriel
+Source : Level 10 Crypt
+Cobra Chest
+From : Maveriel
+Source : Level 5 Crypt
+Fire Chest
+From : Fosida
+Source : Level 10 Crypt
+Mayan Chest
+From : Maveriel
+Source : Level 5 Crypt
+Orc Chest
+From : Karo
+Source : Level 20 Crypt
+Runic Chest
+From : Kosti
+Source : Lvl 30-34 Raid Runic squad
+Stone Chest
+From : Mighty Forger
+Source : Level 25 Crypt
+Orc Chest
+From : Maveriel
+Source : Level 5 Crypt
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Bone Chest
+From : Maveriel
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Vlad the Impaler
+Source : Level 10 Citadel
+Runic Chest
+From : Fosida
+Source : Lvl 25-29 Raid Runic squad
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Orc Chest
+From : Karo
+Source : Level 20 Crypt
+Barbarian Chest
+From : Mr BaCk
+Source : Level 15 Crypt
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Stone Chest
+From : Mr BaCk
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Painmoon
+Source : Level 15 Citadel
+Orc Chest
+From : Karo
+Source : Level 20 Crypt
+Cobra Chest
+From : Mr BaCk
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Runic Chest
+From : Mighty Forger
+Source : Lvl 25-29 Raid Runic squad
+Rare Dragon Chest
+From : Kosti
+Source : Level 20 rare Crypt
+Rare Dragon Chest
+From : Kosti
+Source : Level 20 rare Crypt
+Rare Dragon Chest
+From : Kosti
+Source : Level 20 rare Crypt
+Elven Citadel Chest
+From : Kosti
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Runic Chest
+From : Germanicus
+Source : Lvl 40-44 Raid Runic squad
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Mabrinad
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Runic Chest
+From : Kosti
+Source : Lvl 40-44 Raid Runic squad
+Bone Chest
+From : Hulk
+Source : Level 25 Crypt
+Sand Chest
+From : Hulk
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Mabrinad
+Source : Level 20 Citadel
+Barbarian Chest
+From : Hulk
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Grikelv
+Source : Level 20 Citadel
+Harpy Chest
+From : Hulk
+Source : Level 15 epic Crypt
+Braided Chest
+From : Hulk
+Source : Level 30 epic Crypt
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Fire Chest
+From : Hulk
+Source : Level 25 Crypt
+Runic Chest
+From : Germanicus
+Source : Lvl 40-44 Raid Runic squad
+Elven Citadel Chest
+From : Mabrinad
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Grikelv
+Source : Level 20 Citadel
+Gnome Workshop Chest
+From : MONTES
+Source : Level 5 Crypt
+Rare Dragon Chest
+From : MONTES
+Source : Level 10 rare Crypt
+Rare Dragon Chest
+From : MONTES
+Source : Level 10 rare Crypt
+Bone Chest
+From : MONTES
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Forgotten Chest
+From : MONTES
+Source : Level 5 Crypt
+Elegant Chest
+From : MONTES
+Source : Level 10 Crypt
+Barbarian Chest
+From : MONTES
+Source : Level 10 Crypt
+Bone Chest
+From : MONTES
+Source : Level 10 Crypt
+Sand Chest
+From : MONTES
+Source : Level 10 Crypt
+Mayan Chest
+From : MONTES
+Source : Level 10 Crypt
+Infernal Chest
+From : MONTES
+Source : Level 10 Crypt
+Forgotten Chest
+From : MONTES
+Source : Level 10 Crypt
+Orc Chest
+From : MONTES
+Source : Level 5 Crypt
+Gnome Workshop Chest
+From : MONTES
+Source : Level 10 Crypt
+Fire Chest
+From : MONTES
+Source : Level 10 Crypt
+Bone Chest
+From : MONTES
+Source : Level 10 Crypt
+Bone Chest
+From : MONTES
+Source : Level 5 Crypt
+Gnome Workshop Chest
+From : MONTES
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Sir RES
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Amginir
+Source : Level 10 Citadel
+Barbarian Chest
+From : MONTES
+Source : Level 5 Crypt
+Gnome Workshop Chest
+From : MONTES
+Source : Level 10 Crypt
+Barbarian Chest
+From : MONTES
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Xan
+Source : Level 10 Citadel
+Mayan Chest
+From : MONTES
+Source : Level 5 Crypt
+Runic Chest
+From : Jaakarhu
+Source : Lvl 35-39 Raid Runic squad
+Orc Chest
+From : MONTES
+Source : Level 5 Crypt
+Gnome Workshop Chest
+From : MONTES
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Sand Chest
+From : MONTES
+Source : Level 5 Crypt
+Rare Dragon Chest
+From : MONTES
+Source : Level 10 rare Crypt
+Orc Chest
+From : MONTES
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Xan
+Source : Level 15 Citadel
+Sand Chest
+From : MONTES
+Source : Level 10 Crypt
+Cobra Chest
+From : MONTES
+Source : Level 5 Crypt
+Infernal Chest
+From : MONTES
+Source : Level 10 Crypt

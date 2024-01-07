@@ -1,0 +1,240 @@
+--------------- 2023-11-07 15:54:37 --------------------------
+Orc Chest
+From: Braveheart
+Source: Level 5 Crypt
+--------------- 2023-11-07 15:54:38 --------------------------
+Mayan Chest
+From: Gradog
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:54:40 --------------------------
+Bone Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:54:42 --------------------------
+Bone Chest
+From: Gradog
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:54:44 --------------------------
+Stone Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-11-07 15:54:46 --------------------------
+Sand Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:54:47 --------------------------
+Bone Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-11-07 15:54:49 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:54:51 --------------------------
+Mayan Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-11-07 15:54:52 --------------------------
+Orc Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:54:54 --------------------------
+Orc Chest
+From: idaco
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:54:56 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-07 15:54:58 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:54:59 --------------------------
+Union Chest
+From: Gradog
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:01 --------------------------
+Union Chest
+From: Gradog
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:03 --------------------------
+Union Chest
+From: Gradog
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:05 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-07 15:55:07 --------------------------
+Orc Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-07 15:55:09 --------------------------
+Sapphire Chest
+From: Feli
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-11-07 15:55:10 --------------------------
+Sapphire Chest
+From: Feli
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-11-07 15:55:12 --------------------------
+Stone Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:55:14 --------------------------
+Sapphire Chest
+From: Karodor
+Source: Level 40-44 Vault of the Ancients
+--------------- 2023-11-07 15:55:16 --------------------------
+Fire Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:55:18 --------------------------
+Gladiator's Chest
+From: Mabrinad
+Source: Arena
+--------------- 2023-11-07 15:55:19 --------------------------
+Forgotten Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:55:21 --------------------------
+Gnome Workshop Chest
+From: NEVIO
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:55:23 --------------------------
+Union Chest
+From: MADMAN
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:25 --------------------------
+Union Chest
+From: MADMAN
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:27 --------------------------
+Union Chest
+From: MADMAN
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:28 --------------------------
+Gnome Workshop Chest
+From: NEVIO
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:55:30 --------------------------
+Sapphire Chest
+From: Karodor
+Source: Level 40-44 Vault of the Ancients
+--------------- 2023-11-07 15:55:32 --------------------------
+Stone Chest
+From: NEVIO
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:55:34 --------------------------
+Sapphire Chest
+From: Karodor
+Source: Level 40-44 Vault of the Ancients
+--------------- 2023-11-07 15:55:37 --------------------------
+Gnome Workshop Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-11-07 15:55:39 --------------------------
+Orc Chest
+From: Rhodorix
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:55:41 --------------------------
+Abandoned Chest
+From: Kerilir
+Source: Level 20 epic Crypt
+--------------- 2023-11-07 15:55:42 --------------------------
+Sand Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-11-07 15:55:44 --------------------------
+Sapphire Chest
+From: Karodor
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-11-07 15:55:46 --------------------------
+Sand Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-11-07 15:55:48 --------------------------
+Forgotten Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:55:50 --------------------------
+Mayan Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:55:52 --------------------------
+Forgotten Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:55:54 --------------------------
+Union Chest
+From: NEVIO
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:55 --------------------------
+Union Chest
+From: NEVIO
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:57 --------------------------
+Union Chest
+From: NEVIO
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:55:59 --------------------------
+Orc Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:56:01 --------------------------
+Cobra Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:56:03 --------------------------
+Bone Chest
+From: Darvenen
+Source: Level 5 Crypt
+--------------- 2023-11-07 15:57:36 --------------------------
+Sapphire Chest
+From: Karodor
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-11-07 15:57:37 --------------------------
+Barbarian Chest
+From: Darvenen
+Source: Level 5 Crypt
+--------------- 2023-11-07 15:57:39 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 15 Citadel
+--------------- 2023-11-07 15:57:41 --------------------------
+Union Chest
+From: Fabrinir
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:57:43 --------------------------
+Union Chest
+From: Fabrinir
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:57:44 --------------------------
+Union Chest
+From: Fabrinir
+Source: Union of Triumph personal reward
+--------------- 2023-11-07 15:57:46 --------------------------
+Gladiator's Chest
+From: Kerilir
+Source: Arena
+--------------- 2023-11-07 15:57:48 --------------------------
+Forgotten Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-11-07 15:57:50 --------------------------
+Mayan Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-11-07 15:57:51 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 15 Citadel
+--------------- 2023-11-07 15:57:53 --------------------------
+Stone Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-11-07 15:57:55 --------------------------
+Sand Chest
+From: Feli
+Source: Level 25 Crypt

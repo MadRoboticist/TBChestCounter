@@ -1,0 +1,400 @@
+--------------- 2023-06-05 19:25:20 --------------------------
+Sand Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:25:22 --------------------------
+Mayan Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:25:23 --------------------------
+Stone Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:25 --------------------------
+Fire Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:25:27 --------------------------
+Gnome Workshop Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:25:29 --------------------------
+Infernal Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:31 --------------------------
+Elegant Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:32 --------------------------
+Mayan Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:25:34 --------------------------
+Elegant Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:36 --------------------------
+Cobra Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:38 --------------------------
+Stone Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:40 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-05 19:25:41 --------------------------
+Fire Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:43 --------------------------
+Sand Chest
+From: Logan
+Source: Level 25 Crypt
+--------------- 2023-06-05 19:25:45 --------------------------
+Forgotten Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:25:47 --------------------------
+Cobra Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:25:49 --------------------------
+Gnome Workshop Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:25:51 --------------------------
+Elegant Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:52 --------------------------
+Bone Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:25:54 --------------------------
+Gnome Workshop Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:25:56 --------------------------
+Infernal Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:25:58 --------------------------
+Fire Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:26:00 --------------------------
+Gnome Workshop Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:02 --------------------------
+Abandoned Chest
+From: D23
+Source: Level 20 epic Crypt
+--------------- 2023-06-05 19:26:04 --------------------------
+Gnome Workshop Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:26:06 --------------------------
+Forgotten Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:08 --------------------------
+Barbarian Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:26:09 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 15 Citadel
+--------------- 2023-06-05 19:26:11 --------------------------
+Stone Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:26:13 --------------------------
+Infernal Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:15 --------------------------
+Forgotten Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:26:17 --------------------------
+Sand Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:19 --------------------------
+Gnome Workshop Chest
+From: Logan
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:26:21 --------------------------
+Barbarian Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:26:23 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 15 rare Crypt
+--------------- 2023-06-05 19:26:25 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:26 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:28 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 15 Citadel
+--------------- 2023-06-05 19:26:30 --------------------------
+Orc Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:32 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:35 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:37 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 15 Citadel
+--------------- 2023-06-05 19:26:38 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:40 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:42 --------------------------
+Cobra Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:45 --------------------------
+Fire Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-06-05 19:26:47 --------------------------
+Merchant's Chest
+From: Conjudred
+Source: Mercenary Exchange
+--------------- 2023-06-05 19:26:48 --------------------------
+Merchant's Chest
+From: Tumitac
+Source: Mercenary Exchange
+--------------- 2023-06-05 19:26:50 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:52 --------------------------
+Cobra Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:54 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-05 19:26:56 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:26:58 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 15 rare Crypt
+--------------- 2023-06-05 19:26:59 --------------------------
+Orc Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:27:01 --------------------------
+Cobra Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:27:03 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-05 19:27:05 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-05 19:27:07 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:09 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:11 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:13 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:15 --------------------------
+Quick March Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:17 --------------------------
+Forgotten Chest
+From: Granidred
+Source: Level 10 Crypt
+--------------- 2023-06-05 19:27:19 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:20 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:22 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:24 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:26 --------------------------
+Ancients’ Chest
+From: Tumitac
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:28 --------------------------
+Ancients’ Chest
+From: Tumitac
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:30 --------------------------
+Ancients’ Chest
+From: Tumitac
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:32 --------------------------
+Ancients’ Chest
+From: Tumitac
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:33 --------------------------
+Quick March Chest
+From: Tumitac
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:36 --------------------------
+Ancients’ Chest
+From: Conjudred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:38 --------------------------
+Ancients’ Chest
+From: Conjudred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:40 --------------------------
+Ancients’ Chest
+From: Conjudred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:42 --------------------------
+Ancients’ Chest
+From: Conjudred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:44 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:46 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:48 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:50 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:52 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:54 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:56 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:27:58 --------------------------
+Ancients’ Chest
+From: idaco
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:00 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:02 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:03 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:05 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:08 --------------------------
+Quick March Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:10 --------------------------
+Quick March Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:12 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:14 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:17 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:19 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:21 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:23 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:25 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:27 --------------------------
+Ancients’ Chest
+From: Granidred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:30 --------------------------
+Quick March Chest
+From: Conjudred
+Source: Rise of the Ancients event
+--------------- 2023-06-05 19:28:31 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event

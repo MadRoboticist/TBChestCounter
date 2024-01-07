@@ -1,0 +1,30 @@
+Stone Chest
+From : Thoth
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Brandemet
+Source : Level 25 Citadel
+Orc Chest
+From : Rexfury
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : Feli
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : Feli
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Feli
+Source : Level 20 Citadel
+Barbarian Chest
+From : Felharne
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Brandemet
+Source : Level 30 Citadel
+Gnome Workshop Chest
+From : Bjorn
+Source : Level 15 Crypt
+Barbarian Chest
+From : Feli
+Source : Level 25 Crypt

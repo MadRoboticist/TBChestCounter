@@ -1,0 +1,4800 @@
+--------------- 2023-12-03 13:23:21 --------------------------
+Gladiator's Chest
+From: Sir RES
+Source: Arena
+--------------- 2023-12-03 13:23:22 --------------------------
+Scarab Chest
+From: Sir Cthulhu |
+Source: Level 25 epic Crypt
+--------------- 2023-12-03 13:23:24 --------------------------
+Fire Chest
+From: DAJMITU
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:23:25 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:23:27 --------------------------
+Forgotten Chest
+From: Sir Cthulhu |
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:23:29 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 10 rare Crypt
+--------------- 2023-12-03 13:23:30 --------------------------
+Harpy Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:23:32 --------------------------
+Gnome Workshop Chest
+From: DAJMITU
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:23:34 --------------------------
+Elegant Chest
+From: Sir Cthulhu |
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:23:35 --------------------------
+Elegant Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-03 13:23:37 --------------------------
+Titansteel Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:23:39 --------------------------
+Minotaur Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:23:40 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:23:42 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:23:44 --------------------------
+Stone Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:23:45 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:23:47 --------------------------
+Scorpion Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:23:49 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:23:50 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:23:52 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:23:54 --------------------------
+Cobalt Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:23:55 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:23:57 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:23:59 --------------------------
+Priest's Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:24:00 --------------------------
+Bone Chest
+From: Mighty Forger
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:02 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:24:04 --------------------------
+Forgotten Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:24:05 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:24:07 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:24:09 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:24:10 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 20 rare Crypt
+--------------- 2023-12-03 13:24:12 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:24:14 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:24:15 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:24:17 --------------------------
+Mayan Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:24:19 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 15 rare Crypt
+--------------- 2023-12-03 13:24:20 --------------------------
+White Wood Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-03 13:24:22 --------------------------
+Gladiator's Chest
+From: DAJMITU
+Source: Arena
+--------------- 2023-12-03 13:24:24 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:24:25 --------------------------
+Harpy Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-03 13:24:27 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 15 rare Crypt
+--------------- 2023-12-03 13:24:28 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-12-03 13:24:30 --------------------------
+Trillium Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-03 13:24:32 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:24:33 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:24:35 --------------------------
+Fire Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:37 --------------------------
+Stone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:38 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:24:40 --------------------------
+Barbarian Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:41 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:24:43 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:24:45 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:24:47 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:48 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-12-03 13:24:50 --------------------------
+Fire Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:51 --------------------------
+Orc Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:53 --------------------------
+Sand Chest
+From: DAJMITU
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:24:55 --------------------------
+Fire Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:24:56 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:24:58 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:25:00 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:25:01 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:25:03 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-12-03 13:25:04 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:06 --------------------------
+Elven Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:25:08 --------------------------
+Fire Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:25:09 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:25:11 --------------------------
+Cobalt Chest
+From: Granidred
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:25:13 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:14 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:25:16 --------------------------
+Elegant Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:25:18 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:25:19 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:21 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:22 --------------------------
+Elegant Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:25:24 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:25:26 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:27 --------------------------
+Barbarian Chest
+From: Sir Cthulhu |
+Source: Level 25 epic Crypt
+--------------- 2023-12-03 13:25:29 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:31 --------------------------
+Elegant Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:25:32 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:34 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:36 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:25:37 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:39 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:41 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:42 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:44 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:25:46 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:25:47 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:25:49 --------------------------
+Cobra Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:25:51 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:25:52 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:25:54 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:25:56 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:25:57 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:25:59 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:26:01 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:26:02 --------------------------
+Ancient Warrior's Chest
+From: Brandemet
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:26:04 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:26:06 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:26:07 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:26:09 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:26:10 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:26:12 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:26:14 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:26:15 --------------------------
+Titansteel Chest
+From: Brandemet
+Source: Level 20 epic Crypt
+--------------- 2023-12-03 13:26:17 --------------------------
+Gnome Workshop Chest
+From: Foxhunter
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:26:19 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:26:20 --------------------------
+Bone Chest
+From: Foxhunter
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:26:22 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:26:24 --------------------------
+Bone Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:26:25 --------------------------
+Infernal Chest
+From: Foxhunter
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:26:27 --------------------------
+Orc Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:26:28 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:26:30 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:26:32 --------------------------
+Bone Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:26:33 --------------------------
+Sand Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:26:35 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:26:37 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:26:38 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:26:40 --------------------------
+Infernal Chest
+From: Braveheart JNR
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:26:42 --------------------------
+Rare Dragon Chest
+From: Foxhunter
+Source: Level 20 rare Crypt
+--------------- 2023-12-03 13:26:43 --------------------------
+Barbarian Chest
+From: Braveheart JNR
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:26:45 --------------------------
+Ancient Bastion Chest
+From: Brandemet
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:26:47 --------------------------
+Elven Citadel Chest
+From: Braveheart JNR
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:26:48 --------------------------
+Infernal Chest
+From: Braveheart JNR
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:26:50 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:26:52 --------------------------
+Orc Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:26:53 --------------------------
+Elegant Chest
+From: Braveheart JNR
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:26:55 --------------------------
+Barbarian Chest
+From: Braveheart JNR
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:26:57 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:26:58 --------------------------
+Elven Citadel Chest
+From: Braveheart JNR
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:27:00 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:27:02 --------------------------
+Mayan Chest
+From: Braveheart JNR
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:27:03 --------------------------
+Common Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-12-03 13:27:05 --------------------------
+Uncommon Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-12-03 13:27:07 --------------------------
+Rare Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-12-03 13:27:08 --------------------------
+Epic Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-12-03 13:27:10 --------------------------
+Elven Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:11 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:13 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:15 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-03 13:27:16 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:18 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:27:20 --------------------------
+Merchant's Chest
+From: Masius
+Source: Mercenary Exchange
+--------------- 2023-12-03 13:27:21 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:27:23 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:25 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:27:26 --------------------------
+Cobra Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:27:28 --------------------------
+Cobalt Chest
+From: Masius
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:27:30 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:31 --------------------------
+Elven Citadel Chest
+From: Masius
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:27:33 --------------------------
+Stone Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:27:35 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:36 --------------------------
+Cobra Chest
+From: Masius
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:27:38 --------------------------
+Elven Citadel Chest
+From: Masius
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:27:40 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:41 --------------------------
+Rare Dragon Chest
+From: Masius
+Source: Level 15 rare Crypt
+--------------- 2023-12-03 13:27:43 --------------------------
+Fire Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:27:45 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:46 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:27:48 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:27:50 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:27:51 --------------------------
+Barbarian Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:27:53 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:27:55 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:27:56 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:27:58 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:00 --------------------------
+Barbarian Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:28:01 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:03 --------------------------
+Barbarian Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:28:05 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:06 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:08 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:09 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:11 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:13 --------------------------
+Merchant's Chest
+From: Painmoon
+Source: Mercenary Exchange
+--------------- 2023-12-03 13:28:14 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:28:16 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:18 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:19 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:21 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:23 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:24 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:28:26 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:28:28 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:29 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:28:31 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:33 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:28:34 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:36 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:38 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:39 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:41 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:43 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:44 --------------------------
+Elven Citadel Chest
+From: Thoth
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:46 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:28:48 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:28:49 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:51 --------------------------
+Elven Citadel Chest
+From: Thoth
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:28:53 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:28:54 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 20 rare Crypt
+--------------- 2023-12-03 13:28:56 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:58 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:28:59 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:29:01 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:29:03 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:04 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:29:06 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:29:08 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:29:09 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:11 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:29:13 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:14 --------------------------
+Barbarian Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:29:16 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:18 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:29:19 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:29:21 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:29:22 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:29:24 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:29:26 --------------------------
+Mayan Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:29:27 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:29 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:29:31 --------------------------
+Barbarian Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:29:32 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:29:34 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:29:36 --------------------------
+Elegant Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:29:37 --------------------------
+Minotaur Chest
+From: Braveheart
+Source: Level 25 epic Crypt
+--------------- 2023-12-03 13:29:39 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:41 --------------------------
+Minotaur Chest
+From: Braveheart
+Source: Level 25 epic Crypt
+--------------- 2023-12-03 13:29:43 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-03 13:29:44 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:46 --------------------------
+Elegant Chest
+From: Raya
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:29:47 --------------------------
+Barbarian Chest
+From: Lorfanor
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:29:49 --------------------------
+Rare Dragon Chest
+From: Braveheart
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:29:51 --------------------------
+Cobra Chest
+From: Lorfanor
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:29:52 --------------------------
+Rare Dragon Chest
+From: Braveheart
+Source: Level 25 rare Crypt
+--------------- 2023-12-03 13:29:54 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:29:56 --------------------------
+Rare Dragon Chest
+From: Braveheart
+Source: Level 20 rare Crypt
+--------------- 2023-12-03 13:29:57 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:29:59 --------------------------
+Rare Dragon Chest
+From: Braveheart
+Source: Level 20 rare Crypt
+--------------- 2023-12-03 13:30:01 --------------------------
+Sand Chest
+From: Raya
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:30:02 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:30:04 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:30:06 --------------------------
+Merchant's Chest
+From: Fosida
+Source: Mercenary Exchange
+--------------- 2023-12-03 13:30:07 --------------------------
+Bone Chest
+From: Raya
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:30:09 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:30:11 --------------------------
+Cobra Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:30:12 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:30:14 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:30:16 --------------------------
+Rare Dragon Chest
+From: Raya
+Source: Level 10 rare Crypt
+--------------- 2023-12-03 13:30:17 --------------------------
+Rare Dragon Chest
+From: Kosti
+Source: Level 20 rare Crypt
+--------------- 2023-12-03 13:30:19 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 10 rare Crypt
+--------------- 2023-12-03 13:30:21 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-03 13:30:22 --------------------------
+Rare Dragon Chest
+From: Raya
+Source: Level 20 rare Crypt
+--------------- 2023-12-03 13:30:24 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:30:25 --------------------------
+Orc Chest
+From: Racibor
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:30:27 --------------------------
+Orc Chest
+From: AlexLeroc
+Source: Level 15 Crypt
+--------------- 2023-12-03 13:30:29 --------------------------
+Elven Citadel Chest
+From: Mal
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:30:30 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:32 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:34 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:35 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:37 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:38 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:40 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:42 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:43 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:45 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:47 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:48 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:50 --------------------------
+Quick March Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:52 --------------------------
+Quick March Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:53 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:55 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:57 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:30:58 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:00 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:02 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:03 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:05 --------------------------
+Ancients’ Chest
+From: Masius
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:07 --------------------------
+Quick March Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:08 --------------------------
+Quick March Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:10 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:12 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:13 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:15 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:16 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:18 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:20 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:21 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:23 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:25 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:26 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:28 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:30 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:31 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:33 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:35 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:36 --------------------------
+Quick March Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:38 --------------------------
+Ancients’ Chest
+From: Sir Cthulhu |
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:39 --------------------------
+Ancients’ Chest
+From: Sir Cthulhu |
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:41 --------------------------
+Ancients’ Chest
+From: Sir Cthulhu |
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:43 --------------------------
+Ancients’ Chest
+From: Sir Cthulhu |
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:31:44 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:46 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:48 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:50 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:51 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:53 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:55 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:56 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:58 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:31:59 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:01 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:03 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:04 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:06 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:08 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:09 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:11 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:13 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:14 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:16 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:18 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:19 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:21 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:23 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:24 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:26 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:28 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:29 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:31 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:33 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:34 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:36 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:38 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:39 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:41 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:43 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:44 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:46 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:48 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:50 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:51 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:53 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:55 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:56 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:32:58 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:00 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:01 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:03 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:05 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:06 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:08 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:10 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:11 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:13 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:15 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:16 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:18 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:20 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:22 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:23 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:25 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:26 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:28 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:30 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:32 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:33 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:35 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:37 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:38 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:40 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:42 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:43 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:45 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:47 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:48 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:50 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:52 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:53 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:55 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:57 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:33:58 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:00 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:02 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:03 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:05 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:07 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:08 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:10 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:12 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:13 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:15 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:17 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:18 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:20 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:22 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:23 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:25 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:27 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:28 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:30 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:32 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:33 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:35 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:36 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:38 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:40 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:41 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:43 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:45 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:47 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:48 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:50 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:52 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:53 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:55 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:57 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:34:59 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:00 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:02 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:04 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:05 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:07 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:09 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:10 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:12 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:14 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:15 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:17 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:19 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:20 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:22 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:24 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:25 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:27 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:29 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:30 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:32 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:34 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:35 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:37 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:39 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:40 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:42 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:44 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:45 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:47 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:49 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:50 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:52 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:54 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:55 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:57 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:35:59 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:00 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:02 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:04 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:06 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:07 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:09 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:11 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:12 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:14 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:16 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:17 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:19 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:21 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:22 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:24 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:26 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:28 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:29 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:31 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:33 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:34 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:36 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:38 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:39 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:41 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:43 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:44 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:46 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:48 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:49 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:51 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:53 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:54 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:56 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:58 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:36:59 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:01 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:03 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:05 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:06 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:08 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:10 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:11 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:13 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:15 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:16 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:18 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:20 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:21 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:23 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:25 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:27 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:28 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:30 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:32 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:33 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:35 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:37 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:38 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:40 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:42 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:43 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:45 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:47 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:48 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:50 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:52 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:54 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:55 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:57 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:37:59 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:00 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:02 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:04 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:05 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:07 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:09 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:10 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:12 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:14 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:16 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:17 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:19 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:21 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:22 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:24 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:26 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:27 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:29 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:31 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:32 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:34 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:36 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:38 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:39 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:41 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:43 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:44 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:46 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:48 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:50 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:51 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:53 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:55 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:56 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:38:58 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:00 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:02 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:03 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:05 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:07 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:08 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:10 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:12 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:13 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:15 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:17 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:18 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:20 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:22 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:23 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:25 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:27 --------------------------
+Golden Guardian Epic Chest
+From: Fabrinir
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:39:28 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:30 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:32 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:33 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:35 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:36 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:38 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:40 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:41 --------------------------
+Quick March Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:43 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:45 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:47 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:48 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:50 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:52 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:53 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:55 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:57 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:39:58 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:00 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:02 --------------------------
+Ancients’ Chest
+From: Gradog
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:03 --------------------------
+Quick March Chest
+From: Thoth
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:05 --------------------------
+Ancients’ Chest
+From: Mal
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:07 --------------------------
+Ancients’ Chest
+From: Mal
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:08 --------------------------
+Ancients’ Chest
+From: Mal
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:10 --------------------------
+Ancients’ Chest
+From: Mal
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:12 --------------------------
+White Wood Chest
+From: Brandemet
+Source: Level 15 epic Crypt
+--------------- 2023-12-03 13:40:13 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:15 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:17 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:18 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:20 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:22 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:23 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:25 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:27 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:28 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:30 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:32 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:33 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:35 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:37 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:38 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:40 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:42 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:43 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:45 --------------------------
+Ancients’ Chest
+From: Maximus Decimus
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:47 --------------------------
+Elven Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Citadel
+--------------- 2023-12-03 13:40:48 --------------------------
+Quick March Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:50 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:52 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:53 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:55 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:56 --------------------------
+Quick March Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:40:58 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:00 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:01 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:03 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:05 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:06 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:08 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:10 --------------------------
+Ancients’ Chest
+From: doc48
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:11 --------------------------
+Quick March Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:13 --------------------------
+Quick March Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:15 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:16 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:18 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:19 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:21 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:23 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:24 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:26 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:28 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:29 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:31 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:32 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:34 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:36 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:37 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:39 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:41 --------------------------
+Barbarian Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:41:42 --------------------------
+Quick March Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:44 --------------------------
+Sand Chest
+From: Racibor
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:41:46 --------------------------
+Ancients’ Chest
+From: Raya
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:47 --------------------------
+Ancients’ Chest
+From: Raya
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:49 --------------------------
+Ancients’ Chest
+From: Raya
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:51 --------------------------
+Ancients’ Chest
+From: Raya
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:52 --------------------------
+Ancients’ Chest
+From: Heimdall
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:54 --------------------------
+Ancients’ Chest
+From: Heimdall
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:56 --------------------------
+Ancients’ Chest
+From: Heimdall
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:57 --------------------------
+Ancients’ Chest
+From: Heimdall
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:41:59 --------------------------
+Quick March Chest
+From: Sir Cthulhu |
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:42:01 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:02 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:04 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:05 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:07 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:09 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:10 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:12 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:14 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:15 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:17 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:19 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:21 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:22 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:24 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:26 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:27 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:29 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:31 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:32 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:34 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:36 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:37 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:39 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:41 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:42 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:44 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:46 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:47 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:49 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:51 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:53 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:54 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:56 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:57 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:42:59 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:01 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:02 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:04 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:06 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:08 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:09 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:11 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:13 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:14 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:16 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:18 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:19 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:21 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:23 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:24 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:26 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:28 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:29 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:31 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:33 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:34 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:36 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:38 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:39 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:41 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:43 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:44 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:46 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:48 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:49 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:51 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:53 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:55 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:56 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:43:58 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:00 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:01 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:03 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:04 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:06 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:08 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:09 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:11 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:13 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:14 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:16 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:18 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:19 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:21 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:23 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:24 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:26 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:28 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:29 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:31 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:33 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:34 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:36 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:38 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:39 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:41 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:43 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:44 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:46 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:48 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:50 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:51 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:53 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:55 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:57 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:44:58 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:00 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:02 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:04 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:06 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:07 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:09 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:11 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:13 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:14 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:16 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:18 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:20 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:21 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:23 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:25 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:26 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:28 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:30 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:31 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:33 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:35 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:36 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:38 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:40 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:42 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:43 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:45 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:47 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:48 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:50 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:52 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:53 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:55 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:57 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:45:58 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:00 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:02 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:03 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:05 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:07 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:08 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:10 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:12 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:13 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:15 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:17 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:18 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:21 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:23 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:25 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:27 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:29 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:30 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:32 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:34 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:35 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:37 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:39 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:40 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:42 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:44 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:45 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:47 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:49 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:50 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:52 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:54 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:55 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:57 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:46:59 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:00 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:02 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:04 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:06 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:07 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:09 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:11 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:12 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:14 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:16 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:17 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:19 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:21 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:22 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:24 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:26 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:27 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:29 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:31 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:32 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:34 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:36 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:37 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:39 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:41 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:42 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:44 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:46 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:48 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:49 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:51 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:53 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:55 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:56 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:58 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:47:59 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:01 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:03 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:05 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:06 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:08 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:10 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:11 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:13 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:15 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:16 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:18 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:20 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:21 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:23 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:25 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:26 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:28 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:30 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:31 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:33 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:35 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:36 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:38 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:40 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:41 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:43 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:45 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:46 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:48 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:50 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:51 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:53 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:55 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:57 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:48:58 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:00 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:02 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:03 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:05 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:07 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:08 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:10 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:12 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:13 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:15 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:17 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:18 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:20 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:22 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:23 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:25 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:27 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:28 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:30 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:32 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:33 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:35 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:37 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:38 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:40 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:42 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:44 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:45 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:48 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:50 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:52 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:53 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:55 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:57 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:49:58 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:00 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:02 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:03 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:05 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:07 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:08 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:10 --------------------------
+Golden Guardian Epic Chest
+From: DAJMITU
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:50:12 --------------------------
+Quick March Chest
+From: Brandemet
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:13 --------------------------
+Ancients’ Chest
+From: MADMAN
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:15 --------------------------
+Ancients’ Chest
+From: MADMAN
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:16 --------------------------
+Ancients’ Chest
+From: MADMAN
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:18 --------------------------
+Ancients’ Chest
+From: MADMAN
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:20 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:21 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:23 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:25 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:26 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:28 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:30 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:31 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:33 --------------------------
+Quick March Chest
+From: Raya
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:34 --------------------------
+House of Horrors Chest
+From: Vlad the Impaler
+Source: Level 20 epic Crypt
+--------------- 2023-12-03 13:50:36 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:38 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:39 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:41 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:43 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:44 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:46 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:48 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:49 --------------------------
+Orc Chest
+From: Racibor
+Source: Level 25 Crypt
+--------------- 2023-12-03 13:50:51 --------------------------
+Ancients’ Chest
+From: Racibor
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:53 --------------------------
+Ancients’ Chest
+From: Racibor
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:54 --------------------------
+Ancients’ Chest
+From: Racibor
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:56 --------------------------
+Ancients’ Chest
+From: Racibor
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:57 --------------------------
+Quick March Chest
+From: Racibor
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:50:59 --------------------------
+Quick March Chest
+From: Heimdall
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:01 --------------------------
+Quick March Chest
+From: Mal
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:02 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:04 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:06 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:07 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:09 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:11 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:12 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:14 --------------------------
+Ancients’ Chest
+From: Kosti
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:16 --------------------------
+Ancients’ Chest
+From: Tha Supreme
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:17 --------------------------
+Ancients’ Chest
+From: Tha Supreme
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:19 --------------------------
+Ancients’ Chest
+From: Tha Supreme
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:21 --------------------------
+Ancients’ Chest
+From: Tha Supreme
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:22 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:24 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:26 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:27 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:29 --------------------------
+Barbarian Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-03 13:51:30 --------------------------
+Cursed Citadel Chest
+From: Sir Cthulhu |
+Source: Level 20 Citadel
+--------------- 2023-12-03 13:51:32 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:34 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:35 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:37 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:39 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:40 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:42 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:44 --------------------------
+Ancients’ Chest
+From: DAJMITU
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:45 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 10 Crypt
+--------------- 2023-12-03 13:51:47 --------------------------
+Quick March Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:49 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:50 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:52 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:54 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:55 --------------------------
+Quick March Chest
+From: Tha Supreme
+Source: Rise of the Ancients event
+--------------- 2023-12-03 13:51:57 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:51:59 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:00 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:02 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:04 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:05 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:07 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:09 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:10 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:12 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:14 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:15 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:17 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:19 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:21 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:22 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:24 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:25 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:27 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:29 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:30 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:32 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:34 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:35 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:37 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:39 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:40 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:42 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:44 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:45 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:47 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:49 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:50 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:52 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:54 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:56 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:57 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:52:59 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:01 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:02 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:04 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:06 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:07 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:09 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:10 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:12 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:14 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:15 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:17 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:19 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:20 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:22 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:24 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:25 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:27 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:29 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:30 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:32 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:34 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:35 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:37 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:39 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:40 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:42 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:44 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:45 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:47 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:49 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:50 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:52 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:54 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:55 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:57 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:53:59 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:00 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:02 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:04 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:05 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:07 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:09 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:10 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:12 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:14 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:15 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:17 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:19 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:20 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:22 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:24 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:25 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:27 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:29 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:30 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:32 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:33 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:35 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:37 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:38 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:40 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:42 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:43 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:45 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:47 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:49 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:50 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:52 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:54 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:55 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:57 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:54:59 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:00 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:02 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:04 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:05 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:07 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:09 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:10 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:12 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:13 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:15 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:17 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:18 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:20 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:22 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:23 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:25 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:27 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:28 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:30 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:32 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:33 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:35 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:37 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:38 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:40 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:42 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:43 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:45 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:47 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:48 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:50 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:52 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:53 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:55 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:57 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:55:58 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:00 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:02 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:04 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:05 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:07 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:08 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:10 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:12 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:14 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:15 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:17 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:19 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:20 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:22 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:24 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:25 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:27 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:28 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:30 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:32 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:33 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:35 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:37 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:38 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:40 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:42 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad
+--------------- 2023-12-03 13:56:43 --------------------------
+Golden Guardian Epic Chest
+From: Fosida
+Source: Epic Ancient squad

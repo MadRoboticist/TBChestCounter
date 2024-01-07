@@ -1,0 +1,240 @@
+--------------- 2023-12-03 09:27:58 --------------------------
+Gnome Workshop Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:28:01 --------------------------
+Fire Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-12-03 09:28:02 --------------------------
+Rare Dragon Chest
+From: Grikelv
+Source: Level 15 rare Crypt
+--------------- 2023-12-03 09:28:04 --------------------------
+Infernal Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-12-03 09:28:06 --------------------------
+Bone Chest
+From: Kit Carson
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:28:08 --------------------------
+Elegant Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:28:10 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 09:28:12 --------------------------
+Infernal Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:28:14 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:16 --------------------------
+Orc Chest
+From: Kit Carson
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:28:18 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:20 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:21 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:23 --------------------------
+Infernal Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2023-12-03 09:28:25 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 09:28:27 --------------------------
+Mayan Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-12-03 09:28:29 --------------------------
+Barbarian Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-12-03 09:28:31 --------------------------
+Bone Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:28:33 --------------------------
+Bone Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-12-03 09:28:35 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:37 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:28:39 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:40 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:28:42 --------------------------
+Bone Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-03 09:28:44 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:46 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:48 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2023-12-03 09:28:50 --------------------------
+Orc Chest
+From: Kit Carson
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:28:52 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:54 --------------------------
+Mayan Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:28:56 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:28:58 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:28:59 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:01 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 09:29:03 --------------------------
+Ancient Warrior's Chest
+From: Brandemet
+Source: Level 25 epic Crypt
+--------------- 2023-12-03 09:29:05 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 10 rare Crypt
+--------------- 2023-12-03 09:29:07 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:09 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-12-03 09:29:11 --------------------------
+Barbarian Chest
+From: Kit Carson
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:29:13 --------------------------
+Forgotten Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:29:14 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-03 09:29:16 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:18 --------------------------
+Elven Citadel Chest
+From: Grikelv
+Source: Level 20 Citadel
+--------------- 2023-12-03 09:29:20 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:22 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 25 Crypt
+--------------- 2023-12-03 09:29:24 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:26 --------------------------
+Bone Chest
+From: Kit Carson
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:29:27 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:29 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:29:31 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:33 --------------------------
+Cobra Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-03 09:29:35 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:37 --------------------------
+Infernal Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:29:39 --------------------------
+Orc Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2023-12-03 09:29:41 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-12-03 09:29:42 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:44 --------------------------
+Barbarian Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Crypt
+--------------- 2023-12-03 09:29:47 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:49 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-03 09:29:51 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 15 rare Crypt

@@ -1,0 +1,297 @@
+--------------- 2023-12-27 17:20:20 --------------------------
+Mayan Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-12-27 17:20:22 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-27 17:20:23 --------------------------
+Elven Citadel Chest
+From: Bamsi
+Source: Level 15 Citadel
+--------------- 2023-12-27 17:20:25 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:20:27 --------------------------
+Elven Citadel Chest
+From: Bamsi
+Source: Level 15 Citadel
+--------------- 2023-12-27 17:20:29 --------------------------
+Chest of the Cursed
+From: Eydaen
+Source: Level 20 epic Crypt
+--------------- 2023-12-27 17:20:30 --------------------------
+Scarab Chest
+From: Immortal
+Source: Level 20 epic Crypt
+--------------- 2023-12-27 17:20:32 --------------------------
+Elven Citadel Chest
+From: Bamsi
+Source: Level 10 Citadel
+--------------- 2023-12-27 17:20:34 --------------------------
+Forgotten Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:20:35 --------------------------
+Forgotten Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:20:37 --------------------------
+Infernal Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:20:39 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-27 17:20:40 --------------------------
+Mayan Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:20:42 --------------------------
+Mayan Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:20:44 --------------------------
+Barbarian Chest
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-27 17:20:46 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-27 17:20:47 --------------------------
+Infernal Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:20:49 --------------------------
+Barbarian Chest
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-27 17:20:51 --------------------------
+Elegant Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:20:53 --------------------------
+Gnome Workshop Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:20:54 --------------------------
+Bone Chest
+From: Nevio500
+Source: Level 10 Crypt
+--------------- 2023-12-27 17:20:56 --------------------------
+Forgotten Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:20:58 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-27 17:20:59 --------------------------
+Barbarian Chest
+From: Nevio500
+Source: Level 15 Crypt
+--------------- 2023-12-27 17:21:01 --------------------------
+Barbarian Chest
+From: Rudolf
+Source: Level 15 epic Crypt
+--------------- 2023-12-27 17:21:03 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-27 17:21:05 --------------------------
+Barbarian Chest
+From: Rudolf
+Source: Level 15 epic Crypt
+--------------- 2023-12-27 17:21:06 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 15 Citadel
+--------------- 2023-12-27 17:21:08 --------------------------
+Elegant Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-27 17:21:10 --------------------------
+Cursed Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-12-27 17:21:11 --------------------------
+Infernal Chest
+From: Berohef
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:21:13 --------------------------
+Bone Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:15 --------------------------
+Barbarian Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:17 --------------------------
+Sand Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:18 --------------------------
+Orc Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:20 --------------------------
+Mayan Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:22 --------------------------
+Forgotten Chest
+From: Vlad the Impaler
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:23 --------------------------
+Sand Chest
+From: Vlad the Impaler
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:25 --------------------------
+Barbarian Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:27 --------------------------
+Forgotten Chest
+From: Vlad the Impaler
+Source: Level 15 Crypt
+--------------- 2023-12-27 17:21:28 --------------------------
+Gnome Workshop Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:30 --------------------------
+Stone Chest
+From: Sir James III Son of Hadur
+Source: Level 10 Crypt
+--------------- 2023-12-27 17:21:32 --------------------------
+Cursed Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2023-12-27 17:21:34 --------------------------
+Barbarian Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:21:35 --------------------------
+Infernal Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:21:37 --------------------------
+Bone Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:39 --------------------------
+Infernal Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:40 --------------------------
+Elven Citadel Chest
+From: Logan
+Source: Level 20 Citadel
+--------------- 2023-12-27 17:21:42 --------------------------
+Stone Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:44 --------------------------
+Stone Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:46 --------------------------
+Elegant Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:47 --------------------------
+Fire Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:49 --------------------------
+Mayan Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:51 --------------------------
+Trillium Chest
+From: Sir James III Son of Hadur
+Source: Level 25 epic Crypt
+--------------- 2023-12-27 17:21:52 --------------------------
+Elegant Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:54 --------------------------
+Bone Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:21:56 --------------------------
+Elegant Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:21:58 --------------------------
+Sand Chest
+From: Sir James III Son of Hadur
+Source: Level 10 Crypt
+--------------- 2023-12-27 17:21:59 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:22:01 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:22:02 --------------------------
+Bone Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:22:04 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:22:06 --------------------------
+Bone Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:22:08 --------------------------
+Gnome Workshop Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:22:09 --------------------------
+Bone Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-27 17:22:11 --------------------------
+Rare Dragon Chest
+From: Sir James III Son of Hadur
+Source: Level 25 rare Crypt
+--------------- 2023-12-27 17:22:13 --------------------------
+Orc Chest
+From: here
+Source: Level 15 Crypt
+--------------- 2023-12-27 17:22:14 --------------------------
+Fire Chest
+From: Logan
+Source: Level 15 Crypt
+--------------- 2023-12-27 17:22:16 --------------------------
+Barbarian Chest
+From: Logan
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:22:18 --------------------------
+Rare Dragon Chest
+From: Sir James III Son of Hadur
+Source: Level 25 rare Crypt
+--------------- 2023-12-27 17:22:19 --------------------------
+Orc Chest
+From: here
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:22:21 --------------------------
+Stone Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-12-27 17:22:23 --------------------------
+House of Horrors Chest
+From: here
+Source: Level 20 epic Crypt
+--------------- 2023-12-27 17:22:24 --------------------------
+Elven Citadel Chest
+From: Vlad the Impaler
+Source: Level 15 Citadel
+--------------- 2023-12-27 17:22:26 --------------------------

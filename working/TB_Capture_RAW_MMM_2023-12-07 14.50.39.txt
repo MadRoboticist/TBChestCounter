@@ -1,0 +1,37 @@
+--------------- 2023-12-07 14:50:43 --------------------------
+Bone Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-12-07 14:50:45 --------------------------
+Barbarian Chest
+From: LUCKY BEAR
+Source: Level 15 Crypt
+--------------- 2023-12-07 14:50:47 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-07 14:50:48 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-07 14:50:50 --------------------------
+Orc Chest
+From: LUCKY BEAR
+Source: Level 5 Crypt
+--------------- 2023-12-07 14:50:52 --------------------------
+Forgotten Chest
+From: LUCKY BEAR
+Source: Level 5 Crypt
+--------------- 2023-12-07 14:50:54 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-07 14:50:55 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-07 14:53:45 --------------------------
+Cobra Chest
+From: LUCKY BEAR
+Source: Level 10 Crypt

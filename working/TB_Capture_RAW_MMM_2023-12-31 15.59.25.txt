@@ -1,0 +1,398 @@
+--------------- 2023-12-31 15:59:33 --------------------------
+Wooden Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-31 15:59:35 --------------------------
+Wooden Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-31 15:59:36 --------------------------
+Wooden Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-31 15:59:38 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-31 15:59:52 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-31 15:59:54 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-31 15:59:56 --------------------------
+Cobra Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-31 15:59:57 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-31 15:59:59 --------------------------
+Orc Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:00:01 --------------------------
+Cobra Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:00:03 --------------------------
+Bone Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:00:05 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-12-31 16:00:06 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:00:08 --------------------------
+Barbarian Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:00:10 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 5 Crypt
+--------------- 2023-12-31 16:00:12 --------------------------
+Sand Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:14 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:00:15 --------------------------
+Mayan Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:00:17 --------------------------
+Elegant Chest
+From: Granidred
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:00:19 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:00:20 --------------------------
+Cobra Chest
+From: Granidred
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:00:22 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:00:24 --------------------------
+Mayan Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:26 --------------------------
+Bone Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2023-12-31 16:00:28 --------------------------
+Elegant Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:29 --------------------------
+Forgotten Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:31 --------------------------
+Cobra Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2023-12-31 16:00:33 --------------------------
+Orc Chest
+From: Amginir
+Source: Level 25 Crypt
+--------------- 2023-12-31 16:00:35 --------------------------
+Fire Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2023-12-31 16:00:36 --------------------------
+Bone Chest
+From: Immortal
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:00:38 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-12-31 16:00:40 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:00:42 --------------------------
+Sand Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:43 --------------------------
+Cobra Chest
+From: Lady G
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:00:45 --------------------------
+Cobra Chest
+From: Lady G
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:47 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-12-31 16:00:48 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:00:50 --------------------------
+Forgotten Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:52 --------------------------
+Elegant Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:00:54 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:00:55 --------------------------
+Elegant Chest
+From: Grikelv
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:00:57 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-12-31 16:00:59 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:00 --------------------------
+Gladiator's Chest
+From: Kirimand
+Source: Arena
+--------------- 2023-12-31 16:01:02 --------------------------
+Rare Dragon Chest
+From: Vlad the Impaler
+Source: Level 20 rare Crypt
+--------------- 2023-12-31 16:01:04 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:01:05 --------------------------
+Rare Dragon Chest
+From: Vlad the Impaler
+Source: Level 25 rare Crypt
+--------------- 2023-12-31 16:01:07 --------------------------
+Bone Chest
+From: Painmoon
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:09 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:01:10 --------------------------
+Bone Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:12 --------------------------
+Elegant Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:14 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-31 16:01:16 --------------------------
+Braided Chest
+From: Grikelv
+Source: Level 15 epic Crypt
+--------------- 2023-12-31 16:01:17 --------------------------
+Elegant Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:19 --------------------------
+Mayan Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:21 --------------------------
+Infernal Chest
+From: Mal
+Source: Level 5 Crypt
+--------------- 2023-12-31 16:01:22 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-31 16:01:24 --------------------------
+Forgotten Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:26 --------------------------
+Forgotten Chest
+From: Mal
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:27 --------------------------
+Gnome Workshop Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:29 --------------------------
+Sand Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:31 --------------------------
+Gnome Workshop Chest
+From: Mal
+Source: Level 5 Crypt
+--------------- 2023-12-31 16:01:32 --------------------------
+Bone Chest
+From: Vlad the Impaler
+Source: Level 5 Crypt
+--------------- 2023-12-31 16:01:34 --------------------------
+Gnome Workshop Chest
+From: Vlad the Impaler
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:36 --------------------------
+Mayan Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:38 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-12-31 16:01:39 --------------------------
+Bone Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:41 --------------------------
+Stone Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:42 --------------------------
+Sand Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:44 --------------------------
+Fire Chest
+From: Portia
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:01:46 --------------------------
+Fire Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:47 --------------------------
+Bone Chest
+From: Portia
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:01:49 --------------------------
+Elegant Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:51 --------------------------
+Forgotten Chest
+From: Portia
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:01:52 --------------------------
+Rare Dragon Chest
+From: Marcelo
+Source: Level 15 rare Crypt
+--------------- 2023-12-31 16:01:54 --------------------------
+Sapphire Chest
+From: Brandemet
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-12-31 16:01:56 --------------------------
+Gnome Workshop Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:01:58 --------------------------
+Bone Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:01:59 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:02:01 --------------------------
+Mayan Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:02:02 --------------------------
+Fire Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:02:04 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-12-31 16:02:06 --------------------------
+Forgotten Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:02:08 --------------------------
+Fire Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-31 16:02:09 --------------------------
+Gnome Workshop Chest
+From: Marcelo
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:02:11 --------------------------
+Sapphire Chest
+From: Mal
+Source: Level 45 Vault of the Ancients
+--------------- 2023-12-31 16:02:13 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:02:14 --------------------------
+Gladiator's Chest
+From: Defur
+Source: Arena
+--------------- 2023-12-31 16:02:16 --------------------------
+Mayan Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:02:18 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:02:20 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:02:21 --------------------------
+Sapphire Chest
+From: Mal
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-12-31 16:02:23 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:02:25 --------------------------
+Elven Citadel Chest
+From: Defur
+Source: Level 10 Citadel
+--------------- 2023-12-31 16:02:27 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-31 16:02:29 --------------------------
+Stone Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-31 16:02:30 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:02:32 --------------------------
+Fire Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-12-31 16:02:34 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 25 Crypt
+--------------- 2023-12-31 16:02:35 --------------------------

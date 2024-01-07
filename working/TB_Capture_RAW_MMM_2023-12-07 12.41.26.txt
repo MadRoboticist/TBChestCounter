@@ -1,0 +1,840 @@
+--------------- 2023-12-07 12:41:34 --------------------------
+Runic Chest
+From: Maedrosin
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-07 12:41:36 --------------------------
+Bone Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:38 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:39 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:41 --------------------------
+Runic Chest
+From: Mr BaCk
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:41:43 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:44 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:46 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:48 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:49 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:51 --------------------------
+Sand Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:53 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:55 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:56 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:41:58 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:00 --------------------------
+Barbarian Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:01 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:03 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 20-24 Raid Runic squad
+--------------- 2023-12-07 12:42:05 --------------------------
+Runic Chest
+From: Hulk
+Source: Lvl 20-24 Raid Runic squad
+--------------- 2023-12-07 12:42:07 --------------------------
+Union Chest
+From: Gradog
+Source: Union of Triumph personal reward
+--------------- 2023-12-07 12:42:08 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:42:10 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:42:12 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:42:13 --------------------------
+Gnome Workshop Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:42:15 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:42:17 --------------------------
+Bone Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:19 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:20 --------------------------
+Elven Citadel Chest
+From: Eydaen
+Source: Level 10 Citadel
+--------------- 2023-12-07 12:42:22 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:42:24 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:42:26 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:42:27 --------------------------
+Elven Citadel Chest
+From: Eydaen
+Source: Level 10 Citadel
+--------------- 2023-12-07 12:42:29 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:31 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:42:32 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:34 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 20 Crypt
+--------------- 2023-12-07 12:42:36 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:42:38 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:42:39 --------------------------
+Elven Citadel Chest
+From: Golgotha
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:42:41 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:42:43 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:42:45 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:42:46 --------------------------
+Rare Dragon Chest
+From: Eydaen
+Source: Level 15 rare Crypt
+--------------- 2023-12-07 12:42:48 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 20 Crypt
+--------------- 2023-12-07 12:42:50 --------------------------
+Bone Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:42:51 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:42:53 --------------------------
+Runic Chest
+From: Rhody
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:42:55 --------------------------
+Mayan Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:42:57 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 25 Crypt
+--------------- 2023-12-07 12:42:58 --------------------------
+Mayan Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:43:00 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:43:02 --------------------------
+Elven Citadel Chest
+From: Eydaen
+Source: Level 15 Citadel
+--------------- 2023-12-07 12:43:03 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 25 Crypt
+--------------- 2023-12-07 12:43:05 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:43:07 --------------------------
+Runic Chest
+From: Rhody
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:09 --------------------------
+Elven Citadel Chest
+From: Eydaen
+Source: Level 10 Citadel
+--------------- 2023-12-07 12:43:11 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:12 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:43:14 --------------------------
+Gnome Workshop Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:43:16 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:43:17 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:19 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:43:21 --------------------------
+Runic Chest
+From: Brandemet
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:23 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:24 --------------------------
+Elven Citadel Chest
+From: Eydaen
+Source: Level 15 Citadel
+--------------- 2023-12-07 12:43:26 --------------------------
+Fire Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:43:28 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:43:30 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:31 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:33 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:43:35 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:36 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:43:38 --------------------------
+Cobra Chest
+From: Thoth
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:43:40 --------------------------
+Epic Monster Chest
+From: Karodor
+Source: Epic Undead squad
+--------------- 2023-12-07 12:43:42 --------------------------
+Epic Monster Chest
+From: Karodor
+Source: Epic Undead squad
+--------------- 2023-12-07 12:43:43 --------------------------
+Epic Monster Chest
+From: Karodor
+Source: Epic Undead squad
+--------------- 2023-12-07 12:43:45 --------------------------
+Epic Monster Chest
+From: Karodor
+Source: Epic Undead squad
+--------------- 2023-12-07 12:43:47 --------------------------
+Epic Monster Chest
+From: Karodor
+Source: Epic Undead squad
+--------------- 2023-12-07 12:43:49 --------------------------
+Epic Monster Chest
+From: Karodor
+Source: Epic Undead squad
+--------------- 2023-12-07 12:43:50 --------------------------
+Epic Monster Chest
+From: Karodor
+Source: Epic Undead squad
+--------------- 2023-12-07 12:43:52 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:54 --------------------------
+Pacified Mimic Chest
+From: Diovani
+Source: Mimic Chest
+--------------- 2023-12-07 12:43:55 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:57 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:43:59 --------------------------
+Pacified Mimic Chest
+From: Jaakarhu
+Source: Mimic Chest
+--------------- 2023-12-07 12:44:01 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:44:02 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:04 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:44:06 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:44:08 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:44:09 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:44:11 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-07 12:44:13 --------------------------
+Bone Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:14 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:44:16 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-07 12:44:18 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:20 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 10 rare Crypt
+--------------- 2023-12-07 12:44:21 --------------------------
+Cobra Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:23 --------------------------
+Cobra Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:25 --------------------------
+Stone Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:26 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:44:28 --------------------------
+Braided Chest
+From: Sir RES
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 12:44:30 --------------------------
+Bone Chest
+From: Legolas
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:44:32 --------------------------
+Forgotten Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:33 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:35 --------------------------
+Sand Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:44:37 --------------------------
+Forgotten Chest
+From: Legolas
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:44:38 --------------------------
+Bone Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:40 --------------------------
+Orc Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-07 12:44:42 --------------------------
+Stone Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:44:44 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:44:45 --------------------------
+Mayan Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:47 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 25 rare Crypt
+--------------- 2023-12-07 12:44:49 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 25 rare Crypt
+--------------- 2023-12-07 12:44:51 --------------------------
+Harpy Chest
+From: NEVIO
+Source: Level 25 epic Crypt
+--------------- 2023-12-07 12:44:52 --------------------------
+Bone Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:54 --------------------------
+Barbarian Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:44:56 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:44:58 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-07 12:44:59 --------------------------
+Barbarian Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:45:01 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:45:03 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:45:05 --------------------------
+Union Chest
+From: NEVIO
+Source: Union of Triumph personal reward
+--------------- 2023-12-07 12:45:07 --------------------------
+Orc Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-07 12:45:08 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:45:10 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:45:12 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-07 12:45:13 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:45:15 --------------------------
+Titansteel Chest
+From: DarkAngel
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 12:45:17 --------------------------
+Runic Chest
+From: Legolas
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-07 12:45:19 --------------------------
+Harpy Chest
+From: NEVIO
+Source: Level 25 epic Crypt
+--------------- 2023-12-07 12:45:20 --------------------------
+Elegant Chest
+From: DarkAngel
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:45:22 --------------------------
+Forgotten Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-07 12:45:24 --------------------------
+Forgotten Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:45:25 --------------------------
+Forgotten Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-07 12:45:27 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:45:29 --------------------------
+Barbarian Chest
+From: DarkAngel
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:45:31 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:45:32 --------------------------
+Elegant Chest
+From: DarkAngel
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:45:34 --------------------------
+Barbarian Chest
+From: Sir RES
+Source: Level 20 Crypt
+--------------- 2023-12-07 12:45:36 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:45:38 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:45:39 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:45:41 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:45:43 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:45:45 --------------------------
+Runic Chest
+From: Brandemet
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-07 12:45:46 --------------------------
+Elegant Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:45:48 --------------------------
+Elegant Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:45:50 --------------------------
+Union Chest
+From: Mal
+Source: Union of Triumph personal reward
+--------------- 2023-12-07 12:45:51 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:45:53 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:45:55 --------------------------
+Orc Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:45:57 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:45:58 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-07 12:46:00 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:46:02 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:04 --------------------------
+Runic Chest
+From: Braveheart
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-07 12:46:05 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:46:07 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:46:09 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:46:11 --------------------------
+Mayan Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-07 12:46:12 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 20 Citadel
+--------------- 2023-12-07 12:46:14 --------------------------
+Barbarian Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:46:16 --------------------------
+Barbarian Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-07 12:46:18 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:19 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-07 12:46:21 --------------------------
+Bone Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-07 12:46:23 --------------------------
+Fire Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:46:24 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:46:26 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:28 --------------------------
+Scorpion Chest
+From: doc48
+Source: Level 20 epic Crypt
+--------------- 2023-12-07 12:46:30 --------------------------
+Minotaur Chest
+From: doc48
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 12:46:31 --------------------------
+Bone Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-07 12:46:33 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-07 12:46:35 --------------------------
+Ancient Warrior's Chest
+From: doc48
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 12:46:37 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:46:39 --------------------------
+Braided Chest
+From: doc48
+Source: Level 25 epic Crypt
+--------------- 2023-12-07 12:46:40 --------------------------
+Runic Chest
+From: Jaakarhu
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-07 12:46:42 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-07 12:46:44 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:45 --------------------------
+Trillium Chest
+From: doc48
+Source: Level 25 epic Crypt
+--------------- 2023-12-07 12:46:47 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-07 12:46:49 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:51 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:52 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:54 --------------------------
+Orc Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:46:56 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:46:57 --------------------------
+Stone Chest
+From: doc48
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:46:59 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:01 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:03 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:47:04 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:06 --------------------------
+Orc Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-07 12:47:08 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-07 12:47:10 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-07 12:47:11 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:13 --------------------------
+Common Chest of Wealth
+From: Mabrinad
+Source: Clan wealth
+--------------- 2023-12-07 12:47:15 --------------------------
+Uncommon Chest of Wealth
+From: Mabrinad
+Source: Clan wealth
+--------------- 2023-12-07 12:47:17 --------------------------
+Rare Chest of Wealth
+From: Mabrinad
+Source: Clan wealth
+--------------- 2023-12-07 12:47:18 --------------------------
+Epic Chest of Wealth
+From: Mabrinad
+Source: Clan wealth
+--------------- 2023-12-07 12:47:20 --------------------------
+Runic Chest
+From: Gradog
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:47:22 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:24 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:25 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:27 --------------------------
+Runic Chest
+From: Karodor
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-07 12:47:29 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:30 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:32 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-12-07 12:47:34 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-07 12:47:36 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel

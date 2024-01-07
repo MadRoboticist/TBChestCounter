@@ -1,0 +1,369 @@
+--------------- 2023-12-24 06:58:38 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:58:39 --------------------------
+Cursed Citadel Chest
+From: Amginir
+Source; Level 20 Citadel
+--------------- 2023-12-24 06:58:41 --------------------------
+Braided Chest
+From: Berohef
+Source: Level 15 epic Crypt
+--------------- 2023-12-24 06:58:43 --------------------------
+Ancient Warrior's Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:58:44 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-24 06:58:46 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-24 06:58:48 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:58:50 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 06:58:51 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 06:58:53 --------------------------
+Rare Dragon Chest
+From: Mr BaCk
+Source: Level 25 rare Crypt
+--------------- 2023-12-24 06:58:55 --------------------------
+Turtle Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:58:56 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:58:58 --------------------------
+Abandoned Chest
+From: Berohef
+Source: Level 15 epic Crypt
+--------------- 2023-12-24 06:59:00 --------------------------
+Mayan Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-24 06:59:01 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-24 06:59:03 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-24 06:59:05 --------------------------
+Chest of the Cursed
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:59:07 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:59:08 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 25 Crypt
+--------------- 2023-12-24 06:59:10 --------------------------
+Harpy Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:59:12 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 06:59:13 --------------------------
+Turtle Chest
+From: Berohef
+Source: Level 15 epic Crypt
+--------------- 2023-12-24 06:59:15 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:59:17 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 10 Citadel
+--------------- 2023-12-24 06:59:18 --------------------------
+Cobalt Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:59:20 --------------------------
+Rare Dragon Chest
+From: Mr BaCk
+Source: Level 25 rare Crypt
+--------------- 2023-12-24 06:59:22 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:59:24 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 06:59:25 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:59:27 --------------------------
+Priest's Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:59:29 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:59:30 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 06:59:32 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 06:59:34 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-24 06:59:35 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:59:37 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 06:59:39 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-24 06:59:40 --------------------------
+Barbarian Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:59:42 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-24 06:59:44 --------------------------
+Rare Dragon Chest
+From: Mr BaCk
+Source: Level 25 rare Crypt
+--------------- 2023-12-24 06:59:46 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-12-24 06:59:47 --------------------------
+Titansteel Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:59:49 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 06:59:51 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-24 06:59:52 --------------------------
+Barbarian Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-12-24 06:59:54 --------------------------
+Forgotten Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-24 06:59:56 --------------------------
+Scarab Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 06:59:57 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 06:59:59 --------------------------
+Elegant Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:01 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-24 07:00:03 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:04 --------------------------
+Ancient Warrior's Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 07:00:06 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:08 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:09 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:11 --------------------------
+Ancient Bastion Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 07:00:13 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2023-12-24 07:00:15 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2023-12-24 07:00:16 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-12-24 07:00:18 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source; Level 20 Citadel
+--------------- 2023-12-24 07:00:20 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:21 --------------------------
+Braided Chest
+From: Legolas
+Source: Level 20 epic Crypt
+--------------- 2023-12-24 07:00:23 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-24 07:00:25 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:26 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:28 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:30 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 07:00:31 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:33 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-24 07:00:35 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:37 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 07:00:38 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:40 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 07:00:42 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:43 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2023-12-24 07:00:45 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-24 07:00:47 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:48 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:50 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 15 Citadel
+--------------- 2023-12-24 07:00:52 --------------------------
+Elven Citadel Chest
+From: Thoth
+Source; Level 20 Citadel
+--------------- 2023-12-24 07:00:54 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:55 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:00:57 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:00:58 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 10 Crypt
+--------------- 2023-12-24 07:01:00 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:01:02 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:01:03 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2023-12-24 07:01:05 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-24 07:01:07 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:01:08 --------------------------
+Elven Citadel Chest
+From: Legolas
+Source: Level 15 Citadel
+--------------- 2023-12-24 07:01:10 --------------------------
+Elven Citadel Chest
+From: Legolas
+Source; Level 20 Citadel
+--------------- 2023-12-24 07:01:12 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-24 07:01:13 --------------------------

@@ -1,0 +1,284 @@
+--------------- 2023-06-22 11:53:25 --------------------------
+Cobra Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:53:27 --------------------------
+Sand Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:53:29 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:53:31 --------------------------
+Orc Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:53:34 --------------------------
+Scarab Chest
+From: Kirimand
+Source: Level 15 epic Crypt
+--------------- 2023-06-22 11:53:36 --------------------------
+Elegant Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:53:38 --------------------------
+House of Horrors Chest
+From: Kirimand
+Source: Level 15 epic Crypt
+--------------- 2023-06-22 11:53:40 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:53:42 --------------------------
+Cobra Chest
+From: The Gladiator
+Source: Level 5 Crypt
+--------------- 2023-06-22 11:53:45 --------------------------
+Forgotten Chest
+From: The Gladiator
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:53:47 --------------------------
+Bone Chest
+From: The Gladiator
+Source: Level 5 Crypt
+--------------- 2023-06-22 11:53:49 --------------------------
+Bone Chest
+From: Feli
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:53:51 --------------------------
+Forgotten Chest
+From: Accelerator
+Source: Level 5 Crypt
+--------------- 2023-06-22 11:53:53 --------------------------
+Infernal Chest
+From: Accelerator
+Source: Level 5 Crypt
+--------------- 2023-06-22 11:53:55 --------------------------
+Fire Chest
+From: Accelerator
+Source: Level 5 Crypt
+--------------- 2023-06-22 11:53:57 --------------------------
+Summer gift
+From: Vlad the Impaler
+Source: Summerfest tournament
+--------------- 2023-06-22 11:53:59 --------------------------
+Summer gift
+From: Vlad the Impaler
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:02 --------------------------
+Summer gift
+From: Vlad the Impaler
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:03 --------------------------
+Summer gift
+From: Vlad the Impaler
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:06 --------------------------
+Summer gift
+From: Vlad the Impaler
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:08 --------------------------
+Summer gift
+From: Vlad the Impaler
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:10 --------------------------
+Orc Chest
+From: Tha Supreme
+Source: Level 15 Crypt
+--------------- 2023-06-22 11:54:12 --------------------------
+Orc Chest
+From: Tha Supreme
+Source: Level 25 Crypt
+--------------- 2023-06-22 11:54:14 --------------------------
+Master's summer gift
+From: Tha Supreme
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:16 --------------------------
+Summer gift
+From: Tha Supreme
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:19 --------------------------
+Summer gift
+From: Tha Supreme
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:21 --------------------------
+Summer gift
+From: Tha Supreme
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:23 --------------------------
+Summer gift
+From: Tha Supreme
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:25 --------------------------
+Rare Dragon Chest
+From: Mabrinad
+Source: Level 25 rare Crypt
+--------------- 2023-06-22 11:54:27 --------------------------
+Master's summer gift
+From: Mabrinad
+Source: Summerfest tournament
+--------------- 2023-06-22 11:54:29 --------------------------
+Gnome Workshop Chest
+From: Foxhunter
+Source: Level 15 Crypt
+--------------- 2023-06-22 11:54:31 --------------------------
+Elven Citadel Chest
+From: Foxhunter
+Source: Level 10 Citadel
+--------------- 2023-06-22 11:54:34 --------------------------
+Gnome Workshop Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:36 --------------------------
+Sand Chest
+From: Foxhunter
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:54:38 --------------------------
+Barbarian Chest
+From: Foxhunter
+Source: Level 5 Crypt
+--------------- 2023-06-22 11:54:40 --------------------------
+Orc Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:42 --------------------------
+Orc Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:44 --------------------------
+Cursed Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-06-22 11:54:46 --------------------------
+Infernal Chest
+From: Foxhunter
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:54:49 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:51 --------------------------
+Orc Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:53 --------------------------
+Fire Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:55 --------------------------
+Mayan Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:57 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:54:59 --------------------------
+House of Horrors Chest
+From: MONTES
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 11:55:01 --------------------------
+Harpy Chest
+From: MONTES
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 11:55:04 --------------------------
+Ancient Bastion Chest
+From: Foxhunter
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 11:55:06 --------------------------
+Bone Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:55:08 --------------------------
+Bone Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:55:10 --------------------------
+Fire Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:55:12 --------------------------
+Forgotten Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:55:14 --------------------------
+Mayan Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:55:16 --------------------------
+Master's summer gift
+From: Feli
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:18 --------------------------
+Stone Chest
+From: Nygus
+Source: Level 15 Crypt
+--------------- 2023-06-22 11:55:21 --------------------------
+Rare Dragon Chest
+From: Rain
+Source: Level 25 rare Crypt
+--------------- 2023-06-22 11:55:23 --------------------------
+Summer gift
+From: Rain
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:25 --------------------------
+Summer gift
+From: Rain
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:27 --------------------------
+Summer gift
+From: Rain
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:29 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:55:31 --------------------------
+Summer gift
+From: Nygus
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:33 --------------------------
+Summer gift
+From: Nygus
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:35 --------------------------
+Summer gift
+From: Nygus
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:38 --------------------------
+Summer gift
+From: Nygus
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:40 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:55:42 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:55:44 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-22 11:55:46 --------------------------
+Summer gift
+From: Feli
+Source: Summerfest tournament
+--------------- 2023-06-22 11:55:48 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 25 Crypt
+--------------- 2023-06-22 11:55:50 --------------------------
+Rare Dragon Chest
+From: Tricolor Carioca
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 11:55:52 --------------------------
+Mayan Chest
+From: nervous
+Source: Level 10 Crypt
+--------------- 2023-06-22 11:55:54 --------------------------
+Barbarian Chest
+From: nervous
+Source: Level 15 Crypt

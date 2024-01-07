@@ -1,0 +1,488 @@
+--------------- 2023-06-17 01:00:29 --------------------------
+Elegant Chest
+From: Foolish Mortal
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:00:31 --------------------------
+Bone Chest
+From: Foolish Mortal
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:00:32 --------------------------
+Elegant Chest
+From: idaco
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:00:34 --------------------------
+Barbarian Chest
+From: Foolish Mortal
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:00:36 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:00:37 --------------------------
+Cursed Citadel Chest
+From: Racibor
+Source: Level 25 Citadel
+--------------- 2023-06-17 01:00:39 --------------------------
+Summer gift
+From: Tha Supreme
+Source: Summerfest tournament
+--------------- 2023-06-17 01:00:41 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:00:42 --------------------------
+Cursed Citadel Chest
+From: Racibor
+Source: Level 25 Citadel
+--------------- 2023-06-17 01:00:44 --------------------------
+Abandoned Chest
+From: Uhtred
+Source: Level 20 epic Crypt
+--------------- 2023-06-17 01:00:46 --------------------------
+Sand Chest
+From: idaco
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:00:48 --------------------------
+Fire Chest
+From: MarcusTulliusCicero
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:00:49 --------------------------
+Gladiator's Chest
+From: Uhtred
+Source: Arena
+--------------- 2023-06-17 01:00:51 --------------------------
+Elven Citadel Chest
+From: Racibor
+Source: Level 15 Citadel
+--------------- 2023-06-17 01:00:53 --------------------------
+Forgotten Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:00:54 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-17 01:00:56 --------------------------
+Ancient Warrior's Chest
+From: idaco
+Source: Level 15 epic Crypt
+--------------- 2023-06-17 01:00:58 --------------------------
+Stone Chest
+From: Cain
+Source: Level 5 Crypt
+--------------- 2023-06-17 01:00:59 --------------------------
+Master's summer gift
+From: Feli
+Source: Summerfest tournament
+--------------- 2023-06-17 01:01:01 --------------------------
+Cursed Citadel Chest
+From: Racibor
+Source: Level 25 Citadel
+--------------- 2023-06-17 01:01:03 --------------------------
+Infernal Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:05 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 10 Citadel
+--------------- 2023-06-17 01:01:06 --------------------------
+Barbarian Chest
+From: Cain
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:01:09 --------------------------
+Forgotten Chest
+From: MarcusTulliusCicero
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:01:11 --------------------------
+Bone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:01:13 --------------------------
+Fire Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:15 --------------------------
+Cobra Chest
+From: MarcusTulliusCicero
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:01:16 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:01:18 --------------------------
+Sand Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:20 --------------------------
+Cursed Citadel Chest
+From: Racibor
+Source: Level 25 Citadel
+--------------- 2023-06-17 01:01:21 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 10 rare Crypt
+--------------- 2023-06-17 01:01:23 --------------------------
+Fire Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:25 --------------------------
+Cursed Citadel Chest
+From: Racibor
+Source: Level 25 Citadel
+--------------- 2023-06-17 01:01:27 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-06-17 01:01:28 --------------------------
+Sand Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:30 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 25 Crypt
+--------------- 2023-06-17 01:01:32 --------------------------
+Barbarian Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:33 --------------------------
+Minotaur Chest
+From: Brandemet
+Source: Level 20 epic Crypt
+--------------- 2023-06-17 01:01:35 --------------------------
+Cursed Citadel Chest
+From: Racibor
+Source: Level 25 Citadel
+--------------- 2023-06-17 01:01:37 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-06-17 01:01:38 --------------------------
+Elegant Chest
+From: idaco
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:40 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 15 rare Crypt
+--------------- 2023-06-17 01:01:42 --------------------------
+Barbarian Chest
+From: Grozilkree
+Source: Level 15 epic Crypt
+--------------- 2023-06-17 01:01:43 --------------------------
+Sand Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:01:45 --------------------------
+Elegant Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:47 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-17 01:01:48 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:01:50 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 20 Citadel
+--------------- 2023-06-17 01:01:52 --------------------------
+Summer gift
+From: Grozilkree
+Source: Summerfest tournament
+--------------- 2023-06-17 01:01:54 --------------------------
+Summer gift
+From: Grozilkree
+Source: Summerfest tournament
+--------------- 2023-06-17 01:01:55 --------------------------
+Elegant Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:01:57 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:01:59 --------------------------
+Forgotten Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:00 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 15 Citadel
+--------------- 2023-06-17 01:02:02 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 20 Citadel
+--------------- 2023-06-17 01:02:04 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:05 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:07 --------------------------
+Summer gift
+From: Grozilkree
+Source: Summerfest tournament
+--------------- 2023-06-17 01:02:09 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:11 --------------------------
+Summer gift
+From: Grozilkree
+Source: Summerfest tournament
+--------------- 2023-06-17 01:02:12 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:14 --------------------------
+Cobra Chest
+From: Dacage
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:16 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2023-06-17 01:02:17 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-17 01:02:19 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2023-06-17 01:02:21 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:22 --------------------------
+Barbarian Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:24 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-06-17 01:02:26 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:27 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 10 rare Crypt
+--------------- 2023-06-17 01:02:29 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 10 rare Crypt
+--------------- 2023-06-17 01:02:31 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:32 --------------------------
+Master's summer gift
+From: Mabrinad
+Source: Summerfest tournament
+--------------- 2023-06-17 01:02:34 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:36 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:37 --------------------------
+Summer gift
+From: Morg
+Source: Summerfest tournament
+--------------- 2023-06-17 01:02:39 --------------------------
+Summer gift
+From: Morg
+Source: Summerfest tournament
+--------------- 2023-06-17 01:02:41 --------------------------
+Summer gift
+From: Morg
+Source: Summerfest tournament
+--------------- 2023-06-17 01:02:43 --------------------------
+Braided Chest
+From: Sir RES
+Source: Level 15 epic Crypt
+--------------- 2023-06-17 01:02:44 --------------------------
+Scorpion Chest
+From: Sir RES
+Source: Level 20 epic Crypt
+--------------- 2023-06-17 01:02:46 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:48 --------------------------
+Gnome Workshop Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-06-17 01:02:49 --------------------------
+Fire Chest
+From: Nygus
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:51 --------------------------
+Gnome Workshop Chest
+From: Nygus
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:52 --------------------------
+Orc Chest
+From: Rebellion
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:54 --------------------------
+Stone Chest
+From: Nygus
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:02:56 --------------------------
+Orc Chest
+From: Rebellion
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:58 --------------------------
+Orc Chest
+From: Rebellion
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:02:59 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:03:01 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:03:03 --------------------------
+Orc Chest
+From: Rebellion
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:03:04 --------------------------
+Barbarian Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:03:06 --------------------------
+Harpy Chest
+From: Nygus
+Source: Level 15 epic Crypt
+--------------- 2023-06-17 01:03:08 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-06-17 01:03:09 --------------------------
+Fire Chest
+From: Nygus
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:11 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-17 01:03:13 --------------------------
+Orc Chest
+From: Braveheart
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:15 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-06-17 01:03:16 --------------------------
+Mayan Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:18 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:20 --------------------------
+Orc Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:21 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:23 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:25 --------------------------
+Summer gift
+From: Sir RES
+Source: Summerfest tournament
+--------------- 2023-06-17 01:03:26 --------------------------
+Summer gift
+From: Sir RES
+Source: Summerfest tournament
+--------------- 2023-06-17 01:03:28 --------------------------
+Cobra Chest
+From: Braveheart
+Source: Level 5 Crypt
+--------------- 2023-06-17 01:03:30 --------------------------
+Barbarian Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:03:31 --------------------------
+Cobra Chest
+From: Masius
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:03:33 --------------------------
+Bone Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-06-17 01:03:35 --------------------------
+Sapphire Chest
+From: desperados
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-06-17 01:03:36 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:38 --------------------------
+Infernal Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:40 --------------------------
+Gnome Workshop Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:41 --------------------------
+Summer gift
+From: Rudolf
+Source: Summerfest tournament
+--------------- 2023-06-17 01:03:43 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2023-06-17 01:03:45 --------------------------
+Summer gift
+From: Rudolf
+Source: Summerfest tournament
+--------------- 2023-06-17 01:03:47 --------------------------
+Summer gift
+From: Rudolf
+Source: Summerfest tournament
+--------------- 2023-06-17 01:03:48 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-06-17 01:03:50 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-06-17 01:03:52 --------------------------
+Fire Chest
+From: Xena
+Source: Level 5 Crypt
+--------------- 2023-06-17 01:03:53 --------------------------
+Forgotten Chest
+From: Xena
+Source: Level 5 Crypt
+--------------- 2023-06-17 01:03:55 --------------------------
+Infernal Chest
+From: Xena
+Source: Level 10 Crypt

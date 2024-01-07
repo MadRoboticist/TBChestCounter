@@ -1,0 +1,845 @@
+--------------- 2023-12-23 09:16:10 --------------------------
+Wooden Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-12-23 09:16:11 --------------------------
+Wooden Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-12-23 09:16:13 --------------------------
+Wooden Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-12-23 09:16:15 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:16:21 --------------------------
+Fire Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:16:23 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:16:25 --------------------------
+Fire Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:16:26 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:16:28 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-23 09:16:30 --------------------------
+Elven Citadel Chest
+From: Jaakarhu
+Source; Level 20 Citadel
+--------------- 2023-12-23 09:16:32 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:16:33 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:16:35 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:16:37 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:16:38 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:16:40 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:16:42 --------------------------
+Elven Citadel Chest
+From: Jaakarhu
+Source; Level 20 Citadel
+--------------- 2023-12-23 09:16:43 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:16:45 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:16:47 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:16:49 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:16:50 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:16:52 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:16:54 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:16:55 --------------------------
+Elven Citadel Chest
+From: Jaakarhu
+Source; Level 20 Citadel
+--------------- 2023-12-23 09:16:57 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:16:59 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:00 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:17:02 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:04 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:17:06 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:17:07 --------------------------
+Elegant Chest
+From: here
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:17:09 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:11 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:17:12 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:14 --------------------------
+Harpy Chest
+From: Eydaen
+Source: Level 20 epic Crypt
+--------------- 2023-12-23 09:17:16 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:17 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:19 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:17:21 --------------------------
+Turtle Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:17:22 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:24 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:17:26 --------------------------
+Harpy Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:17:28 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:17:29 --------------------------
+Mayan Chest
+From: here
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:17:31 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:17:33 --------------------------
+Gnome Workshop Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-23 09:17:34 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:17:36 --------------------------
+Scorpion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:17:38 --------------------------
+Forgotten Chest
+From: here
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:17:40 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:41 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:17:43 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:45 --------------------------
+Elegant Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-23 09:17:46 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:48 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:17:50 --------------------------
+Mayan Chest
+From: here
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:17:51 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:53 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:17:55 --------------------------
+Elven Citadel Chest
+From: Defur
+Source: Level 10 Citadel
+--------------- 2023-12-23 09:17:57 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:17:58 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:00 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:18:02 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:04 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:18:05 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:07 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:09 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-12-23 09:18:10 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:12 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:14 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 25 Crypt
+--------------- 2023-12-23 09:18:15 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:17 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:19 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:20 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:22 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:18:24 --------------------------
+Elven Citadel Chest
+From: Defur
+Source: Level 10 Citadel
+--------------- 2023-12-23 09:18:26 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:27 --------------------------
+Elegant Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:29 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:18:31 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:32 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:34 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:18:36 --------------------------
+Stone Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:18:37 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:18:39 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:18:41 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:43 --------------------------
+Chest of the Cursed
+From: Sir RES
+Source: Level 20 epic Crypt
+--------------- 2023-12-23 09:18:44 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:46 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:18:48 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:49 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:18:51 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:53 --------------------------
+Barbarian Chest
+From: here
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:18:54 --------------------------
+Snowman chest
+From: Funfiren
+Source: Christmas Ritual tournament
+--------------- 2023-12-23 09:18:56 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:18:58 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:00 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:01 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:03 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:05 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:07 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:09 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:10 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:12 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:14 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:15 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:17 --------------------------
+Orc Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-23 09:19:19 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-23 09:19:20 --------------------------
+Mayan Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:19:22 --------------------------
+Cursed Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:24 --------------------------
+Fire Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:26 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:27 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:29 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:31 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-23 09:19:32 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:34 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-23 09:19:36 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:38 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:39 --------------------------
+Infernal Chest
+From: Sir RES
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:41 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:43 --------------------------
+Cursed Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:44 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 10 Citadel
+--------------- 2023-12-23 09:19:46 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:48 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:50 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:19:52 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:53 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:19:55 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:19:57 --------------------------
+Gnome Workshop Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-23 09:19:59 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:20:00 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:20:02 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 10 rare Crypt
+--------------- 2023-12-23 09:20:04 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:05 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:07 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:20:09 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:20:11 --------------------------
+Gnome Workshop Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-23 09:20:12 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:20:14 --------------------------
+Mayan Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-23 09:20:16 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:17 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:20:19 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:20:21 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:20:23 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:20:24 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:26 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:20:28 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:29 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:20:31 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 20 rare Crypt
+--------------- 2023-12-23 09:20:33 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-23 09:20:34 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:36 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 20 rare Crypt
+--------------- 2023-12-23 09:20:38 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:40 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 20 rare Crypt
+--------------- 2023-12-23 09:20:41 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:20:43 --------------------------
+Rare Dragon Chest
+From: Rudolf
+Source: Level 20 rare Crypt
+--------------- 2023-12-23 09:20:45 --------------------------
+Braided Chest
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-23 09:20:46 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:20:48 --------------------------
+Trillium Chest
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-23 09:20:50 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:20:51 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:20:53 --------------------------
+Bone Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:20:55 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-23 09:20:57 --------------------------
+Cobra Chest
+From: LUCKY BEAR
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:20:58 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:21:00 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:21:02 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:21:03 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:21:05 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:21:07 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:23:26 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:23:27 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:23:29 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:23:31 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:23:32 --------------------------
+Snowman chest
+From: here
+Source: Snowman
+--------------- 2023-12-23 09:23:34 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-23 09:23:35 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:23:37 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-23 09:23:39 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:23:40 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:23:44 --------------------------
+Elven Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:23:46 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:23:57 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:23:59 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:24:32 --------------------------
+Trillium Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:24:33 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:24:43 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:24:45 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:24:47 --------------------------
+Bone Chest
+From: LUCKY BEAR
+Source: Level 10 Crypt
+--------------- 2023-12-23 09:24:49 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:27:22 --------------------------
+Infernal Chest
+From: Grikelv
+Source: Level 20 Crypt
+--------------- 2023-12-23 09:27:24 --------------------------
+Scarab Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2023-12-23 09:27:25 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:27:27 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:27:29 --------------------------
+Scarab Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:27:30 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:27:32 --------------------------
+Scarab Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:27:34 --------------------------
+Elven Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:27:35 --------------------------
+Rare Dragon Chest
+From: Grikelv
+Source: Level 15 rare Crypt
+--------------- 2023-12-23 09:27:37 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-23 09:29:14 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:29:16 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:29:18 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 15 Citadel
+--------------- 2023-12-23 09:29:20 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:29:21 --------------------------
+Elven Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2023-12-23 09:29:23 --------------------------
+Turtle Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2023-12-23 09:29:25 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel

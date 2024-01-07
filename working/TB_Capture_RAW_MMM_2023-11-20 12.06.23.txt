@@ -1,0 +1,240 @@
+--------------- 2023-11-20 12:06:26 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:06:27 --------------------------
+Elegant Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-11-20 12:06:29 --------------------------
+Fire Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-11-20 12:06:31 --------------------------
+Cobra Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-11-20 12:06:33 --------------------------
+Elven Citadel Chest
+From: Jaakarhu
+Source; Level 20 Citadel
+--------------- 2023-11-20 12:06:34 --------------------------
+Orc Chest
+From: Silverblade
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:06:36 --------------------------
+Cobra Chest
+From: The Gladiator
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:06:38 --------------------------
+Barbarian Chest
+From: DarkAngel
+Source: Level 25 Crypt
+--------------- 2023-11-20 12:06:39 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:06:41 --------------------------
+Fire Chest
+From: The Gladiator
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:06:43 --------------------------
+Stone Chest
+From: The Gladiator
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:06:45 --------------------------
+Infernal Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-11-20 12:06:46 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:06:48 --------------------------
+Forgotten Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-11-20 12:06:50 --------------------------
+Common Chest of Wealth
+From: Feli
+Source: Clan wealth
+--------------- 2023-11-20 12:06:52 --------------------------
+Uncommon Chest of Wealth
+From: Feli
+Source: Clan wealth
+--------------- 2023-11-20 12:06:53 --------------------------
+Rare Chest of Wealth
+From: Feli
+Source: Clan wealth
+--------------- 2023-11-20 12:06:55 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 20-24 Vault of the Ancients
+--------------- 2023-11-20 12:06:57 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:06:59 --------------------------
+Elven Citadel Chest
+From: Silverblade
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:07:00 --------------------------
+Bone Chest
+From: Mausida
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:07:02 --------------------------
+Cobra Chest
+From: Mausida
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:07:04 --------------------------
+Orc Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:07:06 --------------------------
+Rare Dragon Chest
+From: Mausida
+Source: Level 15 rare Crypt
+--------------- 2023-11-20 12:07:07 --------------------------
+Gnome Workshop Chest
+From: Diovani
+Source: Level 5 Crypt
+--------------- 2023-11-20 12:07:09 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:07:11 --------------------------
+Elegant Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:07:12 --------------------------
+Bone Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:07:14 --------------------------
+Elegant Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:07:16 --------------------------
+Elven Citadel Chest
+From: Mausida
+Source: Level 10 Citadel
+--------------- 2023-11-20 12:07:18 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:07:19 --------------------------
+Sand Chest
+From: DarkAngel
+Source: Level 5 Crypt
+--------------- 2023-11-20 12:07:21 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:07:23 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:07:24 --------------------------
+Orc Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2023-11-20 12:07:26 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:28 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:30 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:31 --------------------------
+Orc Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2023-11-20 12:07:33 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:07:35 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:07:37 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:38 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 10 Citadel
+--------------- 2023-11-20 12:07:40 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:07:42 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:44 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:45 --------------------------
+Fire Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:07:47 --------------------------
+Barbarian Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:07:49 --------------------------
+Cobra Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:07:50 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:07:52 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:07:54 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:56 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:07:57 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:07:59 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:08:01 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:08:03 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:08:04 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:08:06 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:08:08 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel

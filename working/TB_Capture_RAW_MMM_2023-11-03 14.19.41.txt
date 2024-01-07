@@ -1,0 +1,660 @@
+--------------- 2023-11-03 14:19:46 --------------------------
+Fire Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:19:48 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-03 14:19:49 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-03 14:19:51 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-03 14:19:53 --------------------------
+Bone Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:19:55 --------------------------
+Merchant's Chest
+From: Karodor
+Source: Mercenary Exchange
+--------------- 2023-11-03 14:19:58 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 5 Crypt
+--------------- 2023-11-03 14:20:00 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:20:01 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:03 --------------------------
+Orc Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:05 --------------------------
+Barbarian Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:20:07 --------------------------
+Mayan Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:20:09 --------------------------
+Trillium Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-03 14:20:10 --------------------------
+Barbarian Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:12 --------------------------
+Bone Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:14 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:20:15 --------------------------
+Stone Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:17 --------------------------
+Chest of the Cursed
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-03 14:20:19 --------------------------
+Fire Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:20:20 --------------------------
+Mayan Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:22 --------------------------
+Elegant Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:24 --------------------------
+Sand Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:26 --------------------------
+Scorpion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-03 14:20:27 --------------------------
+Mayan Chest
+From: Grikelv
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:29 --------------------------
+Rare Dragon Chest
+From: Grikelv
+Source: Level 15 rare Crypt
+--------------- 2023-11-03 14:20:31 --------------------------
+Cobra Chest
+From: Grikelv
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:33 --------------------------
+Rare Dragon Chest
+From: Grikelv
+Source: Level 10 rare Crypt
+--------------- 2023-11-03 14:20:34 --------------------------
+Rare Dragon Chest
+From: Grikelv
+Source: Level 10 rare Crypt
+--------------- 2023-11-03 14:20:37 --------------------------
+Infernal Chest
+From: Karodor
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:20:39 --------------------------
+Forgotten Chest
+From: Kerilir
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:41 --------------------------
+Fire Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:42 --------------------------
+Priest's Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-03 14:20:44 --------------------------
+Rare Dragon Chest
+From: Karodor
+Source: Level 25 rare Crypt
+--------------- 2023-11-03 14:20:46 --------------------------
+Rare Dragon Chest
+From: Karodor
+Source: Level 25 rare Crypt
+--------------- 2023-11-03 14:20:47 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:20:49 --------------------------
+Gnome Workshop Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:20:51 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-03 14:20:52 --------------------------
+Bone Chest
+From: Bjorn
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:20:54 --------------------------
+Quick March Chest
+From: Bjorn
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:20:56 --------------------------
+Trillium Chest
+From: Bjorn
+Source: Level 15 epic Crypt
+--------------- 2023-11-03 14:20:58 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-03 14:20:59 --------------------------
+Infernal Chest
+From: Bjorn
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:01 --------------------------
+Barbarian Chest
+From: RatkoM
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:21:03 --------------------------
+Mayan Chest
+From: RatkoM
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:04 --------------------------
+Elegant Chest
+From: RatkoM
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:06 --------------------------
+Infernal Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:21:08 --------------------------
+Infernal Chest
+From: RatkoM
+Source: Level 5 Crypt
+--------------- 2023-11-03 14:21:10 --------------------------
+White Wood Chest
+From: MILI
+Source: Level 20 epic Crypt
+--------------- 2023-11-03 14:21:11 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:13 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 25 Crypt
+--------------- 2023-11-03 14:21:15 --------------------------
+Forgotten Chest
+From: Legolas
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:21:16 --------------------------
+Rare Dragon Chest
+From: MILI
+Source: Level 15 rare Crypt
+--------------- 2023-11-03 14:21:18 --------------------------
+Sand Chest
+From: Legolas
+Source: Level 25 Crypt
+--------------- 2023-11-03 14:21:20 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:21 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:23 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:25 --------------------------
+Mayan Chest
+From: Braveheart
+Source: Level 5 Crypt
+--------------- 2023-11-03 14:21:26 --------------------------
+Mayan Chest
+From: Feli
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:28 --------------------------
+Merchant's Chest
+From: Feli
+Source: Mercenary Exchange
+--------------- 2023-11-03 14:21:30 --------------------------
+Forgotten Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:32 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:21:33 --------------------------
+Orc Chest
+From: Braveheart
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:21:35 --------------------------
+Orc Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-11-03 14:21:37 --------------------------
+Fire Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:21:38 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:40 --------------------------
+Orc Chest
+From: Hulk
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:21:42 --------------------------
+Cobra Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-11-03 14:21:43 --------------------------
+Common Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-11-03 14:21:45 --------------------------
+Uncommon Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-11-03 14:21:47 --------------------------
+Rare Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-11-03 14:21:48 --------------------------
+Epic Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-11-03 14:21:50 --------------------------
+Fire Chest
+From: RatkoM
+Source: Level 25 Crypt
+--------------- 2023-11-03 14:21:52 --------------------------
+Stone Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:53 --------------------------
+Stone Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:55 --------------------------
+Stone Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-11-03 14:21:57 --------------------------
+Rare Dragon Chest
+From: Magda Ewa
+Source: Level 20 rare Crypt
+--------------- 2023-11-03 14:21:58 --------------------------
+Rare Dragon Chest
+From: Magda Ewa
+Source: Level 20 rare Crypt
+--------------- 2023-11-03 14:22:00 --------------------------
+Forgotten Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-11-03 14:22:02 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:04 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:05 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:07 --------------------------
+Ancients’ Chest
+From: Grikelv
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:09 --------------------------
+Fire Chest
+From: Grozilkree
+Source: Level 10 Crypt
+--------------- 2023-11-03 14:22:11 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:12 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:14 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:16 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:17 --------------------------
+Quick March Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:19 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-03 14:22:21 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:22 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:24 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:26 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:28 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:29 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:31 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:33 --------------------------
+Ancients’ Chest
+From: Cain
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:34 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:36 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:38 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:39 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:41 --------------------------
+Quick March Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:43 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:44 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:46 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:48 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:50 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:51 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:53 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:55 --------------------------
+Ancients’ Chest
+From: Dabb
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:56 --------------------------
+Ancients’ Chest
+From: Karodor
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:22:58 --------------------------
+Ancients’ Chest
+From: Karodor
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:00 --------------------------
+Ancients’ Chest
+From: Karodor
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:02 --------------------------
+Ancients’ Chest
+From: Karodor
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:03 --------------------------
+Ancients’ Chest
+From: Rhodry
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:05 --------------------------
+Ancients’ Chest
+From: Rhodry
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:07 --------------------------
+Ancients’ Chest
+From: Rhodry
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:08 --------------------------
+Ancients’ Chest
+From: Rhodry
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:10 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:12 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:14 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:16 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:17 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:19 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:21 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:22 --------------------------
+Ancients’ Chest
+From: Braveheart
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:24 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:26 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:28 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:29 --------------------------
+Ancients’ Chest
+From: Uhtred
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:31 --------------------------
+Quick March Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:33 --------------------------
+Quick March Chest
+From: Karodor
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:34 --------------------------
+Ancients’ Chest
+From: Xan
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:36 --------------------------
+Ancients’ Chest
+From: Xan
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:38 --------------------------
+Ancients’ Chest
+From: Xan
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:39 --------------------------
+Ancients’ Chest
+From: Xan
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:41 --------------------------
+Quick March Chest
+From: Rhodry
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:43 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:45 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:46 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:48 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:50 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:52 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:53 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:55 --------------------------
+Ancients’ Chest
+From: Mabrinad
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:57 --------------------------
+Quick March Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:23:58 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:00 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:02 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:04 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:05 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:07 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:09 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:10 --------------------------
+Ancients’ Chest
+From: Mr BaCk
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:12 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:14 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:16 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:17 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:19 --------------------------
+Quick March Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:21 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:22 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:24 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:26 --------------------------
+Ancients’ Chest
+From: Lady G
+Source: Rise of the Ancients event
+--------------- 2023-11-03 14:24:27 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-03 14:24:29 --------------------------
+Ancients’ Chest
+From: Karodor
+Source: Rise of the Ancients event

@@ -1,0 +1,400 @@
+--------------- 2023-05-31 08:07:21 --------------------------
+Bone Chest
+From: Racibor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:07:23 --------------------------
+Stone Chest
+From: Racibor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:07:24 --------------------------
+Cobra Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:07:26 --------------------------
+Elegant Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:07:27 --------------------------
+Sand Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:07:29 --------------------------
+Fire Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:07:31 --------------------------
+Bone Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:07:32 --------------------------
+Rare Dragon Chest
+From: MILI
+Source: Level 15 rare Crypt
+--------------- 2023-05-31 08:07:34 --------------------------
+Cobra Chest
+From: Marvilla
+Source: Level 5 Crypt
+--------------- 2023-05-31 08:07:36 --------------------------
+Scorpion Chest
+From: Marvilla
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 08:07:37 --------------------------
+Mayan Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:07:39 --------------------------
+Cobra Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:07:41 --------------------------
+Bone Chest
+From: Marvilla
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:07:42 --------------------------
+Rare Dragon Chest
+From: MILI
+Source: Level 15 rare Crypt
+--------------- 2023-05-31 08:07:44 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN.
+Source: Level 25 Citadel
+--------------- 2023-05-31 08:07:46 --------------------------
+Sand Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:07:47 --------------------------
+Orc Chest
+From: Mighty Forger
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:07:49 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:07:50 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN.
+Source: Level 20 Citadel
+--------------- 2023-05-31 08:07:52 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:07:54 --------------------------
+Stone Chest
+From: Bad FutherMucker
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:07:55 --------------------------
+Bone Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:07:57 --------------------------
+Stone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:07:59 --------------------------
+Bone Chest
+From: Xena
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:00 --------------------------
+Fire Chest
+From: Xena
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:08:02 --------------------------
+Fire Chest
+From: Marvilla
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:08:04 --------------------------
+Stone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:08:05 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:08:07 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN
+Source: Level 15 Citadel
+--------------- 2023-05-31 08:08:09 --------------------------
+Forgotten Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:08:10 --------------------------
+Orc Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:12 --------------------------
+Stone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:08:13 --------------------------
+Elegant Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:08:15 --------------------------
+Fire Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:17 --------------------------
+Bone Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:18 --------------------------
+Infernal Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:08:20 --------------------------
+Elegant Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 08:08:22 --------------------------
+Forgotten Chest
+From: RED GUARDIAN
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:08:23 --------------------------
+Orc Chest
+From: RED GUARDIAN
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:08:25 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:08:27 --------------------------
+Rare Dragon Chest
+From: Xena
+Source: Level 15 rare Crypt
+--------------- 2023-05-31 08:08:28 --------------------------
+Merchant's Chest
+From: Diabolik
+Source: Mercenary Exchange
+--------------- 2023-05-31 08:08:30 --------------------------
+Mayan Chest
+From: Vlad the Impaler
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:08:31 --------------------------
+Forgotten Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:33 --------------------------
+Sand Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:35 --------------------------
+Merchant's Chest
+From: Braveheart
+Source: Mercenary Exchange
+--------------- 2023-05-31 08:08:36 --------------------------
+Braided Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 08:08:38 --------------------------
+Sand Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:08:40 --------------------------
+Rare Dragon Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 08:08:41 --------------------------
+Sand Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:08:43 --------------------------
+Forgotten Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:08:45 --------------------------
+Stone Chest
+From: Mazura
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:08:46 --------------------------
+Bone Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:08:48 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-05-31 08:08:50 --------------------------
+Elegant Chest
+From: Braveheart
+Source: Level 5 Crypt
+--------------- 2023-05-31 08:08:51 --------------------------
+Sand Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:53 --------------------------
+Priest's Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 08:08:55 --------------------------
+Bone Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:08:57 --------------------------
+Forgotten Chest
+From: Fire Armor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:08:58 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:09:00 --------------------------
+Infernal Chest
+From: Fire Armor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:09:02 --------------------------
+Cobra Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:09:03 --------------------------
+Bone Chest
+From: Fire Armor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:09:05 --------------------------
+Cobalt Chest
+From: Sir RES
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 08:09:07 --------------------------
+Stone Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:09:08 --------------------------
+Forgotten Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:09:10 --------------------------
+Forgotten Chest
+From: Fire Armor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:09:11 --------------------------
+Bone Chest
+From: Fire Armor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:09:13 --------------------------
+Forgotten Chest
+From: Fire Armor
+Source: Level 20 Crypt
+--------------- 2023-05-31 08:09:15 --------------------------
+Merchant's Chest
+From: Fosida
+Source: Mercenary Exchange
+--------------- 2023-05-31 08:09:16 --------------------------
+Bone Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:09:18 --------------------------
+Cobra Chest
+From: Xena
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:09:20 --------------------------
+Bone Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:09:21 --------------------------
+Gnome Workshop Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:09:23 --------------------------
+Chest of the Cursed
+From: Morg
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 08:09:25 --------------------------
+Stone Chest
+From: Xena
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:09:26 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-05-31 08:09:28 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-05-31 08:09:30 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-05-31 08:09:31 --------------------------
+Forgotten Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2023-05-31 08:09:33 --------------------------
+Infernal Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-05-31 08:09:35 --------------------------
+Rare Dragon Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 08:09:36 --------------------------
+Merchant's Chest
+From: Pearl
+Source: Mercenary Exchange
+--------------- 2023-05-31 08:09:38 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:40 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:41 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:43 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:45 --------------------------
+Priest's Chest
+From: DarkAngel
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 08:09:47 --------------------------
+Ancients’ Chest
+From: Germanicus
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:48 --------------------------
+Ancients’ Chest
+From: Germanicus
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:50 --------------------------
+Ancients’ Chest
+From: Germanicus
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:52 --------------------------
+Ancients’ Chest
+From: Germanicus
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:53 --------------------------
+Quick March Chest
+From: Germanicus
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:55 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:57 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:09:58 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:10:00 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:10:02 --------------------------
+Quick March Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:10:04 --------------------------
+Ancients’ Chest
+From: Eydaen
+Source: Rise of the Ancients event
+--------------- 2023-05-31 08:10:05 --------------------------
+Ancients’ Chest
+From: Eydaen
+Source: Rise of the Ancients event

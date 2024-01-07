@@ -1,0 +1,793 @@
+--------------- 2023-06-22 16:47:25 --------------------------
+Elegant Chest
+From: Lirafin
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:47:27 --------------------------
+Barbarian Chest
+From: Lirafin
+Source: Level 5 Crypt
+--------------- 2023-06-22 16:47:29 --------------------------
+(K:74 X:568 Y:734) # Gl
+n forest on a gentle slope
+--------------- The above segment might not be present in the archive file due to processing errors
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-06-22 16:47:55 --------------------------
+Gnome Workshop Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:47:57 --------------------------
+Master's summer gift
+From: Tumitac
+Source: Summerfest tournament
+--------------- 2023-06-22 16:47:58 --------------------------
+Master's summer gift
+From: Tumitac
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:00 --------------------------
+Master's summer gift
+From: Tumitac
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:02 --------------------------
+Master's summer gift
+From: Lirinir
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:04 --------------------------
+Summer gift
+From: Lirinir
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:05 --------------------------
+Summer gift
+From: Lirinir
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:07 --------------------------
+Summer gift
+From: Lirinir
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:09 --------------------------
+Summer gift
+From: Lirinir
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:10 --------------------------
+Summer gift
+From: Lirinir
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:12 --------------------------
+Fire Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:48:14 --------------------------
+Infernal Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:48:15 --------------------------
+Cobra Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:48:17 --------------------------
+Mayan Chest
+From: Alexander Greek
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:48:19 --------------------------
+Gladiator's Chest
+From: Mabrinad
+Source: Arena
+--------------- 2023-06-22 16:48:21 --------------------------
+Master's summer gift
+From: Feli
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:22 --------------------------
+Summer gift
+From: Feli
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:24 --------------------------
+Summer gift
+From: Feli
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:26 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 10 Citadel
+--------------- 2023-06-22 16:48:27 --------------------------
+Infernal Chest
+From: Alexander Greek
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:48:29 --------------------------
+Summer gift
+From: Feli
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:31 --------------------------
+Gnome Workshop Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:48:33 --------------------------
+Bone Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-06-22 16:48:35 --------------------------
+Infernal Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:48:37 --------------------------
+Forgotten Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:48:38 --------------------------
+Master's summer gift
+From: Bubino71.
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:40 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 20 Citadel
+--------------- 2023-06-22 16:48:42 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:48:44 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:48:45 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:48:47 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 15 epic Crypt
+--------------- 2023-06-22 16:48:49 --------------------------
+Elegant Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:48:50 --------------------------
+Mayan Chest
+From: aganaway
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:48:52 --------------------------
+Sand Chest
+From: Silverblade
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:48:54 --------------------------
+Master's summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:55 --------------------------
+Master's summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:48:57 --------------------------
+Cobra Chest
+From: aganaway
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:48:59 --------------------------
+Sapphire Chest
+From: desperados
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-06-22 16:49:01 --------------------------
+Master's summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:02 --------------------------
+Master's summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:04 --------------------------
+Summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:06 --------------------------
+Summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:07 --------------------------
+Summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:09 --------------------------
+Summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:11 --------------------------
+Summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:12 --------------------------
+Summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:14 --------------------------
+Summer gift
+From: Maedrosin
+Source: Summerfest tournament
+--------------- 2023-06-22 16:49:16 --------------------------
+Elegant Chest
+From: Silverblade
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:49:18 --------------------------
+Infernal Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:49:19 --------------------------
+Stone Chest
+From: aganaway
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:49:21 --------------------------
+Sapphire Chest
+From: Lirinir
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-06-22 16:49:23 --------------------------
+Orc Chest
+From: Grosvenor
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:49:24 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:49:26 --------------------------
+Cobra Chest
+From: Grosvenor
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:49:28 --------------------------
+Gladiator's Chest
+From: Rainblade
+Source: Arena
+--------------- 2023-06-22 16:49:29 --------------------------
+Cobra Chest
+From: Grosvenor
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:49:31 --------------------------
+Minotaur Chest
+From: Bubino71.
+Source: Level 25 epic Crypt
+--------------- 2023-06-22 16:49:33 --------------------------
+Ancient Warrior's Chest
+From: Alberikh
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 16:49:34 --------------------------
+Sapphire Chest
+From: Lirinir
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-06-22 16:49:36 --------------------------
+Orc Chest
+From: aganaway
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:49:38 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:49:39 --------------------------
+Mayan Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:49:41 --------------------------
+Barbarian Chest
+From: Bubino71.
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:49:43 --------------------------
+Forgotten Chest
+From: NEVIO
+Source: Level 5 Crypt
+--------------- 2023-06-22 16:49:45 --------------------------
+Gnome Workshop Chest
+From: Bubino71.
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:49:47 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:49:48 --------------------------
+Orc Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:49:50 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 10 Citadel
+--------------- 2023-06-22 16:49:52 --------------------------
+Sand Chest
+From: desperados
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:49:53 --------------------------
+Fire Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:49:55 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 16:49:57 --------------------------
+Stone Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:49:59 --------------------------
+Sand Chest
+From: desperados
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:00 --------------------------
+Elegant Chest
+From: Lirinir
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:02 --------------------------
+Minotaur Chest
+From: Eydaen
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 16:50:04 --------------------------
+Rare Dragon Chest
+From: Maedrosin
+Source: Level 25 rare Crypt
+--------------- 2023-06-22 16:50:06 --------------------------
+Barbarian Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:07 --------------------------
+Rare Dragon Chest
+From: Lirinir
+Source: Level 25 rare Crypt
+--------------- 2023-06-22 16:50:09 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:11 --------------------------
+Forgotten Chest
+From: desperados
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:12 --------------------------
+Cobra Chest
+From: Eydaen
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:14 --------------------------
+Rare Dragon Chest
+From: Lirinir
+Source: Level 25 rare Crypt
+--------------- 2023-06-22 16:50:16 --------------------------
+Infernal Chest
+From: aganaway
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:50:17 --------------------------
+Gnome Workshop Chest
+From: MarcusTulliusCicero
+Source: Level 5 Crypt
+--------------- 2023-06-22 16:50:19 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:21 --------------------------
+Forgotten Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:23 --------------------------
+Sand Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:24 --------------------------
+Sapphire Chest
+From: aganaway
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-06-22 16:50:26 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:28 --------------------------
+Gnome Workshop Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:50:29 --------------------------
+Sapphire Chest
+From: Lirinir
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-06-22 16:50:31 --------------------------
+Cobra Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:33 --------------------------
+Elven Citadel Chest
+From: Bubino71.
+Source: Level 30 Citadel
+--------------- 2023-06-22 16:50:35 --------------------------
+Master's summer gift
+From: Alberikh
+Source: Summerfest tournament
+--------------- 2023-06-22 16:50:36 --------------------------
+Forgotten Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:38 --------------------------
+Cobra Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:40 --------------------------
+Stone Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:41 --------------------------
+Cobra Chest
+From: desperados
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:43 --------------------------
+Elven Citadel Chest
+From: Bubino71.
+Source: Level 30 Citadel
+--------------- 2023-06-22 16:50:45 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:50:46 --------------------------
+Cobra Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:48 --------------------------
+Barbarian Chest
+From: NEVIO
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:50:50 --------------------------
+Stone Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:51 --------------------------
+Sapphire Chest
+From: Lirinir
+Source: Level 40-44 Vault of the Ancients
+--------------- 2023-06-22 16:50:53 --------------------------
+Chest of the Cursed
+From: aganaway
+Source: Level 15 epic Crypt
+--------------- 2023-06-22 16:50:55 --------------------------
+Forgotten Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:50:56 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:50:58 --------------------------
+Rare Dragon Chest
+From: Bubino71.
+Source: Level 30 rare Crypt
+--------------- 2023-06-22 16:51:00 --------------------------
+Master's summer gift
+From: Bubino71.
+Source: Summerfest tournament
+--------------- 2023-06-22 16:51:02 --------------------------
+Cobra Chest
+From: desperados
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:51:03 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:51:05 --------------------------
+Stone Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:51:07 --------------------------
+Rare Dragon Chest
+From: Bubino71.
+Source: Level 30 rare Crypt
+--------------- 2023-06-22 16:51:09 --------------------------
+Gnome Workshop Chest
+From: MarcusTulliusCicero
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:51:10 --------------------------
+Master's summer gift
+From: Bubino71.
+Source: Summerfest tournament
+--------------- 2023-06-22 16:51:12 --------------------------
+Elegant Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:51:14 --------------------------
+Forgotten Chest
+From: Dacage
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:51:15 --------------------------
+Fire Chest
+From: NEVIO
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:51:17 --------------------------
+Rare Dragon Chest
+From: Bubino71.
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 16:51:19 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:51:20 --------------------------
+Sand Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:51:22 --------------------------
+Rare Dragon Chest
+From: Bubino71.
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 16:51:24 --------------------------
+Sand Chest
+From: Lirinir
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:51:26 --------------------------
+Rare Dragon Chest
+From: Bubino71.
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 16:51:27 --------------------------
+Elegant Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:51:29 --------------------------
+Elven Citadel Chest
+From: Bubino71.
+Source: Level 30 Citadel
+--------------- 2023-06-22 16:51:31 --------------------------
+Sapphire Chest
+From: Lirinir
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-22 16:51:32 --------------------------
+Elven Citadel Chest
+From: Lirinir
+Source: Level 25 Citadel
+--------------- 2023-06-22 16:51:34 --------------------------
+Cobra Chest
+From: Alberikh
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:51:36 --------------------------
+Summer gift
+From: Alberikh
+Source: Summerfest tournament
+--------------- 2023-06-22 16:51:37 --------------------------
+Elven Citadel Chest
+From: Lirinir
+Source: Level 25 Citadel
+--------------- 2023-06-22 16:51:39 --------------------------
+Elven Citadel Chest
+From: Bubino71.
+Source: Level 30 Citadel
+--------------- 2023-06-22 16:51:41 --------------------------
+Priest's Chest
+From: Alberikh
+Source: Level 25 epic Crypt
+--------------- 2023-06-22 16:51:43 --------------------------
+Sapphire Chest
+From: Mabrinad
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-22 16:51:44 --------------------------
+Elven Citadel Chest
+From: Lirinir
+Source: Level 25 Citadel
+--------------- 2023-06-22 16:51:46 --------------------------
+Master's summer gift
+From: Rudepravo Italiano
+Source: Summerfest tournament
+--------------- 2023-06-22 16:51:48 --------------------------
+Rare Dragon Chest
+From: Bubino71.
+Source: Level 30 rare Crypt
+--------------- 2023-06-22 16:51:49 --------------------------
+Rare Dragon Chest
+From: Bubino71.
+Source: Level 30 rare Crypt
+--------------- 2023-06-22 16:51:51 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 25 Citadel
+--------------- 2023-06-22 16:51:53 --------------------------
+Master's summer gift
+From: Marcelo
+Source: Summerfest tournament
+--------------- 2023-06-22 16:51:55 --------------------------
+Summer gift
+From: Marcelo
+Source: Summerfest tournament
+--------------- 2023-06-22 16:51:56 --------------------------
+Summer gift
+From: Marcelo
+Source: Summerfest tournament
+--------------- 2023-06-22 16:51:58 --------------------------
+Summer gift
+From: Marcelo
+Source: Summerfest tournament
+--------------- 2023-06-22 16:52:00 --------------------------
+Summer gift
+From: Marcelo
+Source: Summerfest tournament
+--------------- 2023-06-22 16:52:02 --------------------------
+Summer gift
+From: Marcelo
+Source: Summerfest tournament
+--------------- 2023-06-22 16:52:03 --------------------------
+Summer gift
+From: Marcelo
+Source: Summerfest tournament
+--------------- 2023-06-22 16:52:05 --------------------------
+Master's summer gift
+From: Bubino71.
+Source: Summerfest tournament
+--------------- 2023-06-22 16:52:07 --------------------------
+Summer gift
+From: Bubino71.
+Source: Summerfest tournament
+--------------- 2023-06-22 16:52:08 --------------------------
+Rare Dragon Chest
+From: Alberikh
+Source: Level 25 rare Crypt
+--------------- 2023-06-22 16:52:10 --------------------------
+Rare Dragon Chest
+From: Marcelo
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 16:52:12 --------------------------
+Elegant Chest
+From; Rudepravo Italiano
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:52:14 --------------------------
+Forgotten Chest
+From; Rudepravo Italiano
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:52:15 --------------------------
+Gnome Workshop Chest
+From; Rudepravo Italiano
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:52:17 --------------------------
+Rare Dragon Chest
+From; Rudepravo Italiano
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 16:52:19 --------------------------
+Sand Chest
+From: idaco
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:52:20 --------------------------
+Sapphire Chest
+From: desperados
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-06-22 16:52:22 --------------------------
+Forgotten Chest
+From: MarcusTulliusCicero
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:52:24 --------------------------
+Cobra Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:52:26 --------------------------
+Orc Chest
+From: Sabar
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:52:27 --------------------------
+Bone Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:52:29 --------------------------
+Fire Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:52:31 --------------------------
+Gladiator's Chest
+From: Kerilir
+Source: Arena
+--------------- 2023-06-22 16:52:33 --------------------------
+Cobra Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-06-22 16:52:34 --------------------------
+Elegant Chest
+From; Rudepravo Italiano
+Source: Level 5 Crypt
+--------------- 2023-06-22 16:52:36 --------------------------
+Infernal Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:52:38 --------------------------
+Elegant Chest
+From: Nobody special
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:52:39 --------------------------
+Fire Chest
+From: Nobody special
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:52:41 --------------------------
+Cobra Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:52:43 --------------------------
+Bone Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:52:44 --------------------------
+Cobra Chest
+From: Sabar
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:52:46 --------------------------
+Priest's Chest
+From: MADMAN
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 16:52:48 --------------------------
+Turtle Chest
+From: MADMAN
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 16:52:49 --------------------------
+Harpy Chest
+From: MADMAN
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 16:52:51 --------------------------
+Sand Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:52:53 --------------------------
+Gnome Workshop Chest
+From: Nobody special
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:52:55 --------------------------
+Cobra Chest
+From: Sabar
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:52:56 --------------------------
+Master's summer gift
+From: Sabar
+Source: Summerfest tournament
+--------------- 2023-06-22 16:52:58 --------------------------
+Mayan Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:53:00 --------------------------
+Barbarian Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-06-22 16:53:01 --------------------------
+Infernal Chest
+From: Nobody special
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:53:03 --------------------------
+Sapphire Chest
+From: Tumitac
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-06-22 16:53:05 --------------------------
+Orc Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:53:07 --------------------------
+Stone Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:53:08 --------------------------
+Rare Dragon Chest
+From: Tumitac
+Source: Level 25 rare Crypt
+--------------- 2023-06-22 16:53:10 --------------------------
+Forgotten Chest
+From: MADMAN
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:53:12 --------------------------
+Minotaur Chest
+From: Tumitac
+Source: Level 20 epic Crypt
+--------------- 2023-06-22 16:53:13 --------------------------
+Infernal Chest
+From: MADMAN
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:53:15 --------------------------
+Sapphire Chest
+From: Morg
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-22 16:53:17 --------------------------
+Sand Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:53:19 --------------------------
+Sapphire Chest
+From: Tumitac
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-06-22 16:53:20 --------------------------
+Stone Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-06-22 16:53:22 --------------------------
+Fire Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:53:24 --------------------------
+Bone Chest
+From: MADMAN
+Source: Level 10 Crypt
+--------------- 2023-06-22 16:53:25 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt
+--------------- 2023-06-22 16:53:27 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 20 rare Crypt

@@ -1,0 +1,65 @@
+--------------- 2023-11-11 04:04:58 --------------------------
+Rare Dragon Chest
+From: Mr BaCk
+Source: Level 20 rare Crypt
+--------------- 2023-11-11 04:05:00 --------------------------
+Scarab Chest
+From: Mr BaCk
+Source: Level 15 epic Crypt
+--------------- 2023-11-11 04:05:02 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2023-11-11 04:05:03 --------------------------
+Chest of Authority
+From: Grikelv
+Source: Authority Rush tournament
+--------------- 2023-11-11 04:05:05 --------------------------
+Forgotten Chest
+From: Rhodorix
+Source: Level 20 Crypt
+--------------- 2023-11-11 04:05:07 --------------------------
+Elven Citadel Chest
+From: Darvenen
+Source: Level 10 Citadel
+--------------- 2023-11-11 04:05:08 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 10 Crypt
+--------------- 2023-11-11 04:05:10 --------------------------
+Rare Dragon Chest
+From: Darvenen
+Source: Level 10 rare Crypt
+--------------- 2023-11-11 04:05:12 --------------------------
+Infernal Chest
+From: Karodor
+Source: Level 5 Crypt
+--------------- 2023-11-11 04:05:14 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2023-11-11 04:05:15 --------------------------
+Mayan Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-11-11 04:05:17 --------------------------
+Common Chest of Wealth
+From: Feli
+Source: Clan wealth
+--------------- 2023-11-11 04:05:19 --------------------------
+Uncommon Chest of Wealth
+From: Feli
+Source: Clan wealth
+--------------- 2023-11-11 04:05:20 --------------------------
+Rare Chest of Wealth
+From: Feli
+Source: Clan wealth
+--------------- 2023-11-11 04:05:22 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-11-11 04:06:37 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 15 Citadel

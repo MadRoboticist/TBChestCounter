@@ -1,0 +1,133 @@
+--------------- 2023-10-24 09:44:55 --------------------------
+est
+LES,
+vel 15 Crypt
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-10-24 15:38:56 --------------------------
+Stone Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:38:58 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:00 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:02 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:39:03 --------------------------
+Cobra Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:39:05 --------------------------
+Bone Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:06 --------------------------
+Rare Dragon Chest
+From: Bamsi
+Source: Level 15 rare Crypt
+--------------- 2023-10-24 15:39:08 --------------------------
+Cobra Chest
+From: Bamsi
+Source: Level 5 Crypt
+--------------- 2023-10-24 15:39:10 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 20 rare Crypt
+--------------- 2023-10-24 15:39:11 --------------------------
+Mayan Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:39:13 --------------------------
+Elven Citadel Chest
+From: Heretical Hermit
+Source: Level 30 Citadel
+--------------- 2023-10-24 15:39:15 --------------------------
+Sand Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:16 --------------------------
+Elegant Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-10-24 15:39:18 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-10-24 15:39:20 --------------------------
+Mayan Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-24 15:39:22 --------------------------
+Elven Citadel Chest
+From: Heretical Hermit
+Source: Level 30 Citadel
+--------------- 2023-10-24 15:39:23 --------------------------
+Cobra Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:39:25 --------------------------
+Bone Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:39:26 --------------------------
+Cobra Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-10-24 15:39:28 --------------------------
+Fire Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:30 --------------------------
+Mayan Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:39:31 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:33 --------------------------
+Orc Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-10-24 15:39:35 --------------------------
+Orc Chest
+From: Alberikh
+Source: Level 20 Crypt
+--------------- 2023-10-24 15:39:36 --------------------------
+Orc Chest
+From: Alberikh
+Source: Level 20 Crypt
+--------------- 2023-10-24 15:39:38 --------------------------
+Scarab Chest
+From: Alberikh
+Source: Level 20 epic Crypt
+--------------- 2023-10-24 15:39:40 --------------------------
+Orc Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:41 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-24 15:39:43 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 10 rare Crypt
+--------------- 2023-10-24 15:39:45 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-24 15:39:46 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 15 rare Crypt
+--------------- 2023-10-24 15:39:48 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 15 Citadel

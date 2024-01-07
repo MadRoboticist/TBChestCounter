@@ -1,0 +1,200 @@
+--------------- 2023-12-11 10:50:01 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-12-11 10:50:03 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-11 10:50:05 --------------------------
+Elegant Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-11 10:50:07 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 25 rare Crypt
+--------------- 2023-12-11 10:50:08 --------------------------
+Winter gift
+From: Diovani
+Source: Winterfest tournament
+--------------- 2023-12-11 10:50:10 --------------------------
+Braided Chest
+From: Lady G
+Source: Level 20 epic Crypt
+--------------- 2023-12-11 10:50:12 --------------------------
+Forgotten Chest
+From: Diovani
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:50:14 --------------------------
+Fire Chest
+From: Diovani
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:50:15 --------------------------
+Orc Chest
+From: Foolish Mortal
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:50:17 --------------------------
+Gnome Workshop Chest
+From: Foolish Mortal
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:50:19 --------------------------
+Stone Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-11 10:50:21 --------------------------
+Orc Chest
+From: Foolish Mortal
+Source: Level 25 Crypt
+--------------- 2023-12-11 10:50:22 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 25 Citadel
+--------------- 2023-12-11 10:50:24 --------------------------
+Forgotten Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-11 10:50:26 --------------------------
+Cobalt Chest
+From: Hulk
+Source: Level 20 epic Crypt
+--------------- 2023-12-11 10:50:28 --------------------------
+Barbarian Chest
+From: Menelaos
+Source: Level 19 heroic Monster
+--------------- 2023-12-11 10:50:29 --------------------------
+Winter gift
+From: Menelaos
+Source: Winterfest tournament
+--------------- 2023-12-11 10:50:31 --------------------------
+Gnome Workshop Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-11 10:50:33 --------------------------
+Ancient Warrior's Chest
+From: Foolish Mortal
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 10:50:35 --------------------------
+Forgotten Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-12-11 10:50:36 --------------------------
+Ancient Warrior's Chest
+From: Foolish Mortal
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 10:50:38 --------------------------
+Elven Citadel Chest
+From: Darvenen
+Source: Level 15 Citadel
+--------------- 2023-12-11 10:50:40 --------------------------
+Elegant Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:50:42 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2023-12-11 10:50:43 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:50:45 --------------------------
+Hell's Blacksmith's chest
+From: Heretical Hermit
+Source: Epic Inferno squad
+--------------- 2023-12-11 10:50:47 --------------------------
+Hell's Blacksmith's chest
+From: Heretical Hermit
+Source: Epic Inferno squad
+--------------- 2023-12-11 10:50:49 --------------------------
+Hell's Blacksmith's chest
+From: Heretical Hermit
+Source: Epic Inferno squad
+--------------- 2023-12-11 10:50:51 --------------------------
+Hell's Blacksmith's chest
+From: Heretical Hermit
+Source: Epic Inferno squad
+--------------- 2023-12-11 10:50:53 --------------------------
+Hell's Blacksmith's chest
+From: Heretical Hermit
+Source: Epic Inferno squad
+--------------- 2023-12-11 10:50:54 --------------------------
+Hell's Blacksmith's chest
+From: Heretical Hermit
+Source: Epic Inferno squad
+--------------- 2023-12-11 10:50:56 --------------------------
+Hell's Blacksmith's chest
+From: Heretical Hermit
+Source: Epic Inferno squad
+--------------- 2023-12-11 10:50:58 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 15 Citadel
+--------------- 2023-12-11 10:51:00 --------------------------
+Rare Dragon Chest
+From: Alberikh
+Source: Level 25 rare Crypt
+--------------- 2023-12-11 10:51:02 --------------------------
+Rare Dragon Chest
+From: Alberikh
+Source: Level 25 rare Crypt
+--------------- 2023-12-11 10:51:03 --------------------------
+Trillium Chest
+From: Foolish Mortal
+Source: Level 20 epic Crypt
+--------------- 2023-12-11 10:51:05 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:51:07 --------------------------
+House of Horrors Chest
+From: Foolish Mortal
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 10:51:09 --------------------------
+Abandoned Chest
+From: Foolish Mortal
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 10:51:10 --------------------------
+Elven Citadel Chest
+From: Darvenen
+Source: Level 15 Citadel
+--------------- 2023-12-11 10:51:12 --------------------------
+Orc Chest
+From: Ladacznica
+Source: Level 10 Crypt
+--------------- 2023-12-11 10:51:14 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 15 rare Crypt
+--------------- 2023-12-11 10:51:16 --------------------------
+Barbarian Chest
+From: Ladacznica
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 10:51:17 --------------------------
+Abandoned Chest
+From: Funfiren
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 10:51:19 --------------------------
+Forgotten Chest
+From: Ladacznica
+Source: Level 15 Crypt
+--------------- 2023-12-11 10:51:21 --------------------------
+Infernal Chest
+From: Ladacznica
+Source: Level 10 Crypt
+--------------- 2023-12-11 10:51:23 --------------------------
+Elegant Chest
+From: Ladacznica
+Source: Level 5 Crypt
+--------------- 2023-12-11 10:51:24 --------------------------
+Infernal Chest
+From: Funfiren
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:51:26 --------------------------
+Barbarian Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-11 10:51:28 --------------------------
+Fire Chest
+From: Eydaen
+Source: Level 15 Crypt

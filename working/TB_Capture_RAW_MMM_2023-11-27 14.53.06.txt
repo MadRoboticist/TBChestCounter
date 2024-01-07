@@ -1,0 +1,612 @@
+--------------- 2023-11-27 14:53:08 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:53:09 --------------------------
+Barbarian Chest
+From: Mausida
+Source: Level 15 Crypt
+--------------- 2023-11-27 14:53:11 --------------------------
+Trillium Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:13 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:53:15 --------------------------
+Priest's Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:16 --------------------------
+Merchant's Chest
+From: Thorn
+Source: Mercenary Exchange
+--------------- 2023-11-27 14:53:18 --------------------------
+Elven Citadel Chest
+From: Golgotha
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:53:20 --------------------------
+Barbarian Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:21 --------------------------
+Abandoned Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:23 --------------------------
+White Wood Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:25 --------------------------
+Braided Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:26 --------------------------
+White Wood Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:28 --------------------------
+Harpy Chest
+From: Mausida
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:30 --------------------------
+Merchant's Chest
+From: Thorn
+Source: Mercenary Exchange
+--------------- 2023-11-27 14:53:32 --------------------------
+Elven Citadel Chest
+From: Mausida
+Source: Level 10 Citadel
+--------------- 2023-11-27 14:53:33 --------------------------
+Barbarian Chest
+From: Darvenen
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:53:35 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:53:37 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:53:38 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:53:40 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:53:42 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:53:43 --------------------------
+Elven Citadel Chest
+From: Mausida
+Source: Level 10 Citadel
+--------------- 2023-11-27 14:53:45 --------------------------
+Ancient Warrior's Chest
+From: Brandemet
+Source: Level 15 epic Crypt
+--------------- 2023-11-27 14:53:47 --------------------------
+Elven Citadel Chest
+From: Grikelv
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:53:49 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:53:50 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:53:52 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:53:54 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:53:55 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:53:57 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:53:59 --------------------------
+Cursed Citadel Chest
+From: Thorn
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:00 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-11-27 14:54:02 --------------------------
+Elven Citadel Chest
+From: Mausida
+Source: Level 10 Citadel
+--------------- 2023-11-27 14:54:04 --------------------------
+Bone Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-11-27 14:54:05 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:07 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:54:09 --------------------------
+Cursed Citadel Chest
+From: Thorn
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:10 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-11-27 14:54:12 --------------------------
+Cursed Citadel Chest
+From: Foolish Mortal
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:14 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 30 Citadel
+--------------- 2023-11-27 14:54:15 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:17 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:19 --------------------------
+Elven Citadel Chest
+From: Mausida
+Source: Level 10 Citadel
+--------------- 2023-11-27 14:54:20 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:54:22 --------------------------
+Elven Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:54:24 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:54:26 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:54:27 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:29 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:54:31 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:54:33 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:54:34 --------------------------
+Elven Citadel Chest
+From: Foolish Mortal
+Source: Level 30 Citadel
+--------------- 2023-11-27 14:54:36 --------------------------
+Elven Citadel Chest
+From: Sir Cthulhu |
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:38 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:40 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:41 --------------------------
+Elven Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:54:43 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:45 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:54:47 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:54:49 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:50 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:54:52 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:54 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-11-27 14:54:55 --------------------------
+Merchant's Chest
+From: Kerilir
+Source: Mercenary Exchange
+--------------- 2023-11-27 14:54:57 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:54:59 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:01 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:55:02 --------------------------
+Elven Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:04 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:06 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:55:07 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:09 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:11 --------------------------
+Orc Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:55:13 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:55:14 --------------------------
+Barbarian Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:55:16 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:18 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:19 --------------------------
+Stone Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:55:21 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:23 --------------------------
+Elegant Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:55:25 --------------------------
+Elven Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:26 --------------------------
+Minotaur Chest
+From: Braveheart
+Source: Level 25 epic Crypt
+--------------- 2023-11-27 14:55:28 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:30 --------------------------
+Minotaur Chest
+From: Braveheart
+Source: Level 30 epic Crypt
+--------------- 2023-11-27 14:55:32 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 25 rare Crypt
+--------------- 2023-11-27 14:55:33 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-11-27 14:55:35 --------------------------
+Cursed Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:37 --------------------------
+Rare Dragon Chest
+From: Braveheart
+Source: Level 30 rare Crypt
+--------------- 2023-11-27 14:55:39 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:40 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-11-27 14:55:42 --------------------------
+Elven Citadel Chest
+From: Golgotha
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:44 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-11-27 14:55:46 --------------------------
+Cursed Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:47 --------------------------
+Cursed Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:55:49 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:51 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:52 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-11-27 14:55:54 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-11-27 14:55:56 --------------------------
+Minotaur Chest
+From: Braveheart
+Source: Level 25 epic Crypt
+--------------- 2023-11-27 14:55:58 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:55:59 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-11-27 14:56:01 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-11-27 14:56:03 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:56:05 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:56:06 --------------------------
+Ancient Bastion Chest
+From: Foolish Mortal
+Source: Level 25 epic Crypt
+--------------- 2023-11-27 14:56:08 --------------------------
+Orc Chest
+From: Thorn
+Source: Level 20 Crypt
+--------------- 2023-11-27 14:56:10 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 25 rare Crypt
+--------------- 2023-11-27 14:56:11 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-11-27 14:56:13 --------------------------
+Cursed Citadel Chest
+From: Thorn
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:56:15 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:56:17 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 25 rare Crypt
+--------------- 2023-11-27 14:56:19 --------------------------
+Minotaur Chest
+From: Braveheart
+Source: Level 25 epic Crypt
+--------------- 2023-11-27 14:56:20 --------------------------
+Elegant Chest
+From: Thorn
+Source: Level 20 Crypt
+--------------- 2023-11-27 14:56:22 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:56:24 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:56:25 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-11-27 14:56:27 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 25 rare Crypt
+--------------- 2023-11-27 14:56:29 --------------------------
+Infernal Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:56:30 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 25 rare Crypt
+--------------- 2023-11-27 14:56:32 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 20 rare Crypt
+--------------- 2023-11-27 14:56:34 --------------------------
+Mayan Chest
+From: Thorn
+Source: Level 20 Crypt
+--------------- 2023-11-27 14:56:36 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:56:37 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:56:39 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 25 rare Crypt
+--------------- 2023-11-27 14:56:41 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 25 rare Crypt
+--------------- 2023-11-27 14:56:42 --------------------------
+Sand Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-11-27 14:56:44 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:56:46 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:56:47 --------------------------
+White Wood Chest
+From: Foolish Mortal
+Source: Level 20 epic Crypt
+--------------- 2023-11-27 14:56:49 --------------------------
+Bone Chest
+From: Thorn
+Source: Level 20 Crypt
+--------------- 2023-11-27 14:56:51 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:56:52 --------------------------
+Scarab Chest
+From: Foolish Mortal
+Source: Level 20 epic Crypt
+--------------- 2023-11-27 14:56:54 --------------------------
+Barbarian Chest
+From: Sir RES
+Source: Level 20 Crypt
+--------------- 2023-11-27 14:56:56 --------------------------
+Sand Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:56:57 --------------------------
+Elven Citadel Chest
+From: Braveheart
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:56:59 --------------------------
+Infernal Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:57:01 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:57:02 --------------------------
+Braided Chest
+From: Rainblade
+Source: Level 20 epic Crypt
+--------------- 2023-11-27 14:57:04 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:57:06 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:57:08 --------------------------
+Elegant Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:57:09 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:57:11 --------------------------
+Ancient Warrior's Chest
+From: Foolish Mortal
+Source: Level 25 epic Crypt
+--------------- 2023-11-27 14:57:13 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:57:15 --------------------------
+Elven Citadel Chest
+From: Braveheart
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:57:16 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:57:18 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:57:20 --------------------------
+Elegant Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-11-27 14:57:21 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:57:23 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-11-27 14:57:25 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel
+--------------- 2023-11-27 14:57:27 --------------------------
+Bone Chest
+From: Sir Cthulhu |
+Source: Level 10 Crypt
+--------------- 2023-11-27 14:57:28 --------------------------
+Cursed Citadel Chest
+From: Heretical Hermit
+Source: Level 25 Citadel

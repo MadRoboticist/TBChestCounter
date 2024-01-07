@@ -1,0 +1,586 @@
+--------------- 2023-12-30 16:16:37 --------------------------
+Wooden Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-30 16:16:38 --------------------------
+Wooden Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-30 16:16:40 --------------------------
+Wooden Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-30 16:16:42 --------------------------
+Bronze Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-30 16:16:43 --------------------------
+Bronze Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-30 16:16:45 --------------------------
+Bronze Chest
+From: Germanicus
+Source; Bank
+--------------- 2023-12-30 16:16:47 --------------------------
+Wooden Chest
+From: Grikelv
+Source; Bank
+--------------- 2023-12-30 16:16:48 --------------------------
+Wooden Chest
+From: Grikelv
+Source; Bank
+--------------- 2023-12-30 16:16:50 --------------------------
+Wooden Chest
+From: Grikelv
+Source; Bank
+--------------- 2023-12-30 16:16:51 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-30 16:17:00 --------------------------
+Chest of the Cursed
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-30 16:17:02 --------------------------
+Trillium Chest
+From: Rudolf
+Source: Level 15 epic Crypt
+--------------- 2023-12-30 16:17:04 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 20 rare Crypt
+--------------- 2023-12-30 16:17:05 --------------------------
+Trillium Chest
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-30 16:17:07 --------------------------
+Chest of the Cursed
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-30 16:17:09 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:10 --------------------------
+Chest of the Cursed
+From: Rudolf
+Source: Level 20 epic Crypt
+--------------- 2023-12-30 16:17:12 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:14 --------------------------
+Fire Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:17:15 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 15 rare Crypt
+--------------- 2023-12-30 16:17:17 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:17:19 --------------------------
+Mayan Chest
+From: Grikelv
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:17:21 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:22 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:24 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:17:26 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:27 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:29 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:17:31 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:17:33 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:34 --------------------------
+Barbarian Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:17:36 --------------------------
+Minotaur Chest
+From: Tumitac
+Source: Level 25 epic Crypt
+--------------- 2023-12-30 16:17:38 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 15 rare Crypt
+--------------- 2023-12-30 16:17:39 --------------------------
+Abandoned Chest
+From: Tumitac
+Source: Level 25 epic Crypt
+--------------- 2023-12-30 16:17:41 --------------------------
+Infernal Chest
+From: Sir James III Son of Hadur
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:17:43 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 15 rare Crypt
+--------------- 2023-12-30 16:17:45 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 10 Citadel
+--------------- 2023-12-30 16:17:46 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:48 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:50 --------------------------
+Gnome Workshop Chest
+From: Sir James III Son of Hadur
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:17:52 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:53 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:17:55 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:17:57 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:17:58 --------------------------
+Bone Chest
+From: Hulk
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:18:00 --------------------------
+Mayan Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:02 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 15 rare Crypt
+--------------- 2023-12-30 16:18:03 --------------------------
+Orc Chest
+From: Nilaath
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:05 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 10 rare Crypt
+--------------- 2023-12-30 16:18:07 --------------------------
+Rare Dragon Chest
+From: Grikelv
+Source: Level 20 rare Crypt
+--------------- 2023-12-30 16:18:08 --------------------------
+Orc Chest
+From: Nilaath
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:18:10 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:12 --------------------------
+Orc Chest
+From: Nilaath
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:18:13 --------------------------
+Ancient Bastion Chest
+From: DarkAngel
+Source: Level 20 epic Crypt
+--------------- 2023-12-30 16:18:15 --------------------------
+Bone Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:17 --------------------------
+Stone Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:18:18 --------------------------
+Rare Dragon Chest
+From: Nilaath
+Source: Level 20 rare Crypt
+--------------- 2023-12-30 16:18:20 --------------------------
+Forgotten Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:22 --------------------------
+Gnome Workshop Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:23 --------------------------
+Rare Dragon Chest
+From: Nilaath
+Source: Level 20 rare Crypt
+--------------- 2023-12-30 16:18:25 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 15 rare Crypt
+--------------- 2023-12-30 16:18:27 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:18:28 --------------------------
+Fire Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:18:30 --------------------------
+Bone Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:18:32 --------------------------
+Cobra Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:18:34 --------------------------
+Rare Dragon Chest
+From: Maveriel
+Source: Level 15 rare Crypt
+--------------- 2023-12-30 16:18:35 --------------------------
+Forgotten Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:18:37 --------------------------
+Minotaur Chest
+From: DarkAngel
+Source: Level 15 epic Crypt
+--------------- 2023-12-30 16:18:39 --------------------------
+Fire Chest
+From: Sir James III Son of Hadur
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:18:40 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:18:42 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:18:44 --------------------------
+Gnome Workshop Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:18:46 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:18:47 --------------------------
+Forgotten Chest
+From: DarkAngel
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:49 --------------------------
+Barbarian Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:18:51 --------------------------
+Titansteel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 epic Crypt
+--------------- 2023-12-30 16:18:52 --------------------------
+Cobalt Chest
+From: Sir James III Son of Hadur
+Source: Level 30 epic Crypt
+--------------- 2023-12-30 16:18:54 --------------------------
+Mayan Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:18:56 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:18:58 --------------------------
+Titansteel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 epic Crypt
+--------------- 2023-12-30 16:18:59 --------------------------
+Forgotten Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:19:01 --------------------------
+Forgotten Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:19:03 --------------------------
+Cobalt Chest
+From: Sir James III Son of Hadur
+Source: Level 30 epic Crypt
+--------------- 2023-12-30 16:19:05 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-30 16:19:06 --------------------------
+Sand Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:19:08 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-30 16:19:10 --------------------------
+Cobalt Chest
+From: Sir James III Son of Hadur
+Source: Level 30 epic Crypt
+--------------- 2023-12-30 16:19:11 --------------------------
+Elegant Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:19:13 --------------------------
+Rare Dragon Chest
+From: Sir James III Son of Hadur
+Source: Level 25 rare Crypt
+--------------- 2023-12-30 16:19:15 --------------------------
+Rare Dragon Chest
+From: Sir James III Son of Hadur
+Source: Level 25 rare Crypt
+--------------- 2023-12-30 16:19:16 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-30 16:19:18 --------------------------
+Rare Dragon Chest
+From: Sir James III Son of Hadur
+Source: Level 25 rare Crypt
+--------------- 2023-12-30 16:19:20 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:19:21 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:19:23 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-30 16:19:25 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:19:26 --------------------------
+Gnome Workshop Chest
+From: Finvenen
+Source: Level 5 Crypt
+--------------- 2023-12-30 16:19:28 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:19:30 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:19:31 --------------------------
+Elven Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:19:33 --------------------------
+Stone Chest
+From: Immortal
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:19:35 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:19:36 --------------------------
+Sand Chest
+From: Immortal
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:19:38 --------------------------
+Elven Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:19:40 --------------------------
+Forgotten Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:19:42 --------------------------
+Runic Chest
+From: Immortal
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-30 16:19:43 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:19:45 --------------------------
+Barbarian Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:19:47 --------------------------
+Bone Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:19:48 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-30 16:19:50 --------------------------
+Sand Chest
+From: Painmoon
+Source: Level 20 Crypt
+--------------- 2023-12-30 16:19:52 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 35-39 Raid Runic squad
+--------------- 2023-12-30 16:19:53 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-30 16:19:55 --------------------------
+Forgotten Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:19:57 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:19:58 --------------------------
+Elven Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:20:00 --------------------------
+Elegant Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:20:02 --------------------------
+Bone Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:20:04 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:20:05 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-30 16:20:07 --------------------------
+Cobra Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:20:09 --------------------------
+Cobra Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:20:10 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-30 16:20:12 --------------------------
+Sand Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:20:14 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-30 16:20:15 --------------------------
+Elegant Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:20:17 --------------------------
+Abandoned Chest
+From: Rhodry
+Source: Level 25 epic Crypt
+--------------- 2023-12-30 16:20:19 --------------------------
+Barbarian Chest
+From: Rhodry
+Source: Level 25 epic Crypt
+--------------- 2023-12-30 16:20:20 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-30 16:20:22 --------------------------
+Elven Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-30 16:20:24 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-30 16:20:25 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-30 16:20:27 --------------------------
+Sand Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:20:29 --------------------------
+Runic Chest
+From: Thorn
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-30 16:20:30 --------------------------
+Bone Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-30 16:20:32 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:20:34 --------------------------
+Epic Monster Chest
+From: Gradog
+Source: Epic Undead squad
+--------------- 2023-12-30 16:20:35 --------------------------
+Epic Monster Chest
+From: Gradog
+Source: Epic Undead squad
+--------------- 2023-12-30 16:20:37 --------------------------
+Epic Monster Chest
+From: Gradog
+Source: Epic Undead squad
+--------------- 2023-12-30 16:20:39 --------------------------
+Epic Monster Chest
+From: Gradog
+Source: Epic Undead squad
+--------------- 2023-12-30 16:20:41 --------------------------
+Epic Monster Chest
+From: Gradog
+Source: Epic Undead squad
+--------------- 2023-12-30 16:20:43 --------------------------
+Epic Monster Chest
+From: Gradog
+Source: Epic Undead squad
+--------------- 2023-12-30 16:20:44 --------------------------
+Epic Monster Chest
+From: Gradog
+Source: Epic Undead squad
+--------------- 2023-12-30 16:20:46 --------------------------
+Runic Chest
+From: Thorn
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-30 16:20:48 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 15 Citadel
+--------------- 2023-12-30 16:20:49 --------------------------
+Sacred Rituals Chest
+From: AlexLeroc
+Source: Sacred Rituals tournament
+--------------- 2023-12-30 16:20:51 --------------------------

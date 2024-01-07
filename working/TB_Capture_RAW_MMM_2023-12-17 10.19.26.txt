@@ -1,0 +1,100 @@
+--------------- 2023-12-17 10:19:27 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 10:19:29 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 5 Crypt
+--------------- 2023-12-17 10:19:31 --------------------------
+Rare Dragon Chest
+From: Vlad the Impaler
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 10:19:33 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-17 10:19:35 --------------------------
+Elven Citadel Chest
+From: Immortal
+Source: Level 25 Citadel
+--------------- 2023-12-17 10:19:36 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-17 10:19:38 --------------------------
+Elven Citadel Chest
+From: Vlad the Impaler
+Source: Level 15 Citadel
+--------------- 2023-12-17 10:19:40 --------------------------
+Fire Chest
+From: Racibor
+Source: Level 25 Crypt
+--------------- 2023-12-17 10:19:42 --------------------------
+Bone Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-12-17 10:19:44 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 10:19:45 --------------------------
+Mayan Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-12-17 10:19:47 --------------------------
+Elven Citadel Chest
+From: Immortal
+Source: Level 25 Citadel
+--------------- 2023-12-17 10:19:49 --------------------------
+Minotaur Chest
+From: Vlad the Impaler
+Source: Level 15 epic Crypt
+--------------- 2023-12-17 10:19:51 --------------------------
+Fire Chest
+From: Racibor
+Source: Level 25 Crypt
+--------------- 2023-12-17 10:19:52 --------------------------
+Orc Chest
+From: doc48
+Source: Level 20 Crypt
+--------------- 2023-12-17 10:19:54 --------------------------
+Cobra Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-12-17 10:19:56 --------------------------
+Bone Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-12-17 10:19:58 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-17 10:19:59 --------------------------
+Cobra Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-12-17 10:20:01 --------------------------
+Common Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-17 10:20:03 --------------------------
+Uncommon Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-17 10:20:05 --------------------------
+Rare Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-17 10:20:06 --------------------------
+Epic Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-12-17 10:20:08 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-12-17 10:20:10 --------------------------
+Stone Chest
+From: Vlad the Impaler
+Source: Level 25 Crypt

@@ -1,0 +1,528 @@
+Turtle Chest
+From : Immortal
+Source : Level 15 epic Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Turtle Chest
+From : Immortal
+Source : Level 15 epic Crypt
+Titansteel Chest
+From : Immortal
+Source : Level 15 epic Crypt
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Stone Chest
+From : Brandemet
+Source : Level 20 Crypt
+Rare Dragon Chest
+From : Immortal
+Source : Level 20 rare Crypt
+Elven Citadel Chest
+From : Gradog
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Fosida
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Brandemet
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Gradog
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Fosida
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Fosida
+Source : Level 10 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Forgotten Chest
+From : Vlad the Impaler
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Forgotten Chest
+From : NEVIO
+Source : Level 25 Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Rare Dragon Chest
+From : NEVIO
+Source : Level 25 rare Crypt
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Gradog
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 25 Citadel
+Elegant Chest
+From : NEVIO
+Source : Level 25 Crypt
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Gradog
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Amginir
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Amginir
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Amginir
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Forgotten Chest
+From : Rudolf
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Amginir
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Amginir
+Source : Level 25 Citadel
+Orc Chest
+From : Rudolf
+Source : Level 10 Crypt
+Stone Chest
+From : Rudolf
+Source : Level 10 Crypt
+Gnome Workshop Chest
+From : Rudolf
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+House of Horrors Chest
+From : Rudolf
+Source : Level 20 epic Crypt
+Elven Citadel Chest
+From : Mr BaCk
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Fire Chest
+From : Rudolf
+Source : Level 10 Crypt
+Barbarian Chest
+From : Amginir
+Source : Level 25 Crypt
+Gnome Workshop Chest
+From : Rudolf
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : NEVIO
+Source : Level 15 Citadel
+Cursed Citadel Chest
+From : Rudolf
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Cobra Chest
+From : Rudolf
+Source : Level 15 Crypt
+Orc Chest
+From : Darvenen
+Source : Level 10 Crypt
+Forgotten Chest
+From : Rudolf
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Mausida
+Source : Level 15 Citadel
+Stone Chest
+From : Darvenen
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Mausida
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Alberikh
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Mausida
+Source : Level 15 Citadel
+Undead Chest
+From : NEVIO
+Source : Level 16 heroic Monster
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Legolas
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Legolas
+Source : Level 15 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Legolas
+Source : Level 15 Citadel
+Orc Chest
+From : Darvenen
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Legolas
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Barbarian Chest
+From : Brandemet
+Source : Level 10 Crypt
+Minotaur Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Elven Citadel Chest
+From : Legolas
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Sand Chest
+From : Karodor
+Source : Level 15 Crypt
+Sand Chest
+From : Karodor
+Source : Level 15 Crypt
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Rare Dragon Chest
+From : Karodor
+Source : Level 25 rare Crypt
+Mayan Chest
+From : Karodor
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Legolas
+Source : Level 20 Citadel
+Barbarian Chest
+From : Karodor
+Source : Level 20 Crypt
+Pacified Mimic Chest
+From : Funfiren
+Source : Mimic Chest
+Scorpion Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Cursed Citadel Chest
+From : Legolas
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Scarab Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Stone Chest
+From : Alberikh
+Source : Level 25 Crypt
+Elven Citadel Chest
+From : Legolas
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : NEVIO
+Source : Level 25 Citadel
+Mayan Chest
+From : Legolas
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Mayan Chest
+From : Legolas
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Barbarian Chest
+From : Legolas
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Stone Chest
+From : Legolas
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : NEVIO
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Barbarian Chest
+From : Legolas
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : NEVIO
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : NEVIO
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Rainblade
+Source : Level 10 Citadel
+Stone Chest
+From : Bamsi
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Cobra Chest
+From : Bamsi
+Source : Level 15 Crypt
+Barbarian Chest
+From : Golgotha
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Stone Chest
+From : Bamsi
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Rainblade
+Source : Level 10 Citadel
+Cobra Chest
+From : Golgotha
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Orc Chest
+From : Golgotha
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Forgotten Chest
+From : Golgotha
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Rainblade
+Source : Level 15 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Rainblade
+Source : Level 15 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Undead Chest
+From : Grikelv
+Source : Level 16 heroic Monster
+Elven Citadel Chest
+From : Karodor
+Source : Level 30 Citadel
+Elven Citadel Chest
+From : Rainblade
+Source : Level 15 Citadel
+Cursed Citadel Chest
+From : Golgotha
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Sir James III Son of Hadur
+Source : Level 25 Citadel
+Cursed Citadel Chest
+From : Heretical Hermit
+Source : Level 25 Citadel
+Elven Citadel Chest
+From : Rainblade
+Source : Level 15 Citadel
+Rare Dragon Chest
+From : Grikelv
+Source : Level 15 rare Crypt

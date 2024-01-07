@@ -1,0 +1,28 @@
+--------------- 2023-11-13 14:25:08 --------------------------
+Forgotten Chest
+From: Golgotha
+Source: Level 20 Crypt
+--------------- 2023-11-13 14:25:10 --------------------------
+Common Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-11-13 14:25:11 --------------------------
+Uncommon Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-11-13 14:25:13 --------------------------
+Rare Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-11-13 14:25:15 --------------------------
+Gnome Workshop Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Crypt
+--------------- 2023-11-13 14:25:16 --------------------------
+Fire Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-11-13 14:25:18 --------------------------
+Minotaur Chest
+From: Golgotha
+Source: Level 15 epic Crypt

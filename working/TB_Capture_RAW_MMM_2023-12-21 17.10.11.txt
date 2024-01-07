@@ -1,0 +1,240 @@
+--------------- 2023-12-21 17:10:13 --------------------------
+Mayan Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-21 17:10:15 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 20 rare Crypt
+--------------- 2023-12-21 17:10:16 --------------------------
+Gnome Workshop Chest
+From: Lorfanor
+Source: Level 10 Crypt
+--------------- 2023-12-21 17:10:18 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-21 17:10:20 --------------------------
+Sand Chest
+From: Granidred
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:21 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 10 rare Crypt
+--------------- 2023-12-21 17:10:23 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 15 rare Crypt
+--------------- 2023-12-21 17:10:25 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:10:27 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:10:28 --------------------------
+Minotaur Chest
+From: Eydaen
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 17:10:30 --------------------------
+Orc Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:32 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:33 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:35 --------------------------
+Cobra Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:37 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-21 17:10:38 --------------------------
+Infernal Chest
+From: LUCKY BEAR
+Source: Level 10 Crypt
+--------------- 2023-12-21 17:10:40 --------------------------
+Priest's Chest
+From: Brandemet
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 17:10:42 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-21 17:10:44 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:45 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:47 --------------------------
+Cursed Citadel Chest
+From: Granidred
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:10:49 --------------------------
+Ancient Bastion Chest
+From: LUCKY BEAR
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:10:50 --------------------------
+Bone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:52 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:10:54 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-21 17:10:55 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:10:57 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 10 Citadel
+--------------- 2023-12-21 17:10:59 --------------------------
+Cursed Citadel Chest
+From: Granidred
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:11:00 --------------------------
+Fire Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-21 17:11:02 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-21 17:11:04 --------------------------
+Ancient Warrior's Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 17:11:05 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-21 17:11:07 --------------------------
+Abandoned Chest
+From: Kosti
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 17:11:09 --------------------------
+House of Horrors Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:10 --------------------------
+Ancient Bastion Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:12 --------------------------
+White Wood Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:14 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-21 17:11:16 --------------------------
+Ancient Warrior's Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:17 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:11:19 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:11:21 --------------------------
+Barbarian Chest
+From: Granidred
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 17:11:22 --------------------------
+Mayan Chest
+From: LUCKY BEAR
+Source: Level 10 Crypt
+--------------- 2023-12-21 17:11:24 --------------------------
+Abandoned Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:26 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-12-21 17:11:27 --------------------------
+Braided Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:29 --------------------------
+Forgotten Chest
+From: Lorfanor
+Source: Level 15 Crypt
+--------------- 2023-12-21 17:11:30 --------------------------
+House of Horrors Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:32 --------------------------
+Ancient Warrior's Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:34 --------------------------
+Sand Chest
+From: Lorfanor
+Source: Level 15 Crypt
+--------------- 2023-12-21 17:11:35 --------------------------
+Ancient Warrior's Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:37 --------------------------
+Braided Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:39 --------------------------
+Cobalt Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:40 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:11:42 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-21 17:11:44 --------------------------
+Scarab Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2023-12-21 17:11:46 --------------------------
+Barbarian Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-21 17:11:47 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-21 17:11:49 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-21 17:11:51 --------------------------
+Sand Chest
+From: LUCKY BEAR
+Source: Level 25 Crypt
+--------------- 2023-12-21 17:11:52 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel

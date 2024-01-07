@@ -1,0 +1,308 @@
+--------------- 2023-10-14 10:06:09 --------------------------
+Stone Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:06:12 --------------------------
+Fire Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:14 --------------------------
+Gnome Workshop Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:16 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-10-14 10:06:19 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:21 --------------------------
+Barbarian Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:06:23 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-10-14 10:06:26 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:28 --------------------------
+Cobra Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:06:30 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:06:33 --------------------------
+Stone Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:36 --------------------------
+Gnome Workshop Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:06:38 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:40 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 15 Citadel
+--------------- 2023-10-14 10:06:42 --------------------------
+Cobra Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:06:45 --------------------------
+Gnome Workshop Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-10-14 10:06:47 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:49 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-10-14 10:06:52 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:54 --------------------------
+Stone Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:56 --------------------------
+Stone Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:06:58 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 15 Citadel
+--------------- 2023-10-14 10:07:01 --------------------------
+Mayan Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:07:03 --------------------------
+Infernal Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:07:06 --------------------------
+Gnome Workshop Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:07:08 --------------------------
+Fire Chest
+From: Magda Ewa
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:07:10 --------------------------
+Common Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-14 10:07:13 --------------------------
+Uncommon Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-14 10:07:15 --------------------------
+Rare Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-14 10:07:18 --------------------------
+Epic Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-14 10:07:20 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-10-14 10:07:23 --------------------------
+Fire Chest
+From: Mogra
+Source: Level 20 Crypt
+--------------- 2023-10-14 10:07:25 --------------------------
+Bone Chest
+From: Mogra
+Source: Level 25 Crypt
+--------------- 2023-10-14 10:07:28 --------------------------
+Chest of Authority
+From: Mogra
+Source: Authority Rush tournament
+--------------- 2023-10-14 10:07:30 --------------------------
+Chest of Authority
+From: Mogra
+Source: Authority Rush tournament
+--------------- 2023-10-14 10:07:33 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-10-14 10:07:35 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-10-14 10:07:37 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 15 Citadel
+--------------- 2023-10-14 10:07:40 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:07:42 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:07:45 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-10-14 10:07:47 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:07:49 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:07:52 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-10-14 10:07:54 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:07:56 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:07:59 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:08:01 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-10-14 10:08:03 --------------------------
+Rare Dragon Chest
+From: Monaoka
+Source: Level 15 rare Crypt
+--------------- 2023-10-14 10:08:05 --------------------------
+Cobra Chest
+From: NEVIO
+Source: Level 20 Crypt
+--------------- 2023-10-14 10:08:08 --------------------------
+Cobra Chest
+From: NEVIO
+Source: Level 20 Crypt
+--------------- 2023-10-14 10:08:10 --------------------------
+Rare Dragon Chest
+From: MILI
+Source: Level 10 rare Crypt
+--------------- 2023-10-14 10:08:12 --------------------------
+Infernal Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:08:15 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-10-14 10:08:17 --------------------------
+Chest of Authority
+From: Gradog
+Source: Authority Rush tournament
+--------------- 2023-10-14 10:08:19 --------------------------
+Bone Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-10-14 10:08:22 --------------------------
+Fire Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-10-14 10:08:24 --------------------------
+Gnome Workshop Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-14 10:08:26 --------------------------
+Infernal Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-10-14 10:08:29 --------------------------
+Chest of the Cursed
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:08:31 --------------------------
+Stone Chest
+From: Lady G
+Source: Level 10 Crypt
+--------------- 2023-10-14 10:08:33 --------------------------
+Stone Chest
+From: Lady G
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:08:36 --------------------------
+Forgotten Chest
+From: Lady G
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:08:38 --------------------------
+Orc Chest
+From: Lady G
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:08:40 --------------------------
+Barbarian Chest
+From: Lady G
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:08:43 --------------------------
+Gnome Workshop Chest
+From: Lady G
+Source: Level 15 Crypt
+--------------- 2023-10-14 10:08:45 --------------------------
+Priest's Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:08:47 --------------------------
+Harpy Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:08:50 --------------------------
+White Wood Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:08:52 --------------------------
+Barbarian Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:08:54 --------------------------
+Priest's Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:08:57 --------------------------
+Turtle Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:08:59 --------------------------
+House of Horrors Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:09:01 --------------------------
+Infernal Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-14 10:09:04 --------------------------
+Barbarian Chest
+From: Lady G
+Source: Level 15 epic Crypt
+--------------- 2023-10-14 10:09:06 --------------------------
+Rare Dragon Chest
+From: Lady G
+Source: Level 20 rare Crypt
+--------------- 2023-10-14 10:09:08 --------------------------
+Fire Chest
+From: Brandemet
+Source: Level 5 Crypt

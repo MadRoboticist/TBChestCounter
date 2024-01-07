@@ -1,0 +1,1605 @@
+--------------- 2023-12-17 14:34:00 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:02 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 30 rare Crypt
+--------------- 2023-12-17 14:34:04 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:34:06 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 30 rare Crypt
+--------------- 2023-12-17 14:34:07 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:09 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:11 --------------------------
+Cursed Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:34:13 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:34:15 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:16 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:34:18 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:34:20 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:22 --------------------------
+Forgotten Chest
+From: Tex Willer
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:24 --------------------------
+Elegant Chest
+From: Felharne
+Source: Level 10 Crypt
+--------------- 2023-12-17 14:34:25 --------------------------
+Cursed Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:34:27 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:34:29 --------------------------
+Elegant Chest
+From: Tex Willer
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:31 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:34:33 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:34:35 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:34:37 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:38 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:40 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:42 --------------------------
+Rare Dragon Chest
+From: Legolas
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:34:44 --------------------------
+Cursed Citadel Chest
+From: Xan
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:34:46 --------------------------
+Cobra Chest
+From: Tex Willer
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:34:48 --------------------------
+Rare Dragon Chest
+From: Legolas
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:34:50 --------------------------
+Cobra Chest
+From: Felharne
+Source: Level 10 Crypt
+--------------- 2023-12-17 14:34:51 --------------------------
+Rare Dragon Chest
+From: Legolas
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:34:53 --------------------------
+Forgotten Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:34:55 --------------------------
+Rare Dragon Chest
+From: Legolas
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:34:57 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:34:59 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:35:00 --------------------------
+Rare Dragon Chest
+From: Legolas
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:35:02 --------------------------
+Jormungandr's Chest
+From: Foxhunter
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:35:04 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:35:06 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:35:08 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:35:10 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:35:11 --------------------------
+Cursed Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:35:13 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:15 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:17 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:19 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:21 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:23 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:24 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:26 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:28 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:30 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:32 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:34 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:36 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:37 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:39 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:41 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:43 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:45 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:47 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:48 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:50 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:52 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:54 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:56 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:35:57 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:36:00 --------------------------
+Bone Chest
+From: Granidred
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:36:02 --------------------------
+Bone Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:36:03 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:05 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:36:07 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:09 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:11 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:36:13 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:14 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:36:16 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:18 --------------------------
+Elegant Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:36:20 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:36:22 --------------------------
+Gnome Workshop Chest
+From: Sir Doc
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:36:23 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:36:25 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:36:27 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:36:29 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:36:31 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:33 --------------------------
+Priest's Chest
+From: LUCKY BEAR
+Source: Level 15 epic Crypt
+--------------- 2023-12-17 14:36:34 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:36 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:36:38 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:36:40 --------------------------
+Priest's Chest
+From: LUCKY BEAR
+Source: Level 15 epic Crypt
+--------------- 2023-12-17 14:36:42 --------------------------
+Barbarian Chest
+From: LUCKY BEAR
+Source: Level 15 epic Crypt
+--------------- 2023-12-17 14:36:43 --------------------------
+Rare Dragon Chest
+From: MarcusTulliusCicero
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:45 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:36:47 --------------------------
+Harpy Chest
+From: LUCKY BEAR
+Source: Level 15 epic Crypt
+--------------- 2023-12-17 14:36:49 --------------------------
+Trillium Chest
+From: Sir Doc
+Source: Level 20 epic Crypt
+--------------- 2023-12-17 14:36:51 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:36:52 --------------------------
+Union Chest
+From: MarcusTulliusCicero
+Source: Union of Triumph personal reward
+--------------- 2023-12-17 14:36:54 --------------------------
+Union Chest
+From: MarcusTulliusCicero
+Source: Union of Triumph personal reward
+--------------- 2023-12-17 14:36:56 --------------------------
+Union Chest
+From: MarcusTulliusCicero
+Source: Union of Triumph personal reward
+--------------- 2023-12-17 14:36:58 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:37:00 --------------------------
+Minotaur Chest
+From: Feli
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:37:02 --------------------------
+Fire Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:04 --------------------------
+Bone Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:06 --------------------------
+Gnome Workshop Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:08 --------------------------
+Mayan Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:10 --------------------------
+Gnome Workshop Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:12 --------------------------
+Bone Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:14 --------------------------
+Forgotten Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:16 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:37:17 --------------------------
+Chest of the Cursed
+From: Feli
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:37:19 --------------------------
+Abandoned Chest
+From: Kerilir
+Source: Level 20 epic Crypt
+--------------- 2023-12-17 14:37:21 --------------------------
+Fire Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:23 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:37:25 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:37:27 --------------------------
+Gnome Workshop Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:29 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:37:31 --------------------------
+Barbarian Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:37:32 --------------------------
+Jormungandr's Chest
+From: MONTES P
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:37:34 --------------------------
+Jormungandr's Chest
+From: MONTES P
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:37:36 --------------------------
+Forgotten Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:37:38 --------------------------
+Forgotten Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:40 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:37:41 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:37:43 --------------------------
+Forgotten Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:45 --------------------------
+Gnome Workshop Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:47 --------------------------
+Minotaur Chest
+From: Feli
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:37:48 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:37:50 --------------------------
+Elegant Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:37:52 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:37:54 --------------------------
+Jormungandr's Chest
+From: MarcusTulliusCicero
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:37:56 --------------------------
+Jormungandr's Chest
+From: MarcusTulliusCicero
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:37:58 --------------------------
+Jormungandr's Chest
+From: MarcusTulliusCicero
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:38:00 --------------------------
+Abandoned Chest
+From: Kerilir
+Source: Level 20 epic Crypt
+--------------- 2023-12-17 14:38:02 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:38:04 --------------------------
+Chest of the Cursed
+From: Feli
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:38:05 --------------------------
+Elven Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:38:07 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:38:09 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:38:11 --------------------------
+Bone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:12 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:14 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:38:16 --------------------------
+Stone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:18 --------------------------
+Cobra Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:20 --------------------------
+Infernal Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:21 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:23 --------------------------
+Rare Dragon Chest
+From: Marcelo
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 14:38:25 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:38:27 --------------------------
+Cobra Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:29 --------------------------
+Fire Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:30 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:38:32 --------------------------
+Orc Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-12-17 14:38:34 --------------------------
+Rare Dragon Chest
+From: Xan
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:38:36 --------------------------
+Orc Chest
+From: Vlad the Impaler
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:38:38 --------------------------
+Elegant Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:38:39 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:38:41 --------------------------
+Barbarian Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:43 --------------------------
+Elven Citadel Chest
+From: Vlad the Impaler
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:38:45 --------------------------
+Stone Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:38:46 --------------------------
+Orc Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:48 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:38:50 --------------------------
+Elegant Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:52 --------------------------
+Elegant Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:38:54 --------------------------
+Sand Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:38:55 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:38:57 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:38:59 --------------------------
+Orc Chest
+From: Vlad the Impaler
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:39:01 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:39:03 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:39:04 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 14:39:06 --------------------------
+Rare Dragon Chest
+From: Karo
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:39:08 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:39:10 --------------------------
+Sand Chest
+From: Vlad the Impaler
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:39:11 --------------------------
+Sand Chest
+From: Masius
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:39:13 --------------------------
+Scorpion Chest
+From: Uhtred
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:39:15 --------------------------
+Cursed Citadel Chest
+From: Xan
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:39:17 --------------------------
+Rare Dragon Chest
+From: Karo
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:39:19 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:39:20 --------------------------
+Ancient Warrior's Chest
+From: Uhtred
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:39:22 --------------------------
+Forgotten Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:39:24 --------------------------
+Rare Dragon Chest
+From: Karo
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:39:26 --------------------------
+Abandoned Chest
+From: Uhtred
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:39:28 --------------------------
+Minotaur Chest
+From: Masius
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:39:29 --------------------------
+Abandoned Chest
+From: Uhtred
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:39:31 --------------------------
+Bone Chest
+From: Masius
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:39:33 --------------------------
+Fire Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-12-17 14:39:35 --------------------------
+Harpy Chest
+From: Uhtred
+Source: Level 25 epic Crypt
+--------------- 2023-12-17 14:39:37 --------------------------
+Titansteel Chest
+From: Masius
+Source: Level 15 epic Crypt
+--------------- 2023-12-17 14:39:38 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:39:40 --------------------------
+Rare Dragon Chest
+From: Karo
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:39:42 --------------------------
+Cobra Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-12-17 14:39:44 --------------------------
+Rare Dragon Chest
+From: Karo
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:39:46 --------------------------
+Rare Dragon Chest
+From: Xan
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:39:48 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:39:50 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:39:52 --------------------------
+Stone Chest
+From: Masius
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:39:54 --------------------------
+Rare Dragon Chest
+From: Xan
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:39:56 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:39:58 --------------------------
+Orc Chest
+From: Masius
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:40:00 --------------------------
+Rare Dragon Chest
+From: Karo
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:40:02 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:03 --------------------------
+Forgotten Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-12-17 14:40:05 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:40:07 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:09 --------------------------
+Stone Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:40:11 --------------------------
+Infernal Chest
+From: Masius
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:12 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:14 --------------------------
+Rare Dragon Chest
+From: Masius
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 14:40:16 --------------------------
+Cobra Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:40:18 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:19 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:40:21 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:23 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:25 --------------------------
+Gnome Workshop Chest
+From: Masius
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:40:27 --------------------------
+Orc Chest
+From: Masius
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:40:28 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:30 --------------------------
+Forgotten Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:40:32 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:40:34 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:36 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:40:37 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:39 --------------------------
+Cursed Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:40:41 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:40:43 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:44 --------------------------
+Cobra Chest
+From: Masius
+Source: Level 10 Crypt
+--------------- 2023-12-17 14:40:46 --------------------------
+Elegant Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:40:48 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:40:50 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:52 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:40:54 --------------------------
+Mayan Chest
+From: DAJMITU
+Source: Level 5 Crypt
+--------------- 2023-12-17 14:40:55 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:40:57 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:40:59 --------------------------
+Stone Chest
+From: DAJMITU
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:41:01 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:41:03 --------------------------
+Scorpion Chest
+From: DAJMITU
+Source: Level 20 epic Crypt
+--------------- 2023-12-17 14:41:04 --------------------------
+Barbarian Chest
+From: DAJMITU
+Source: Level 20 epic Crypt
+--------------- 2023-12-17 14:41:06 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:08 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:10 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:12 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:14 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:15 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:17 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:19 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:21 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:22 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:24 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:26 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:28 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:30 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:32 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:34 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:36 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:38 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:40 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:42 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:43 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:45 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:47 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:49 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:51 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:41:53 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:41:54 --------------------------
+Barbarian Chest
+From: DAJMITU
+Source: Level 20 epic Crypt
+--------------- 2023-12-17 14:41:56 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:41:58 --------------------------
+Cursed Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:42:00 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:42:02 --------------------------
+Fire Chest
+From: DAJMITU
+Source: Level 5 Crypt
+--------------- 2023-12-17 14:42:04 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:42:05 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:42:07 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:09 --------------------------
+Fire Chest
+From: Masius
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:42:11 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:13 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:42:15 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:42:17 --------------------------
+Mayan Chest
+From: Masius
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:18 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:42:20 --------------------------
+Elegant Chest
+From: Masius
+Source: Level 5 Crypt
+--------------- 2023-12-17 14:42:22 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:24 --------------------------
+Stone Chest
+From: Masius
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:42:26 --------------------------
+Orc Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:42:27 --------------------------
+Fire Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-17 14:42:29 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:31 --------------------------
+Gnome Workshop Chest
+From: Masius
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:33 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:35 --------------------------
+Sand Chest
+From: Masius
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:42:36 --------------------------
+Elegant Chest
+From: Tex Willer
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:38 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:42:40 --------------------------
+Gnome Workshop Chest
+From: LUCKY BEAR
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:42 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:42:44 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-17 14:44:50 --------------------------
+Jormungandr's Chest
+From: DAJMITU
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:44:52 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:44:53 --------------------------
+Stone Chest
+From: Masius
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:44:55 --------------------------
+Cobra Chest
+From: Tex Willer
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:44:57 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:44:59 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:01 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:03 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:05 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:06 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:08 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:10 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:11 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:13 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:15 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:17 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:19 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:20 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:22 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:24 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:26 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:27 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:29 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:31 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:33 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:34 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:36 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:38 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:40 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:41 --------------------------
+Fenrir's Chest
+From: Xan
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:45:43 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:45:45 --------------------------
+Jormungandr's Chest
+From: Golgotha
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:45:47 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:45:49 --------------------------
+Fire Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:45:50 --------------------------
+Jormungandr's Chest
+From: Tha Supreme
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:45:52 --------------------------
+Jormungandr's Chest
+From: Tha Supreme
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:45:54 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:45:56 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:45:57 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 14:45:59 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:01 --------------------------
+Cobra Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:03 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:04 --------------------------
+Jormungandr's Chest
+From: DAJMITU
+Source: Jormungandr Shop
+--------------- 2023-12-17 14:46:06 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:08 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:46:10 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:46:12 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 14:46:14 --------------------------
+Fire Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:46:15 --------------------------
+Orc Chest
+From: Jaakarhu
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:46:17 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 14:46:19 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:21 --------------------------
+Orc Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:22 --------------------------
+Stone Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:46:24 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:26 --------------------------
+Bone Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:46:28 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:29 --------------------------
+Elegant Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:31 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:33 --------------------------
+Elegant Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:46:35 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:36 --------------------------
+Fire Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:38 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:46:40 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:41 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:43 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:45 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:47 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:49 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:50 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:52 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:54 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:55 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:57 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:46:59 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:01 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:02 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:04 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:06 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:08 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:09 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:11 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:13 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:15 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:16 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:18 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:20 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:22 --------------------------
+Fenrir's Chest
+From: Thorn
+Source: Epic Fenrir squad
+--------------- 2023-12-17 14:47:23 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:25 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:27 --------------------------
+Fire Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:28 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:47:30 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:32 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:47:34 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:35 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:37 --------------------------
+Elegant Chest
+From: Jaakarhu
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:39 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:41 --------------------------
+Mayan Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:47:42 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:44 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:47:46 --------------------------
+Forgotten Chest
+From: NEVIO
+Source: Level 25 Crypt
+--------------- 2023-12-17 14:47:47 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:49 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:51 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 14:47:53 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:47:54 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-12-17 14:47:56 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:47:58 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 25 Citadel
+--------------- 2023-12-17 14:48:00 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:48:02 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 10 Citadel
+--------------- 2023-12-17 14:48:03 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 14:48:05 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 14:48:07 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2023-12-17 14:48:09 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 20 Citadel

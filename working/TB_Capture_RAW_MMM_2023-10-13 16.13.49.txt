@@ -1,0 +1,924 @@
+--------------- 2023-10-13 16:13:53 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-10-13 16:13:54 --------------------------
+Cobra Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:13:56 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:13:58 --------------------------
+Cobra Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:13:59 --------------------------
+Stone Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:01 --------------------------
+Mayan Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:03 --------------------------
+Stone Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:04 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:06 --------------------------
+Elegant Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:08 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:09 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:11 --------------------------
+Infernal Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:13 --------------------------
+Bone Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:14 --------------------------
+Fire Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:16 --------------------------
+Gnome Workshop Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:18 --------------------------
+Fire Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:19 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:21 --------------------------
+Barbarian Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:23 --------------------------
+Fire Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:24 --------------------------
+Mayan Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:26 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:28 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:29 --------------------------
+Bone Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:31 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:32 --------------------------
+Forgotten Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:34 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:36 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:37 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:39 --------------------------
+Infernal Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:41 --------------------------
+Sand Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:42 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:44 --------------------------
+Infernal Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:46 --------------------------
+Sand Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:47 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:49 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:51 --------------------------
+Bone Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:52 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:54 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:14:56 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:57 --------------------------
+Bone Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:14:59 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:01 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:02 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:04 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:06 --------------------------
+Barbarian Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:07 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:09 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:10 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:12 --------------------------
+Cobra Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:14 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:16 --------------------------
+Orc Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:17 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:19 --------------------------
+Bone Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:21 --------------------------
+Forgotten Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:22 --------------------------
+Elegant Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:24 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:26 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:27 --------------------------
+Barbarian Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:29 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:31 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:32 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:34 --------------------------
+Stone Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:36 --------------------------
+Fire Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:37 --------------------------
+Sand Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:39 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:40 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:42 --------------------------
+Orc Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:44 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:45 --------------------------
+Elegant Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:47 --------------------------
+Bone Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:49 --------------------------
+Fire Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:50 --------------------------
+Barbarian Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:52 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:54 --------------------------
+Stone Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:15:55 --------------------------
+Stone Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:15:57 --------------------------
+Sand Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:15:59 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:00 --------------------------
+Elegant Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:02 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:04 --------------------------
+Elegant Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:16:05 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:16:07 --------------------------
+Elegant Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:09 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:10 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:12 --------------------------
+Sand Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:14 --------------------------
+Infernal Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:15 --------------------------
+Sand Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:17 --------------------------
+Cobra Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:19 --------------------------
+Infernal Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:16:20 --------------------------
+Infernal Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:22 --------------------------
+Stone Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:16:24 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:25 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:27 --------------------------
+Ancient Warrior's Chest
+From: Eydaen
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:16:29 --------------------------
+Gnome Workshop Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:30 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:32 --------------------------
+Cobra Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:34 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:36 --------------------------
+Orc Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:37 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:39 --------------------------
+Elegant Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:41 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:16:43 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:45 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:47 --------------------------
+Forgotten Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:48 --------------------------
+Elegant Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:50 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:16:52 --------------------------
+Cobra Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:53 --------------------------
+Fire Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:16:55 --------------------------
+Sand Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:57 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:16:59 --------------------------
+Fire Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:01 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:02 --------------------------
+Forgotten Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:04 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:06 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:08 --------------------------
+Sand Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:17:10 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:11 --------------------------
+Fire Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:13 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:15 --------------------------
+Barbarian Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:17 --------------------------
+Stone Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:19 --------------------------
+Stone Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:21 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:23 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:24 --------------------------
+Barbarian Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:26 --------------------------
+Elegant Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:28 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:30 --------------------------
+Fire Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:17:32 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:34 --------------------------
+Mayan Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:17:35 --------------------------
+Stone Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:37 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:39 --------------------------
+Orc Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:17:40 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:42 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:44 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:17:45 --------------------------
+Stone Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:47 --------------------------
+Fire Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:49 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:50 --------------------------
+Bone Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:52 --------------------------
+Gnome Workshop Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:17:54 --------------------------
+Elegant Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:17:55 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:17:57 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:17:58 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:18:00 --------------------------
+Forgotten Chest
+From: MONTES
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:18:02 --------------------------
+Cobra Chest
+From: MONTES
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:18:04 --------------------------
+Infernal Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:18:05 --------------------------
+Barbarian Chest
+From: MONTES
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:18:07 --------------------------
+Stone Chest
+From: Tolnozin
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:18:08 --------------------------
+Bone Chest
+From: Tolnozin
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:18:10 --------------------------
+Cobra Chest
+From: NEVIO
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:12 --------------------------
+Gnome Workshop Chest
+From: Tolnozin
+Source: Level 25 Crypt
+--------------- 2023-10-13 16:18:14 --------------------------
+Ancient Bastion Chest
+From: Tolnozin
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:18:15 --------------------------
+Cobra Chest
+From: NEVIO
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:17 --------------------------
+Barbarian Chest
+From: Tolnozin
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:18 --------------------------
+Cobra Chest
+From: NEVIO
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:20 --------------------------
+Bone Chest
+From: Vlad the Impaler
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:18:22 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 15 rare Crypt
+--------------- 2023-10-13 16:18:24 --------------------------
+Bone Chest
+From: Vlad the Impaler
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:18:25 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 15 rare Crypt
+--------------- 2023-10-13 16:18:27 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 15 rare Crypt
+--------------- 2023-10-13 16:18:28 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 15 rare Crypt
+--------------- 2023-10-13 16:18:30 --------------------------
+Minotaur Chest
+From: MONTES
+Source: Level 20 epic Crypt
+--------------- 2023-10-13 16:18:32 --------------------------
+Bone Chest
+From: Feli
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:33 --------------------------
+Titansteel Chest
+From: NEVIO
+Source: Level 25 epic Crypt
+--------------- 2023-10-13 16:18:35 --------------------------
+Cobalt Chest
+From: NEVIO
+Source: Level 25 epic Crypt
+--------------- 2023-10-13 16:18:37 --------------------------
+Forgotten Chest
+From: Tex Willer
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:18:38 --------------------------
+Forgotten Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-10-13 16:18:40 --------------------------
+Rare Dragon Chest
+From: Tolnozin
+Source: Level 20 rare Crypt
+--------------- 2023-10-13 16:18:42 --------------------------
+Rare Dragon Chest
+From: Tolnozin
+Source: Level 20 rare Crypt
+--------------- 2023-10-13 16:18:43 --------------------------
+Rare Dragon Chest
+From: Tolnozin
+Source: Level 20 rare Crypt
+--------------- 2023-10-13 16:18:45 --------------------------
+Rare Dragon Chest
+From: Tolnozin
+Source: Level 20 rare Crypt
+--------------- 2023-10-13 16:18:47 --------------------------
+Infernal Chest
+From: Tolnozin
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:48 --------------------------
+Barbarian Chest
+From: Tolnozin
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:50 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2023-10-13 16:18:52 --------------------------
+Fire Chest
+From: Tolnozin
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:53 --------------------------
+Sand Chest
+From: Tolnozin
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:18:55 --------------------------
+Rare Dragon Chest
+From: Tolnozin
+Source: Level 20 rare Crypt
+--------------- 2023-10-13 16:18:57 --------------------------
+Rare Dragon Chest
+From: Tolnozin
+Source: Level 20 rare Crypt
+--------------- 2023-10-13 16:18:58 --------------------------
+Gladiator's Chest
+From: Grikelv
+Source: Arena
+--------------- 2023-10-13 16:19:00 --------------------------
+Rare Dragon Chest
+From: Tolnozin
+Source: Level 20 rare Crypt
+--------------- 2023-10-13 16:19:02 --------------------------
+Barbarian Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:03 --------------------------
+Cobra Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:05 --------------------------
+Gnome Workshop Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:06 --------------------------
+Sand Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:19:08 --------------------------
+Barbarian Chest
+From: Cenaya
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:19:10 --------------------------
+Barbarian Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:11 --------------------------
+Gladiator's Chest
+From: Grikelv
+Source: Arena
+--------------- 2023-10-13 16:19:13 --------------------------
+Barbarian Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:15 --------------------------
+Fire Chest
+From: Cenaya
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:16 --------------------------
+Elven Citadel Chest
+From: Alberikh
+Source: Level 10 Citadel
+--------------- 2023-10-13 16:19:18 --------------------------
+Priest's Chest
+From: Fosida
+Source: Level 20 epic Crypt
+--------------- 2023-10-13 16:19:20 --------------------------
+Fire Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:19:21 --------------------------
+Common Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-13 16:19:23 --------------------------
+Uncommon Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-13 16:19:25 --------------------------
+Rare Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-13 16:19:26 --------------------------
+Epic Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-10-13 16:19:28 --------------------------
+Priest's Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:19:30 --------------------------
+Titansteel Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:19:31 --------------------------
+Turtle Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:19:33 --------------------------
+Scarab Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:19:35 --------------------------
+Titansteel Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:19:36 --------------------------
+Titansteel Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-10-13 16:19:38 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:19:39 --------------------------
+Chest of the Cursed
+From: Feli
+Source: Level 20 epic Crypt
+--------------- 2023-10-13 16:19:41 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:43 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:19:44 --------------------------
+Union Chest
+From: Karodor
+Source: Union of Triumph personal reward
+--------------- 2023-10-13 16:19:46 --------------------------
+Union Chest
+From: Karodor
+Source: Union of Triumph personal reward
+--------------- 2023-10-13 16:19:48 --------------------------
+Union Chest
+From: Karodor
+Source: Union of Triumph personal reward
+--------------- 2023-10-13 16:19:50 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:19:51 --------------------------
+Union Chest
+From: Karodor
+Source: Union of Triumph personal reward
+--------------- 2023-10-13 16:19:53 --------------------------
+Union Chest
+From: Karodor
+Source: Union of Triumph personal reward
+--------------- 2023-10-13 16:19:55 --------------------------
+Union Chest
+From: Karodor
+Source: Union of Triumph personal reward
+--------------- 2023-10-13 16:19:57 --------------------------
+Minotaur Chest
+From: Feli
+Source: Level 20 epic Crypt
+--------------- 2023-10-13 16:19:58 --------------------------
+Elegant Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-10-13 16:20:00 --------------------------
+Barbarian Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:20:02 --------------------------
+Orc Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:20:03 --------------------------
+Forgotten Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:20:05 --------------------------
+Elegant Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:20:07 --------------------------
+Elegant Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:20:08 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-10-13 16:20:10 --------------------------
+Gnome Workshop Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:20:12 --------------------------
+Orc Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:20:13 --------------------------
+Fire Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:20:15 --------------------------
+Mayan Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:20:17 --------------------------
+Infernal Chest
+From: Karodor
+Source: Level 20 Crypt
+--------------- 2023-10-13 16:20:18 --------------------------
+Orc Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-10-13 16:20:20 --------------------------
+Stone Chest
+From: Karodor
+Source: Level 15 Crypt

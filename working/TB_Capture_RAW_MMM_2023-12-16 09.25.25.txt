@@ -1,0 +1,177 @@
+--------------- 2023-12-16 09:25:27 --------------------------
+Winter gift
+From: Tex Willer
+Source: Winterfest tournament
+--------------- 2023-12-16 09:25:29 --------------------------
+Winter gift
+From: Tex Willer
+Source: Winterfest tournament.
+--------------- 2023-12-16 09:25:30 --------------------------
+Winter gift
+From: Tex Willer
+Source: Winterfest tournament.
+--------------- 2023-12-16 09:25:32 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-16 09:25:34 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 20 rare Crypt
+--------------- 2023-12-16 09:25:36 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 20 Citadel
+--------------- 2023-12-16 09:25:38 --------------------------
+Cobalt Chest
+From: LUCKY BEAR
+Source: Level 20 epic Crypt
+--------------- 2023-12-16 09:25:40 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-16 09:25:41 --------------------------
+Cobalt Chest
+From: LUCKY BEAR
+Source: Level 20 epic Crypt
+--------------- 2023-12-16 09:25:43 --------------------------
+Elven Citadel Chest
+From: Defur
+Source: Level 10 Citadel
+--------------- 2023-12-16 09:25:45 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 15 rare Crypt
+--------------- 2023-12-16 09:25:47 --------------------------
+Abandoned Chest
+From: NEVIO
+Source: Level 25 epic Crypt
+--------------- 2023-12-16 09:25:49 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-16 09:25:51 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 10 rare Crypt
+--------------- 2023-12-16 09:25:52 --------------------------
+Gnome Workshop Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-16 09:25:54 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-16 09:25:56 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 15 rare Crypt
+--------------- 2023-12-16 09:25:58 --------------------------
+Orc Chest
+From: Berohef
+Source: Level 10 Crypt
+--------------- 2023-12-16 09:26:00 --------------------------
+Gnome Workshop Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-16 09:26:01 --------------------------
+Union Chest
+From: Grikelv
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 09:26:03 --------------------------
+Union Chest
+From: Grikelv
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 09:26:05 --------------------------
+Union Chest
+From: Grikelv
+Source: Union of Triumph personal reward
+--------------- 2023-12-16 09:26:07 --------------------------
+Forgotten Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-16 09:26:09 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-16 09:26:11 --------------------------
+Cobra Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-16 09:26:12 --------------------------
+Bone Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-12-16 09:26:14 --------------------------
+Fire Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-16 09:26:16 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 20 rare Crypt
+--------------- 2023-12-16 09:26:18 --------------------------
+Jérmungandr's Chest
+From: Menelaos
+Source: Jormungandr Shop
+--------------- 2023-12-16 09:26:20 --------------------------
+Jérmungandr's Chest
+From: Menelaos
+Source: Jormungandr Shop
+--------------- 2023-12-16 09:26:21 --------------------------
+Jérmungandr's Chest
+From: Menelaos
+Source: Jormungandr Shop
+--------------- 2023-12-16 09:26:23 --------------------------
+Jérmungandr's Chest
+From: Menelaos
+Source: Jormungandr Shop
+--------------- 2023-12-16 09:26:25 --------------------------
+Jérmungandr's Chest
+From: Menelaos
+Source: Jormungandr Shop
+--------------- 2023-12-16 09:26:27 --------------------------
+Braided Chest
+From: LUCKY BEAR
+Source: Level 20 epic Crypt
+--------------- 2023-12-16 09:26:29 --------------------------
+Cursed Citadel Chest
+From: Fabrinir
+Source: Level 25 Citadel
+--------------- 2023-12-16 09:26:31 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-16 09:26:32 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-16 09:26:34 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 15 rare Crypt
+--------------- 2023-12-16 09:26:36 --------------------------
+Stone Chest
+From: LUCKY BEAR
+Source: Level 20 Crypt
+--------------- 2023-12-16 09:26:38 --------------------------
+Gnome Workshop Chest
+From: LUCKY BEAR
+Source: Level 20 Crypt
+--------------- 2023-12-16 09:26:39 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 15 rare Crypt
+--------------- 2023-12-16 09:26:41 --------------------------
+Jérmungandr's Chest
+From: Feli
+Source: Jormungandr Shop
+--------------- 2023-12-16 09:26:43 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-16 09:26:45 --------------------------
+Rare Dragon Chest
+From: Funfiren
+Source: Level 10 rare Crypt
+--------------- 2023-12-16 09:26:46 --------------------------

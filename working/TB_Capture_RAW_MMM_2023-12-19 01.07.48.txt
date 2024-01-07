@@ -1,0 +1,325 @@
+--------------- 2023-12-19 01:07:54 --------------------------
+Gnome Workshop Chest
+From: Graveleye
+Source: Level 5 Crypt
+--------------- 2023-12-19 01:07:56 --------------------------
+Barbarian Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:07:58 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 15 Citadel
+--------------- 2023-12-19 01:08:00 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-19 01:08:01 --------------------------
+Stone Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:03 --------------------------
+Rare Dragon Chest
+From: Fanlotilas
+Source: Level 15 rare Crypt
+--------------- 2023-12-19 01:08:05 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-19 01:08:07 --------------------------
+Sand Chest
+From: Graveleye
+Source: Level 5 Crypt
+--------------- 2023-12-19 01:08:08 --------------------------
+Cobra Chest
+From: Graveleye
+Source: Level 5 Crypt
+--------------- 2023-12-19 01:08:10 --------------------------
+Rare Dragon Chest
+From: Fanlotilas
+Source: Level 15 rare Crypt
+--------------- 2023-12-19 01:08:12 --------------------------
+Sand Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2023-12-19 01:08:13 --------------------------
+Fire Chest
+From: Graveleye
+Source: Level 5 Crypt
+--------------- 2023-12-19 01:08:15 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 25 Citadel
+--------------- 2023-12-19 01:08:17 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-19 01:08:19 --------------------------
+Infernal Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:20 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-19 01:08:22 --------------------------
+Gnome Workshop Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:24 --------------------------
+Mayan Chest
+From: Graveleye
+Source: Level 5 Crypt
+--------------- 2023-12-19 01:08:26 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-19 01:08:27 --------------------------
+Bone Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2023-12-19 01:08:29 --------------------------
+Orc Chest
+From: Akinomuro
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:31 --------------------------
+Infernal Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:33 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 20 Citadel
+--------------- 2023-12-19 01:08:34 --------------------------
+Cobra Chest
+From: Akinomuro
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:36 --------------------------
+Infernal Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2023-12-19 01:08:38 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-19 01:08:40 --------------------------
+Gnome Workshop Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:41 --------------------------
+Cursed Citadel Chest
+From: Menelaos
+Source: Level 20 Citadel
+--------------- 2023-12-19 01:08:43 --------------------------
+Orc Chest
+From: Akinomuro
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:45 --------------------------
+Elegant Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:46 --------------------------
+Cobra Chest
+From: Akinomuro
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:48 --------------------------
+Mayan Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:50 --------------------------
+Runic Chest
+From: Sir RES
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-19 01:08:51 --------------------------
+Sand Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:53 --------------------------
+Elegant Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:55 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 20 Citadel
+--------------- 2023-12-19 01:08:56 --------------------------
+Orc Chest
+From: Akinomuro
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:08:58 --------------------------
+Barbarian Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:00 --------------------------
+Orc Chest
+From: Akinomuro
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:02 --------------------------
+Cobra Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:03 --------------------------
+Orc Chest
+From: Akinomuro
+Source: Level 20 Crypt
+--------------- 2023-12-19 01:09:05 --------------------------
+Cobra Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:07 --------------------------
+Mayan Chest
+From: Sir Doc
+Source: Level 5 Crypt
+--------------- 2023-12-19 01:09:09 --------------------------
+Cobra Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:10 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-19 01:09:12 --------------------------
+Orc Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-19 01:09:14 --------------------------
+Bone Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-19 01:09:15 --------------------------
+Infernal Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:17 --------------------------
+Barbarian Chest
+From: Sir Doc
+Source: Level 10 Crypt
+--------------- 2023-12-19 01:09:19 --------------------------
+Forgotten Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2023-12-19 01:09:20 --------------------------
+Mayan Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:22 --------------------------
+Cobra Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:24 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 20-24 Raid Runic squad
+--------------- 2023-12-19 01:09:25 --------------------------
+Mayan Chest
+From: Sir Doc
+Source: Level 10 Crypt
+--------------- 2023-12-19 01:09:27 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:29 --------------------------
+Rare Dragon Chest
+From: Nilaath
+Source: Level 15 rare Crypt
+--------------- 2023-12-19 01:09:31 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:32 --------------------------
+Bone Chest
+From: Nilaath
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:34 --------------------------
+Mayan Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:36 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:37 --------------------------
+Cobra Chest
+From: Nilaath
+Source: Level 20 Crypt
+--------------- 2023-12-19 01:09:39 --------------------------
+Cobra Chest
+From: Fanlotilas
+Source: Level 15 Crypt
+--------------- 2023-12-19 01:09:41 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:43 --------------------------
+Fire Chest
+From: Nilaath
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:44 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:46 --------------------------
+Ancient Bastion Chest
+From: Nilaath
+Source: Level 20 epic Crypt
+--------------- 2023-12-19 01:09:48 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:49 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:51 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:53 --------------------------
+Orc Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2023-12-19 01:09:54 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 25-29 Raid Runic squad
+--------------- 2023-12-19 01:09:56 --------------------------
+Bone Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-19 01:09:58 --------------------------
+Rare Dragon Chest
+From: Germanicus
+Source: Level 25 rare Crypt
+--------------- 2023-12-19 01:10:00 --------------------------
+Rare Dragon Chest
+From: Germanicus
+Source: Level 25 rare Crypt
+--------------- 2023-12-19 01:10:01 --------------------------
+Rare Dragon Chest
+From: Germanicus
+Source: Level 30 rare Crypt
+--------------- 2023-12-19 01:10:03 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-19 01:10:05 --------------------------
+Elegant Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-19 01:10:06 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-19 01:10:12 --------------------------
+Wooden Chest
+From: Menelaos
+Source; Bank
+--------------- 2023-12-19 01:10:14 --------------------------
+Wooden Chest
+From: Menelaos
+Source; Bank
+--------------- 2023-12-19 01:10:16 --------------------------
+Wooden Chest
+From: Menelaos
+Source; Bank

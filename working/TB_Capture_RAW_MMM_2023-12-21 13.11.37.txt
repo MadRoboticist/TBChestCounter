@@ -1,0 +1,405 @@
+--------------- 2023-12-21 13:11:41 --------------------------
+ler
+25 Crypt
+--------------- The above segment might not be present in the archive file due to processing errors
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-21 13:11:50 --------------------------
+Cobra Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-21 13:11:52 --------------------------
+Infernal Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-21 13:11:53 --------------------------
+Ancient Bastion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:11:55 --------------------------
+Ancient Warrior's Chest
+From: Granidred
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:11:57 --------------------------
+Abandoned Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:11:58 --------------------------
+Bone Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-21 13:12:00 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-12-21 13:12:02 --------------------------
+Mayan Chest
+From: Diovani
+Source: Level 20 Crypt
+--------------- 2023-12-21 13:12:03 --------------------------
+Priest's Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:12:05 --------------------------
+Elegant Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-21 13:12:07 --------------------------
+Scarab Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:12:08 --------------------------
+Sand Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-21 13:12:10 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-21 13:12:11 --------------------------
+Bone Chest
+From: DarkAngel
+Source: Level 25 Crypt
+--------------- 2023-12-21 13:12:13 --------------------------
+Titansteel Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:12:15 --------------------------
+Sand Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-21 13:12:16 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 25 Citadel
+--------------- 2023-12-21 13:12:18 --------------------------
+Infernal Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-12-21 13:12:20 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-21 13:12:21 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2023-12-21 13:12:23 --------------------------
+Cobra Chest
+From: Bamsi
+Source: Level 5 Crypt
+--------------- 2023-12-21 13:12:25 --------------------------
+Elven Citadel Chest
+From: Diabolik
+Source: Level 10 Citadel
+--------------- 2023-12-21 13:12:26 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-21 13:12:28 --------------------------
+Sand Chest
+From: Diovani
+Source: Level 5 Crypt
+--------------- 2023-12-21 13:12:29 --------------------------
+Chest of the Cursed
+From: Rudolf
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:12:31 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:33 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:34 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:36 --------------------------
+Ancients’ Chest
+From: DarkAngel
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:38 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:39 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:41 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:43 --------------------------
+Ancients’ Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:44 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:46 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:48 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:49 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:51 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:53 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:54 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:56 --------------------------
+Ancients’ Chest
+From: MILI
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:58 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:12:59 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:01 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:03 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:04 --------------------------
+Quick March Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:06 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:08 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:10 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:11 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:13 --------------------------
+Quick March Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:15 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:16 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:18 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:20 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:21 --------------------------
+Abandoned Chest
+From: Granidred
+Source: Level 15 epic Crypt
+--------------- 2023-12-21 13:13:23 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:25 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:26 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:28 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:29 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:31 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:33 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:34 --------------------------
+Ancients’ Chest
+From: Rudolf
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:36 --------------------------
+Quick March Chest
+From: Immortal
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:38 --------------------------
+Elven Citadel Chest
+From: Granidred
+Source: Level 15 Citadel
+--------------- 2023-12-21 13:13:39 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:41 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:43 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:44 --------------------------
+Ancients’ Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:46 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:48 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:50 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:51 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:53 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:55 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:56 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:13:58 --------------------------
+Ancients’ Chest
+From: NEVIO
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:00 --------------------------
+Ancients’ Chest
+From: Diabolik
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:01 --------------------------
+Ancients’ Chest
+From: Diabolik
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:03 --------------------------
+Ancients’ Chest
+From: Diabolik
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:05 --------------------------
+Ancients’ Chest
+From: Diabolik
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:06 --------------------------
+Quick March Chest
+From: Golgotha
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:08 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:10 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:11 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:13 --------------------------
+Ancients’ Chest
+From: Mighty Forger
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:15 --------------------------
+Quick March Chest
+From: Diabolik
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:16 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:18 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:20 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:21 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:23 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:25 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:26 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:28 --------------------------
+Ancients’ Chest
+From: Vlad the Impaler
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:30 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:31 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:33 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event
+--------------- 2023-12-21 13:14:35 --------------------------
+Ancients’ Chest
+From: Feli
+Source: Rise of the Ancients event

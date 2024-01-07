@@ -1,0 +1,200 @@
+--------------- 2023-12-11 15:30:06 --------------------------
+Elven Citadel Chest
+From: Tex Willer
+Source: Level 20 Citadel
+--------------- 2023-12-11 15:30:08 --------------------------
+House of Horrors Chest
+From: DarkAngel
+Source: Level 20 epic Crypt
+--------------- 2023-12-11 15:30:10 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-11 15:30:12 --------------------------
+Turtle Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:14 --------------------------
+Winter gift
+From: Braveheart
+Source: Winterfest tournament
+--------------- 2023-12-11 15:30:15 --------------------------
+Priest's Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:17 --------------------------
+Ancient Bastion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:19 --------------------------
+Forgotten Chest
+From: Foxhunter
+Source: Level 15 Crypt
+--------------- 2023-12-11 15:30:21 --------------------------
+Braided Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:22 --------------------------
+Scarab Chest
+From: Tumitac
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 15:30:24 --------------------------
+Scorpion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:26 --------------------------
+Elven Citadel Chest
+From: Rainblade
+Source: Level 15 Citadel
+--------------- 2023-12-11 15:30:28 --------------------------
+Cursed Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-11 15:30:29 --------------------------
+Scorpion Chest
+From: Tumitac
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 15:30:31 --------------------------
+Chest of the Cursed
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:33 --------------------------
+Barbarian Chest
+From: Foxhunter
+Source: Level 20 Crypt
+--------------- 2023-12-11 15:30:35 --------------------------
+Scorpion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:37 --------------------------
+Cursed Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-11 15:30:39 --------------------------
+Abandoned Chest
+From: Tumitac
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 15:30:40 --------------------------
+White Wood Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-11 15:30:42 --------------------------
+Ancient Bastion Chest
+From: Tumitac
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 15:30:44 --------------------------
+Mayan Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-12-11 15:30:46 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-11 15:30:47 --------------------------
+Fire Chest
+From: Felharne
+Source: Level 15 Crypt
+--------------- 2023-12-11 15:30:49 --------------------------
+House of Horrors Chest
+From: Tumitac
+Source: Level 25 epic Crypt
+--------------- 2023-12-11 15:30:51 --------------------------
+Orc Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-12-11 15:30:53 --------------------------
+Bone Chest
+From: Foxhunter
+Source: Level 15 Crypt
+--------------- 2023-12-11 15:30:54 --------------------------
+Rare Dragon Chest
+From: Karodor
+Source: Level 25 rare Crypt
+--------------- 2023-12-11 15:30:56 --------------------------
+Infernal Chest
+From: Foxhunter
+Source: Level 15 Crypt
+--------------- 2023-12-11 15:30:58 --------------------------
+Orc Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-12-11 15:31:00 --------------------------
+Orc Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:02 --------------------------
+Cursed Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-11 15:31:03 --------------------------
+Mayan Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:05 --------------------------
+Forgotten Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:07 --------------------------
+Elven Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-12-11 15:31:09 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-11 15:31:10 --------------------------
+Forgotten Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:12 --------------------------
+Sand Chest
+From: Felharne
+Source: Level 15 Crypt
+--------------- 2023-12-11 15:31:14 --------------------------
+Winter gift
+From: NEVIO
+Source: Winterfest tournament
+--------------- 2023-12-11 15:31:16 --------------------------
+Bone Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:17 --------------------------
+Bone Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:19 --------------------------
+Mayan Chest
+From: LUCKY BEAR
+Source: Level 5 Crypt
+--------------- 2023-12-11 15:31:21 --------------------------
+Elven Citadel Chest
+From: Rainblade
+Source: Level 10 Citadel
+--------------- 2023-12-11 15:31:22 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-11 15:31:24 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-11 15:31:26 --------------------------
+Sand Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:28 --------------------------
+Cobra Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:31:29 --------------------------
+Winter gift
+From: Fosida
+Source: Winterfest tournament
+--------------- 2023-12-11 15:31:31 --------------------------
+Winter gift
+From: Fosida
+Source: Winterfest tournament
+--------------- 2023-12-11 15:31:33 --------------------------
+Winter gift
+From: Fosida
+Source: Winterfest tournament

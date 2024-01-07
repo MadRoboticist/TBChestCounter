@@ -1,0 +1,400 @@
+--------------- 2023-12-17 09:32:14 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:32:16 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:32:18 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 09:32:20 --------------------------
+Cobra Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:32:21 --------------------------
+Cobra Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-12-17 09:32:23 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-17 09:32:25 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 09:32:27 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 09:32:29 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:32:30 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-12-17 09:32:32 --------------------------
+Cobra Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:32:34 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 09:32:36 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:32:37 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 09:32:39 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 09:32:41 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:32:43 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 25 rare Crypt
+--------------- 2023-12-17 09:32:44 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-17 09:32:46 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:32:48 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 25 rare Crypt
+--------------- 2023-12-17 09:32:50 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:32:51 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:32:53 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 09:32:55 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:32:57 --------------------------
+Sand Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-17 09:32:58 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 25 rare Crypt
+--------------- 2023-12-17 09:33:00 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:33:02 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:33:04 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 10 rare Crypt
+--------------- 2023-12-17 09:33:05 --------------------------
+Rare Dragon Chest
+From: Diabolik
+Source: Level 15 rare Crypt
+--------------- 2023-12-17 09:33:07 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:33:09 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:33:11 --------------------------
+Sand Chest
+From: Diabolik
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:12 --------------------------
+Forgotten Chest
+From: Diabolik
+Source: Level 10 Crypt
+--------------- 2023-12-17 09:33:14 --------------------------
+Forgotten Chest
+From: Diabolik
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:16 --------------------------
+Jormungandr's Chest
+From: Graveleye
+Source: Jormungandr Shop
+--------------- 2023-12-17 09:33:18 --------------------------
+Jormungandr's Chest
+From: Graveleye
+Source: Jormungandr Shop
+--------------- 2023-12-17 09:33:19 --------------------------
+Jormungandr's Chest
+From: Graveleye
+Source: Jormungandr Shop
+--------------- 2023-12-17 09:33:21 --------------------------
+Jormungandr's Chest
+From: Graveleye
+Source: Jormungandr Shop
+--------------- 2023-12-17 09:33:23 --------------------------
+Jormungandr's Chest
+From: Graveleye
+Source: Jormungandr Shop
+--------------- 2023-12-17 09:33:25 --------------------------
+Bone Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-17 09:33:27 --------------------------
+Orc Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-17 09:33:28 --------------------------
+Orc Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 09:33:30 --------------------------
+Elegant Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:32 --------------------------
+Mayan Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:33 --------------------------
+Bone Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 09:33:35 --------------------------
+Barbarian Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:37 --------------------------
+Mayan Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:39 --------------------------
+Bone Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:41 --------------------------
+Mayan Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 09:33:42 --------------------------
+Infernal Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:44 --------------------------
+Elven Citadel Chest
+From: Berohef
+Source: Level 15 Citadel
+--------------- 2023-12-17 09:33:46 --------------------------
+Sand Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:47 --------------------------
+Forgotten Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:49 --------------------------
+Mayan Chest
+From: Defur
+Source: Level 10 Crypt
+--------------- 2023-12-17 09:33:51 --------------------------
+Orc Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:53 --------------------------
+Mayan Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:54 --------------------------
+Mayan Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 09:33:56 --------------------------
+Orc Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:58 --------------------------
+Stone Chest
+From: Monaoka
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:33:59 --------------------------
+Orc Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 09:34:01 --------------------------
+Cobra Chest
+From: Berohef
+Source: Level 10 Crypt
+--------------- 2023-12-17 09:34:03 --------------------------
+Bone Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:34:05 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:34:06 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:34:08 --------------------------
+Elven Citadel Chest
+From: Immortal
+Source: Level 25 Citadel
+--------------- 2023-12-17 09:34:10 --------------------------
+Fire Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:34:11 --------------------------
+Rare Dragon Chest
+From: NEVIO
+Source: Level 25 rare Crypt
+--------------- 2023-12-17 09:34:13 --------------------------
+Bone Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-17 09:34:15 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:34:17 --------------------------
+Elven Citadel Chest
+From: Immortal
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:34:18 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:34:20 --------------------------
+Elven Citadel Chest
+From: Immortal
+Source: Level 15 Citadel
+--------------- 2023-12-17 09:34:22 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:24 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:25 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:27 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:29 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:31 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:32 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:34 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:36 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:37 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:39 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:41 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:43 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:44 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:46 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:48 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:50 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:52 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:53 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:55 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:57 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:34:59 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:35:00 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:35:02 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:35:04 --------------------------
+Fenrir's Chest
+From: Heretical Hermit
+Source: Epic Fenrir squad
+--------------- 2023-12-17 09:35:06 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-17 09:35:08 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel

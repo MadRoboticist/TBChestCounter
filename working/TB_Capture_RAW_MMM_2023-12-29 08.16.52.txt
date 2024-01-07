@@ -1,0 +1,85 @@
+--------------- 2023-12-29 08:16:53 --------------------------
+Precious Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-29 08:16:55 --------------------------
+Precious Chest
+From: Heretical Hermit
+Source: Bank
+--------------- 2023-12-29 08:16:57 --------------------------
+Precious Chest
+From: Heretical Hermit
+Source: Bank
+--------------- 2023-12-29 08:16:59 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-29 08:17:04 --------------------------
+Orc Chest
+From: Mal
+Source: Level 20 Crypt
+--------------- 2023-12-29 08:17:05 --------------------------
+Sand Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:07 --------------------------
+Fire Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:09 --------------------------
+Rare Dragon Chest
+From: Vlad the Impaler
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 08:17:11 --------------------------
+Elven Citadel Chest
+From: Vlad the Impaler
+Source: Level 15 Citadel
+--------------- 2023-12-29 08:17:12 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 08:17:14 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-29 08:17:16 --------------------------
+Elegant Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:17 --------------------------
+Forgotten Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:19 --------------------------
+Sand Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:21 --------------------------
+Minotaur Chest
+From: Vlad the Impaler
+Source: Level 20 epic Crypt
+--------------- 2023-12-29 08:17:23 --------------------------
+Elegant Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-29 08:17:24 --------------------------
+Stone Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:26 --------------------------
+Mayan Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:28 --------------------------
+Abandoned Chest
+From: Vlad the Impaler
+Source: Level 20 epic Crypt
+--------------- 2023-12-29 08:17:29 --------------------------
+Elegant Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 08:17:31 --------------------------
+Sand Chest
+From: Mal
+Source: Level 15 Crypt

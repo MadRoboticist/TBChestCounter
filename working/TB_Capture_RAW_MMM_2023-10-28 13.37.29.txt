@@ -1,0 +1,332 @@
+--------------- 2023-10-28 13:37:32 --------------------------
+Fire Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:34 --------------------------
+Elven Citadel Chest
+From: Diabolik
+Source: Level 15 Citadel
+--------------- 2023-10-28 13:37:35 --------------------------
+Orc Chest
+From: Diabolik
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:37:37 --------------------------
+Barbarian Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:39 --------------------------
+Gnome Workshop Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:41 --------------------------
+Stone Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:37:42 --------------------------
+Fire Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:44 --------------------------
+Bone Chest
+From: RatkoM
+Source: Level 20 Crypt
+--------------- 2023-10-28 13:37:46 --------------------------
+Stone Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:48 --------------------------
+Sand Chest
+From: RatkoM
+Source: Level 20 Crypt
+--------------- 2023-10-28 13:37:49 --------------------------
+Bone Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:51 --------------------------
+Gnome Workshop Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:53 --------------------------
+Forgotten Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:55 --------------------------
+Infernal Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-10-28 13:37:56 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:37:58 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:38:00 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-10-28 13:38:01 --------------------------
+Cursed Citadel Chest
+From: Feli
+Source: Level 20 Citadel
+--------------- 2023-10-28 13:38:03 --------------------------
+Cursed Citadel Chest
+From: Feli
+Source: Level 20 Citadel
+--------------- 2023-10-28 13:38:05 --------------------------
+Trillium Chest
+From: Feli
+Source: Level 25 epic Crypt
+--------------- 2023-10-28 13:38:06 --------------------------
+Mayan Chest
+From: RatkoM
+Source: Level 15 Crypt
+--------------- 2023-10-28 13:38:08 --------------------------
+Stone Chest
+From: RatkoM
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:38:10 --------------------------
+Merchant's Chest
+From: NEVIO
+Source: Mercenary Exchange
+--------------- 2023-10-28 13:38:11 --------------------------
+Merchant's Chest
+From: Karodor
+Source: Mercenary Exchange
+--------------- 2023-10-28 13:38:13 --------------------------
+Trillium Chest
+From: Feli
+Source: Level 25 epic Crypt
+--------------- 2023-10-28 13:38:15 --------------------------
+Rare Dragon Chest
+From: Feli
+Source: Level 30 rare Crypt
+--------------- 2023-10-28 13:38:16 --------------------------
+Orc Chest
+From: doc48
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:38:18 --------------------------
+Orc Chest
+From: doc48
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:38:20 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:38:21 --------------------------
+Infernal Chest
+From: doc48
+Source: Level 5 Crypt
+--------------- 2023-10-28 13:38:23 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:38:25 --------------------------
+Forgotten Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2023-10-28 13:38:27 --------------------------
+Orc Chest
+From: Tha Supreme
+Source: Level 20 Crypt
+--------------- 2023-10-28 13:38:28 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 20 rare Crypt
+--------------- 2023-10-28 13:38:30 --------------------------
+Common Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-10-28 13:38:32 --------------------------
+Uncommon Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-10-28 13:38:34 --------------------------
+Rare Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-10-28 13:38:35 --------------------------
+Epic Chest of Wealth
+From: Braveheart
+Source: Clan wealth
+--------------- 2023-10-28 13:38:37 --------------------------
+Rare Dragon Chest
+From: Feli
+Source: Level 30 rare Crypt
+--------------- 2023-10-28 13:38:39 --------------------------
+Rare Dragon Chest
+From: Feli
+Source: Level 30 rare Crypt
+--------------- 2023-10-28 13:38:40 --------------------------
+Forgotten Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:38:42 --------------------------
+House of Horrors Chest
+From: Bamsi
+Source: Level 20 epic Crypt
+--------------- 2023-10-28 13:38:44 --------------------------
+Forgotten Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:38:46 --------------------------
+Gnome Workshop Chest
+From: Braveheart
+Source: Level 15 Crypt
+--------------- 2023-10-28 13:38:47 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:38:49 --------------------------
+Elegant Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:38:51 --------------------------
+Sand Chest
+From: Bamsi
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:38:53 --------------------------
+Rare Dragon Chest
+From: RED GUARDIAN
+Source: Level 15 rare Crypt
+--------------- 2023-10-28 13:38:54 --------------------------
+Bone Chest
+From: Braveheart
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:38:56 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:38:58 --------------------------
+Cobra Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-10-28 13:38:59 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2023-10-28 13:39:01 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:39:03 --------------------------
+Rare Dragon Chest
+From: Bamsi
+Source: Level 20 rare Crypt
+--------------- 2023-10-28 13:39:04 --------------------------
+Minotaur Chest
+From: Braveheart
+Source: Level 25 epic Crypt
+--------------- 2023-10-28 13:39:06 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:39:08 --------------------------
+Rare Dragon Chest
+From: Braveheart
+Source: Level 20 rare Crypt
+--------------- 2023-10-28 13:39:10 --------------------------
+Rare Dragon Chest
+From: RED GUARDIAN
+Source: Level 15 rare Crypt
+--------------- 2023-10-28 13:39:11 --------------------------
+Fire Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-10-28 13:39:13 --------------------------
+Rare Dragon Chest
+From: Braveheart
+Source: Level 20 rare Crypt
+--------------- 2023-10-28 13:39:15 --------------------------
+Elegant Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:39:17 --------------------------
+Rare Dragon Chest
+From: RED GUARDIAN
+Source: Level 15 rare Crypt
+--------------- 2023-10-28 13:39:18 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:39:20 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:39:22 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 20 rare Crypt
+--------------- 2023-10-28 13:39:23 --------------------------
+Orc Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:39:25 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-10-28 13:39:27 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-10-28 13:39:29 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-10-28 13:39:31 --------------------------
+Ancients’ Chest
+From: Silverblade
+Source: Rise of the Ancients event
+--------------- 2023-10-28 13:39:32 --------------------------
+Ancients’ Chest
+From: Silverblade
+Source: Rise of the Ancients event
+--------------- 2023-10-28 13:39:34 --------------------------
+Ancients’ Chest
+From: Silverblade
+Source: Rise of the Ancients event
+--------------- 2023-10-28 13:39:36 --------------------------
+Ancients’ Chest
+From: Silverblade
+Source: Rise of the Ancients event
+--------------- 2023-10-28 13:39:38 --------------------------
+Quick March Chest
+From: Silverblade
+Source: Rise of the Ancients event
+--------------- 2023-10-28 13:39:39 --------------------------
+Mayan Chest
+From: Raya
+Source: Level 15 Crypt
+--------------- 2023-10-28 13:39:41 --------------------------
+White Wood Chest
+From: Raya
+Source: Level 15 epic Crypt
+--------------- 2023-10-28 13:39:43 --------------------------
+Infernal Chest
+From: Rain
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:39:44 --------------------------
+Gnome Workshop Chest
+From: Rain
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:39:46 --------------------------
+Mayan Chest
+From: Rain
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:39:48 --------------------------
+Gnome Workshop Chest
+From: Rain
+Source: Level 10 Crypt
+--------------- 2023-10-28 13:39:50 --------------------------
+Merchant's Chest
+From: Bamsi
+Source: Mercenary Exchange
+--------------- 2023-10-28 13:39:51 --------------------------
+Sand Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-10-28 13:39:53 --------------------------
+ee
+ee
+ee

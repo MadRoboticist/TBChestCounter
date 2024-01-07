@@ -1,0 +1,33 @@
+--------------- 2023-12-11 10:51:36 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-11 10:51:38 --------------------------
+Gnome Workshop Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-11 10:51:40 --------------------------
+Gnome Workshop Chest
+From: Funfiren
+Source: Level 20 Crypt
+--------------- 2023-12-11 10:51:42 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-12-11 10:51:43 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-12-11 10:51:45 --------------------------
+Bone Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-12-11 10:51:47 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-11 10:51:52 --------------------------
+Infernal Chest
+From: Eydaen
+Source: Level 10 Crypt

@@ -1,0 +1,280 @@
+--------------- 2023-12-19 11:12:21 --------------------------
+Stone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:12:22 --------------------------
+Sand Chest
+From: Thoth
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:12:24 --------------------------
+Stone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:12:26 --------------------------
+Runic Chest
+From: idaco
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-19 11:12:28 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-19 11:12:29 --------------------------
+Stone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:12:31 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-19 11:12:33 --------------------------
+Mayan Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:12:35 --------------------------
+Cobra Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:12:36 --------------------------
+Orc Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:12:38 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-19 11:12:40 --------------------------
+Runic Chest
+From: Rhodry
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-19 11:12:41 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-19 11:12:43 --------------------------
+Barbarian Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-12-19 11:12:45 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-19 11:12:47 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 10 Citadel
+--------------- 2023-12-19 11:12:49 --------------------------
+Stone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:12:50 --------------------------
+Rare Dragon Chest
+From: Xan
+Source: Level 15 rare Crypt
+--------------- 2023-12-19 11:12:52 --------------------------
+Stone Chest
+From: MILI
+Source: Level 5 Crypt
+--------------- 2023-12-19 11:12:54 --------------------------
+Orc Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:12:56 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 10 Crypt
+--------------- 2023-12-19 11:12:57 --------------------------
+Stone Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:12:59 --------------------------
+Rare Dragon Chest
+From: Xan
+Source: Level 15 rare Crypt
+--------------- 2023-12-19 11:13:01 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-19 11:13:03 --------------------------
+Stone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:04 --------------------------
+Sand Chest
+From: MILI
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:13:06 --------------------------
+Elven Citadel Chest
+From: Foxhunter
+Source: Level 20 Citadel
+--------------- 2023-12-19 11:13:08 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 30-34 Raid Runic squad
+--------------- 2023-12-19 11:13:10 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-19 11:13:11 --------------------------
+Bone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:13 --------------------------
+Elegant Chest
+From: Tex Willer
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:15 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-19 11:13:17 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-19 11:13:18 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 10 Crypt
+--------------- 2023-12-19 11:13:20 --------------------------
+Orc Chest
+From: Fanlotilas
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:13:22 --------------------------
+Orc Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:24 --------------------------
+Cursed Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-12-19 11:13:25 --------------------------
+Fire Chest
+From: LUCKY BEAR
+Source: Level 5 Crypt
+--------------- 2023-12-19 11:13:27 --------------------------
+Cursed Citadel Chest
+From: Xan
+Source: Level 20 Citadel
+--------------- 2023-12-19 11:13:29 --------------------------
+Mayan Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:13:31 --------------------------
+Mayan Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:32 --------------------------
+Barbarian Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:13:34 --------------------------
+Orc Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:36 --------------------------
+Orc Chest
+From: Fanlotilas
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:13:38 --------------------------
+Mayan Chest
+From: Mal
+Source: Level 10 Crypt
+--------------- 2023-12-19 11:13:39 --------------------------
+Stone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:41 --------------------------
+Orc Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:43 --------------------------
+Orc Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:44 --------------------------
+Orc Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:13:46 --------------------------
+Infernal Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:13:48 --------------------------
+Orc Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:13:50 --------------------------
+Cursed Citadel Chest
+From: Xan
+Source: Level 20 Citadel
+--------------- 2023-12-19 11:13:51 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-19 11:13:53 --------------------------
+Forgotten Chest
+From: Mal
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:13:55 --------------------------
+Runic Chest
+From: Germanicus
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-19 11:13:57 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:13:58 --------------------------
+Bone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:14:00 --------------------------
+Mayan Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-19 11:14:02 --------------------------
+Snowman chest
+From: Thoth
+Source: Snowman
+--------------- 2023-12-19 11:14:04 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-19 11:14:05 --------------------------
+Bone Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:14:07 --------------------------
+Cursed Citadel Chest
+From: Alberikh
+Source: Level 20 Citadel
+--------------- 2023-12-19 11:14:09 --------------------------
+Runic Chest
+From: Rhodry
+Source: Lvl 40-44 Raid Runic squad
+--------------- 2023-12-19 11:14:11 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 10 Crypt
+--------------- 2023-12-19 11:14:13 --------------------------
+Cursed Citadel Chest
+From: Xan
+Source: Level 20 Citadel
+--------------- 2023-12-19 11:14:14 --------------------------
+Mayan Chest
+From: Xan
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:14:16 --------------------------
+Gnome Workshop Chest
+From: LUCKY BEAR
+Source: Level 15 Crypt
+--------------- 2023-12-19 11:14:18 --------------------------
+Forgotten Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:14:19 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2023-12-19 11:14:21 --------------------------
+Snowman chest
+From: Kirimand
+Source: Snowman

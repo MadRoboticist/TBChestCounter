@@ -1,0 +1,257 @@
+--------------- 2023-12-17 15:35:13 --------------------------
+Mayan Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:15 --------------------------
+Forgotten Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:17 --------------------------
+Sand Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:19 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-17 15:35:21 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 10 Citadel
+--------------- 2023-12-17 15:35:22 --------------------------
+Sand Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:24 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:35:26 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:28 --------------------------
+Orc Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:30 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:31 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:33 --------------------------
+Orc Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:35 --------------------------
+Infernal Chest
+From: Diovani
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:37 --------------------------
+Infernal Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-17 15:35:38 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:40 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:35:42 --------------------------
+Fire Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-17 15:35:44 --------------------------
+Mayan Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:46 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:47 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-17 15:35:49 --------------------------
+Orc Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:51 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:52 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:35:54 --------------------------
+Stone Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:35:56 --------------------------
+Stone Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:35:58 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 5 Crypt
+--------------- 2023-12-17 15:36:00 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:36:01 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-12-17 15:36:03 --------------------------
+Orc Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:05 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:36:07 --------------------------
+Rare Dragon Chest
+From: Grikelv
+Source: Level 20 rare Crypt
+--------------- 2023-12-17 15:36:09 --------------------------
+Orc Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:10 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:36:12 --------------------------
+Cursed Citadel Chest
+From: Xan
+Source: Level 20 Citadel
+--------------- 2023-12-17 15:36:14 --------------------------
+Barbarian Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:36:16 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-17 15:36:17 --------------------------
+Orc Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:19 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 20 Citadel
+--------------- 2023-12-17 15:36:21 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 15:36:23 --------------------------
+Forgotten Chest
+From: Brandemet
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:36:24 --------------------------
+Cobra Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:36:26 --------------------------
+Mayan Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:28 --------------------------
+Elegant Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:30 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2023-12-17 15:36:32 --------------------------
+Cursed Citadel Chest
+From: Marcelo
+Source: Level 25 Citadel
+--------------- 2023-12-17 15:36:33 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 15:36:35 --------------------------
+Elegant Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:36:37 --------------------------
+Stone Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:36:39 --------------------------
+Orc Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2023-12-17 15:36:41 --------------------------
+Gladiator's Chest
+From: Tex Willer
+Source: Arena
+--------------- 2023-12-17 15:36:43 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 15:36:44 --------------------------
+Bone Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:46 --------------------------
+Bone Chest
+From: Maveriel
+Source: Level 5 Crypt
+--------------- 2023-12-17 15:36:48 --------------------------
+Sand Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:50 --------------------------
+Sand Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:51 --------------------------
+Gnome Workshop Chest
+From: Fosida
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:36:53 --------------------------
+Elven Citadel Chest
+From: Grikelv
+Source: Level 20 Citadel
+--------------- 2023-12-17 15:36:55 --------------------------
+Elven Citadel Chest
+From: Xan
+Source: Level 15 Citadel
+--------------- 2023-12-17 15:36:57 --------------------------
+Forgotten Chest
+From: Rexfury
+Source: Level 20 Crypt
+--------------- 2023-12-17 15:36:58 --------------------------
+Cobalt Chest
+From: Rexfury
+Source: Level 15 epic Crypt
+--------------- 2023-12-17 15:37:01 --------------------------
+Elven Citadel Chest
+From: Grikelv
+Source: Level 20 Citadel
+--------------- 2023-12-17 15:37:02 --------------------------
+Cobra Chest
+From: Berohef
+Source: Level 10 Crypt
+--------------- 2023-12-17 15:37:04 --------------------------
+Forgotten Chest
+From: Rexfury
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:37:06 --------------------------
+Barbarian Chest
+From: Rexfury
+Source: Level 15 Crypt
+--------------- 2023-12-17 15:37:07 --------------------------

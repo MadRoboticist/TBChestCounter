@@ -1,0 +1,210 @@
+--------------- 2023-11-23 07:44:41 --------------------------
+Orc Chest
+From: Racibor
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:44:43 --------------------------
+Infernal Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:44:45 --------------------------
+Elegant Chest
+From: Vlad the Impaler
+Source: Level 25 Crypt
+--------------- 2023-11-23 07:44:46 --------------------------
+Orc Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:44:48 --------------------------
+Elven Citadel Chest
+From: Racibor
+Source: Level 15 Citadel
+--------------- 2023-11-23 07:44:50 --------------------------
+Bone Chest
+From: Mabrinad
+Source: Level 25 Crypt
+--------------- 2023-11-23 07:44:52 --------------------------
+Orc Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:44:54 --------------------------
+Forgotten Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:44:55 --------------------------
+Barbarian Chest
+From: Racibor
+Source: Level 25 Crypt
+--------------- 2023-11-23 07:44:57 --------------------------
+Abandoned Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:44:59 --------------------------
+Elven Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-11-23 07:45:01 --------------------------
+House of Horrors Chest
+From: Mabrinad
+Source: Level 20 epic Crypt
+--------------- 2023-11-23 07:45:02 --------------------------
+Forgotten Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:45:04 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:06 --------------------------
+Titansteel Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:45:08 --------------------------
+Braided Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:45:10 --------------------------
+Bone Chest
+From: Snowberry
+Source: Level 15 Crypt
+--------------- 2023-11-23 07:45:11 --------------------------
+Forgotten Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2023-11-23 07:45:13 --------------------------
+Elven Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-11-23 07:45:15 --------------------------
+Forgotten Chest
+From: Vlad the Impaler
+Source: Level 25 Crypt
+--------------- 2023-11-23 07:45:17 --------------------------
+Orc Chest
+From: Racibor
+Source: Level 25 Crypt
+--------------- 2023-11-23 07:45:19 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2023-11-23 07:45:20 --------------------------
+Turtle Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:45:22 --------------------------
+Cursed Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-11-23 07:45:24 --------------------------
+Elven Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-11-23 07:45:26 --------------------------
+Rare Dragon Chest
+From: Racibor
+Source: Level 15 rare Crypt
+--------------- 2023-11-23 07:45:27 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:29 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:31 --------------------------
+Forgotten Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:45:33 --------------------------
+Cursed Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-11-23 07:45:34 --------------------------
+Trillium Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:45:36 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 15 Citadel
+--------------- 2023-11-23 07:45:38 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:40 --------------------------
+Chest of the Cursed
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:45:41 --------------------------
+Ancient Bastion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:45:43 --------------------------
+Rare Dragon Chest
+From: Menelaos
+Source: Level 15 rare Crypt
+--------------- 2023-11-23 07:45:45 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 15 Citadel
+--------------- 2023-11-23 07:45:47 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-11-23 07:45:49 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:50 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:52 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:54 --------------------------
+Elven Citadel Chest
+From: Kirimand
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:56 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:57 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:45:59 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-11-23 07:47:35 --------------------------
+Elven Citadel Chest
+From: Fabrinir
+Source: Level 20 Citadel
+--------------- 2023-11-23 07:47:37 --------------------------
+Barbarian Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-11-23 07:47:39 --------------------------
+Bone Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-11-23 07:47:40 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:47:42 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-11-23 07:48:00 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-11-23 07:48:02 --------------------------
+Scorpion Chest
+From: Karodor
+Source: Level 15 epic Crypt

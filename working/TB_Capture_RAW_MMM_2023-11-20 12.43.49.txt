@@ -1,0 +1,285 @@
+--------------- 2023-11-20 12:43:51 --------------------------
+Wooden Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-11-20 12:43:53 --------------------------
+Wooden Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-11-20 12:43:55 --------------------------
+Wooden Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-11-20 12:43:56 --------------------------
+Bronze Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-11-20 12:43:58 --------------------------
+Bronze Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-11-20 12:44:00 --------------------------
+Bronze Chest
+From: NEVIO
+Source; Bank
+--------------- 2023-11-20 12:44:01 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-11-20 12:46:36 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:46:37 --------------------------
+Cobra Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:46:39 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:46:41 --------------------------
+Bone Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:46:42 --------------------------
+Gnome Workshop Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:46:44 --------------------------
+Sand Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:46:46 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:46:47 --------------------------
+Bone Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:46:49 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:46:51 --------------------------
+Infernal Chest
+From: Vatharia
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:46:53 --------------------------
+Orc Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-20 12:46:54 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:46:56 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:46:58 --------------------------
+Stone Chest
+From: Vatharia
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:46:59 --------------------------
+Cobra Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-20 12:47:01 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:03 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:05 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-20 12:47:06 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:08 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:47:10 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:12 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:13 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:15 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:17 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:47:18 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:20 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:22 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-20 12:47:24 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:25 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:47:27 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:29 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:30 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-11-20 12:47:32 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:34 --------------------------
+Cursed Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:36 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:37 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:39 --------------------------
+Cursed Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:47:41 --------------------------
+Elven Citadel Chest
+From: Gradog
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:42 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:44 --------------------------
+Fire Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:47:46 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:48 --------------------------
+Cobra Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:47:49 --------------------------
+Sapphire Chest
+From: Rhodry
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-11-20 12:47:51 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 10 Citadel
+--------------- 2023-11-20 12:47:53 --------------------------
+Elegant Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-11-20 12:47:54 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:47:56 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:47:58 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 10-14 Vault of the Ancients
+--------------- 2023-11-20 12:48:00 --------------------------
+Sapphire Chest
+From: Germanicus
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-11-20 12:48:02 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:48:03 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-11-20 12:48:05 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:48:07 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 25-29 Vault of the Ancients
+--------------- 2023-11-20 12:48:08 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:48:10 --------------------------
+Forgotten Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:48:12 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:48:13 --------------------------
+Undead Chest
+From: NEVIO
+Source: Level 16 heroic Monster
+--------------- 2023-11-20 12:48:15 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 30 Citadel
+--------------- 2023-11-20 12:48:17 --------------------------
+Sapphire Chest
+From: Heretical Hermit
+Source: Level 35-39 Vault of the Ancients
+--------------- 2023-11-20 12:48:19 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2023-11-20 12:48:20 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 15 Citadel
+--------------- 2023-11-20 12:48:22 --------------------------
+Barbarian Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-11-20 12:48:24 --------------------------
+Barbarian Chest
+From: Immortal
+Source: Level 25 Crypt

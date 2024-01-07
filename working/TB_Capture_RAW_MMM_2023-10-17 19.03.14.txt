@@ -1,0 +1,296 @@
+--------------- 2023-10-17 19:03:18 --------------------------
+Barbarian Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:03:19 --------------------------
+Wooden Chest
+From: Tumitac
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:03:21 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 5 Crypt
+--------------- 2023-10-17 19:03:23 --------------------------
+Wooden Chest
+From: Gradog
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:03:24 --------------------------
+Stone Chest
+From: Vlad the Impaler
+Source: Level 5 Crypt
+--------------- 2023-10-17 19:03:26 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:03:28 --------------------------
+Forgotten Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:03:30 --------------------------
+Wooden Chest
+From: Brandemet
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:03:31 --------------------------
+Sand Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:03:33 --------------------------
+Fire Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:03:35 --------------------------
+Mayan Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:03:37 --------------------------
+Wooden Chest
+From: Amginir
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:03:38 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:03:40 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:03:42 --------------------------
+Forgotten Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2023-10-17 19:03:43 --------------------------
+Infernal Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:03:45 --------------------------
+Wooden Chest
+From: Rudolf
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:03:47 --------------------------
+Stone Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:03:49 --------------------------
+Wooden Chest
+From: Germanicus
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:03:50 --------------------------
+Mayan Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:03:52 --------------------------
+Barbarian Chest
+From: Tex Willer
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:03:53 --------------------------
+Orc Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:03:55 --------------------------
+Barbarian Chest
+From: Immortal
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:03:57 --------------------------
+Wooden Chest
+From: Rhodry
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:03:59 --------------------------
+Forgotten Chest
+From: Tex Willer
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:04:00 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:02 --------------------------
+Forgotten Chest
+From: Tex Willer
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:04 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 5 Crypt
+--------------- 2023-10-17 19:04:05 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:04:07 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 5 Crypt
+--------------- 2023-10-17 19:04:09 --------------------------
+Elegant Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:11 --------------------------
+Mayan Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2023-10-17 19:04:12 --------------------------
+Elegant Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:04:14 --------------------------
+Mayan Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:04:16 --------------------------
+Elegant Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:04:17 --------------------------
+Mayan Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:04:19 --------------------------
+Elegant Chest
+From: Maedrosin
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:04:21 --------------------------
+Infernal Chest
+From: Marcelo
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:04:22 --------------------------
+Rare Dragon Chest
+From: Marcelo
+Source: Level 20 rare Crypt
+--------------- 2023-10-17 19:04:24 --------------------------
+Gladiator's Chest
+From: Painmoon
+Source: Arena
+--------------- 2023-10-17 19:04:26 --------------------------
+Bone Chest
+From: Fosida
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:28 --------------------------
+Minotaur Chest
+From: Fosida
+Source: Level 25 epic Crypt
+--------------- 2023-10-17 19:04:29 --------------------------
+Rare Dragon Chest
+From: Fosida
+Source: Level 25 rare Crypt
+--------------- 2023-10-17 19:04:31 --------------------------
+Minotaur Chest
+From: Marcelo
+Source: Level 15 epic Crypt
+--------------- 2023-10-17 19:04:33 --------------------------
+Cobra Chest
+From: Marcelo
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:34 --------------------------
+Infernal Chest
+From: Vlad the Impaler
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:04:36 --------------------------
+Rare Dragon Chest
+From: Fosida
+Source: Level 25 rare Crypt
+--------------- 2023-10-17 19:04:38 --------------------------
+Wooden Chest
+From: KARMA
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:04:40 --------------------------
+Orc Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:04:41 --------------------------
+Elegant Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:43 --------------------------
+Elegant Chest
+From: Kirimand
+Source: Level 10 Crypt
+--------------- 2023-10-17 19:04:45 --------------------------
+Gnome Workshop Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Crypt
+--------------- 2023-10-17 19:04:46 --------------------------
+Gladiator's Chest
+From: Kirimand
+Source: Arena
+--------------- 2023-10-17 19:04:48 --------------------------
+Orc Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:04:50 --------------------------
+Rare Dragon Chest
+From: Fabrinir
+Source: Level 25 rare Crypt
+--------------- 2023-10-17 19:04:52 --------------------------
+Rare Dragon Chest
+From: Fabrinir
+Source: Level 25 rare Crypt
+--------------- 2023-10-17 19:04:53 --------------------------
+Gnome Workshop Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:55 --------------------------
+Infernal Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:57 --------------------------
+Stone Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:04:59 --------------------------
+Bone Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:05:00 --------------------------
+Stone Chest
+From: Tumitac
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:05:02 --------------------------
+Infernal Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:05:04 --------------------------
+Orc Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:05:05 --------------------------
+Gladiator's Chest
+From: Sir James III Son of Hadur
+Source: Arena
+--------------- 2023-10-17 19:05:07 --------------------------
+Gnome Workshop Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:05:09 --------------------------
+Forgotten Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-10-17 19:05:10 --------------------------
+Cobra Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-10-17 19:05:12 --------------------------
+Forgotten Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:05:14 --------------------------
+Wooden Chest
+From: Mabrinad
+Source: Clash for the Throne tournament
+--------------- 2023-10-17 19:05:16 --------------------------
+Cobra Chest
+From: Fabrinir
+Source: Level 20 Crypt
+--------------- 2023-10-17 19:05:17 --------------------------
+Orc Chest
+From: Rain
+Source: Level 15 Crypt
+--------------- 2023-10-17 19:05:19 --------------------------
+Fire Chest
+From: Rain
+Source: Level 5 Crypt
+--------------- 2023-10-17 19:05:21 --------------------------
+Gnome Workshop Chest
+From: Rain
+Source: Level 25 Crypt
+--------------- 2023-10-17 19:05:23 --------------------------
+Orc Chest
+From: Rain
+Source: Level 15 Crypt

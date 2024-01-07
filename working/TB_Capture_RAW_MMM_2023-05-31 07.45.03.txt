@@ -1,0 +1,800 @@
+--------------- 2023-05-31 07:45:06 --------------------------
+Infernal Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:45:07 --------------------------
+Mayan Chest
+From: Foxhunter
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:45:09 --------------------------
+Forgotten Chest
+From: Foxhunter
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:45:11 --------------------------
+Forgotten Chest
+From: Foxhunter
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:45:13 --------------------------
+Barbarian Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:45:14 --------------------------
+Infernal Chest
+From: Foxhunter
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:45:16 --------------------------
+Fire Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:45:18 --------------------------
+Mayan Chest
+From: Foxhunter
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:45:19 --------------------------
+Elegant Chest
+From: Foxhunter
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:45:21 --------------------------
+Elegant Chest
+From: Foxhunter
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:45:23 --------------------------
+Ancient Bastion Chest
+From: Xena
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 07:45:24 --------------------------
+Fire Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:45:26 --------------------------
+Bone Chest
+From: Germanicus
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:45:28 --------------------------
+Bone Chest
+From: LETS GO BRANDON
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:45:30 --------------------------
+Sand Chest
+From: Germanicus
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:45:31 --------------------------
+Mayan Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:45:33 --------------------------
+Cobra Chest
+From: Xena
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:45:35 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:45:36 --------------------------
+Barbarian Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:45:38 --------------------------
+Stone Chest
+From: Germanicus
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:45:40 --------------------------
+Merchant's Chest
+From: Germanicus
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:45:41 --------------------------
+Rare Dragon Chest
+From: Xena
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:45:43 --------------------------
+Stone Chest
+From: LETS GO BRANDON
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:45:45 --------------------------
+Rare Dragon Chest
+From: Xena
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:45:46 --------------------------
+Cobra Chest
+From: Xena
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:45:48 --------------------------
+Mayan Chest
+From: Xena
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:45:50 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2023-05-31 07:45:52 --------------------------
+Gladiator's Chest
+From: LETS GO BRANDON
+Source: Arena
+--------------- 2023-05-31 07:45:53 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2023-05-31 07:45:55 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2023-05-31 07:45:57 --------------------------
+Mayan Chest
+From: Xena
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:45:58 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2023-05-31 07:46:00 --------------------------
+Rare Dragon Chest
+From: Hulk
+Source: Level 30 rare Crypt
+--------------- 2023-05-31 07:46:02 --------------------------
+Rare Dragon Chest
+From: Xena
+Source: Level 25 rare Crypt
+--------------- 2023-05-31 07:46:04 --------------------------
+Rare Dragon Chest
+From: Hulk
+Source: Level 30 rare Crypt
+--------------- 2023-05-31 07:46:05 --------------------------
+Rare Dragon Chest
+From: Hulk
+Source: Level 30 rare Crypt
+--------------- 2023-05-31 07:46:07 --------------------------
+Merchant's Chest
+From: Saucy Joy
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:46:09 --------------------------
+Forgotten Chest
+From: RED GUARDIAN
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:46:10 --------------------------
+Forgotten Chest
+From: RED GUARDIAN
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:46:12 --------------------------
+Merchant's Chest
+From: MILI
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:46:14 --------------------------
+Orc Chest
+From: RED GUARDIAN
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:46:15 --------------------------
+Merchant's Chest
+From: Gradog
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:46:17 --------------------------
+Bone Chest
+From: Gradog
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:46:19 --------------------------
+Infernal Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:46:21 --------------------------
+Infernal Chest
+From: Gradog
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:46:22 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN
+Source: Level 15 Citadel
+--------------- 2023-05-31 07:46:24 --------------------------
+Elven Citadel Chest
+From: MILI
+Source: Level 10 Citadel
+--------------- 2023-05-31 07:46:26 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN
+Source: Level 15 Citadel
+--------------- 2023-05-31 07:46:27 --------------------------
+Infernal Chest
+From: Gradog
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:46:29 --------------------------
+Orc Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:46:31 --------------------------
+Sand Chest
+From: Feli
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:46:32 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:46:34 --------------------------
+Barbarian Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:46:36 --------------------------
+Elegant Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:46:37 --------------------------
+Elven Citadel Chest
+From: MILI
+Source: Level 15 Citadel
+--------------- 2023-05-31 07:46:39 --------------------------
+Infernal Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:46:41 --------------------------
+Rare Dragon Chest
+From: RED GUARDIAN
+Source: Level 25 rare Crypt
+--------------- 2023-05-31 07:46:43 --------------------------
+Stone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:46:44 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN.
+Source: Level 20 Citadel
+--------------- 2023-05-31 07:46:46 --------------------------
+Elegant Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:46:48 --------------------------
+Mayan Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:46:50 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN.
+Source: Level 20 Citadel
+--------------- 2023-05-31 07:46:51 --------------------------
+Stone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:46:53 --------------------------
+Cobra Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:46:55 --------------------------
+Elven Citadel Chest
+From: MILI
+Source: Level 15 Citadel
+--------------- 2023-05-31 07:46:56 --------------------------
+Orc Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:46:58 --------------------------
+Forgotten Chest
+From: D23
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:47:00 --------------------------
+Mayan Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:47:01 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:47:03 --------------------------
+Rare Dragon Chest
+From: RED GUARDIAN
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:47:05 --------------------------
+Rare Dragon Chest
+From: RED GUARDIAN
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:47:07 --------------------------
+Merchant's Chest
+From: MADMAN
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:47:08 --------------------------
+Ancient Warrior's Chest
+From: RED GUARDIAN
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 07:47:10 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:47:12 --------------------------
+Forgotten Chest
+From: RED GUARDIAN
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:47:14 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:47:15 --------------------------
+Merchant's Chest
+From: MADMAN
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:47:17 --------------------------
+Stone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:47:19 --------------------------
+Infernal Chest
+From: D23
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:47:20 --------------------------
+Braided Chest
+From: Sire Menion
+Source: Level 20 epic Crypt
+--------------- 2023-05-31 07:47:22 --------------------------
+Fire Chest
+From: D23
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:47:24 --------------------------
+Elven Citadel Chest
+From: RED GUARDIAN
+Source: Level 15 Citadel
+--------------- 2023-05-31 07:47:26 --------------------------
+Braided Chest
+From: Sire Menion
+Source: Level 25 epic Crypt
+--------------- 2023-05-31 07:47:27 --------------------------
+Gnome Workshop Chest
+From: RED GUARDIAN
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:47:29 --------------------------
+Cursed Chest
+From: Germanicus
+Source: Level 28 heroic Monster
+--------------- 2023-05-31 07:47:31 --------------------------
+Barbarian Chest
+From: RED GUARDIAN
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:47:33 --------------------------
+Cobra Chest
+From: D23
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:47:34 --------------------------
+Elegant Chest
+From: D23
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:47:36 --------------------------
+Stone Chest
+From: D23
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:47:38 --------------------------
+Stone Chest
+From: D23
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:47:39 --------------------------
+Sand Chest
+From: D23
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:47:41 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 15 Citadel
+--------------- 2023-05-31 07:47:43 --------------------------
+Sand Chest
+From: StarSailor
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:47:44 --------------------------
+Bone Chest
+From: StarSailor
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:47:46 --------------------------
+Trillium Chest
+From: StarSailor
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 07:47:48 --------------------------
+Common Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-05-31 07:47:49 --------------------------
+Uncommon Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-05-31 07:47:51 --------------------------
+Rare Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-05-31 07:47:53 --------------------------
+Epic Chest of Wealth
+From: Rhodry
+Source: Clan wealth
+--------------- 2023-05-31 07:47:55 --------------------------
+Elven Chest
+From: StarSailor
+Source: Level 17 heroic Monster
+--------------- 2023-05-31 07:47:56 --------------------------
+Barbarian Chest
+From: StarSailor
+Source: Level 20 epic Crypt
+--------------- 2023-05-31 07:47:58 --------------------------
+Braided Chest
+From: StarSailor
+Source: Level 20 epic Crypt
+--------------- 2023-05-31 07:48:00 --------------------------
+Forgotten Chest
+From: StarSailor
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:48:01 --------------------------
+Elegant Chest
+From: StarSailor
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:48:03 --------------------------
+Forgotten Chest
+From: StarSailor
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:05 --------------------------
+Bone Chest
+From: StarSailor
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:06 --------------------------
+Cobra Chest
+From: StarSailor
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:08 --------------------------
+Stone Chest
+From: StarSailor
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:10 --------------------------
+Mayan Chest
+From: StarSailor
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:48:12 --------------------------
+Bone Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:48:13 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:15 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:17 --------------------------
+Union Chest
+From: Nilaath
+Source: Union of Triumph personal reward
+--------------- 2023-05-31 07:48:18 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:48:20 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:48:22 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:48:23 --------------------------
+Elven Citadel Chest
+From: MILI
+Source: Level 10 Citadel
+--------------- 2023-05-31 07:48:25 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:27 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:29 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:30 --------------------------
+Sand Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:48:32 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:34 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:35 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:37 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:48:39 --------------------------
+Merchant's Chest
+From: DarkAngel
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:48:40 --------------------------
+Infernal Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:42 --------------------------
+Rare Dragon Chest
+From: MILI
+Source: Level 10 rare Crypt
+--------------- 2023-05-31 07:48:44 --------------------------
+Rare Dragon Chest
+From: MILI
+Source: Level 10 rare Crypt
+--------------- 2023-05-31 07:48:46 --------------------------
+Infernal Chest
+From: DarkAngel
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:48:47 --------------------------
+Gnome Workshop Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:48:49 --------------------------
+Infernal Chest
+From: Digore
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:48:51 --------------------------
+Barbarian Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:52 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:54 --------------------------
+Bone Chest
+From: Digore
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:48:56 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:48:57 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:48:59 --------------------------
+Infernal Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:49:01 --------------------------
+Stone Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:49:03 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:49:04 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:49:06 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:49:08 --------------------------
+Forgotten Chest
+From: Marvilla
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:49:10 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:49:12 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 10 rare Crypt
+--------------- 2023-05-31 07:49:13 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2023-05-31 07:49:15 --------------------------
+Mayan Chest
+From: Marvilla
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:49:17 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2023-05-31 07:49:18 --------------------------
+Forgotten Chest
+From: Marvilla
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:49:20 --------------------------
+Mayan Chest
+From: Bjorn
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:49:22 --------------------------
+Mayan Chest
+From: Braveheart
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:49:23 --------------------------
+Merchant's Chest
+From: DAJMITU
+Source: Mercenary Exchange
+--------------- 2023-05-31 07:49:25 --------------------------
+Stone Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:27 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:49:28 --------------------------
+Stone Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:49:30 --------------------------
+Rare Dragon Chest
+From: Morg
+Source: Level 25 rare Crypt
+--------------- 2023-05-31 07:49:32 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:49:34 --------------------------
+Rare Dragon Chest
+From: Morg
+Source: Level 25 rare Crypt
+--------------- 2023-05-31 07:49:35 --------------------------
+Elegant Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:37 --------------------------
+Infernal Chest
+From: Marvilla
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:49:39 --------------------------
+Fire Chest
+From: Braveheart
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:49:40 --------------------------
+Forgotten Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:42 --------------------------
+Barbarian Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:49:44 --------------------------
+Barbarian Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:45 --------------------------
+Barbarian Chest
+From: Marvilla
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:49:47 --------------------------
+Fire Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:49 --------------------------
+Fire Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:51 --------------------------
+Fire Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:52 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:54 --------------------------
+Forgotten Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:56 --------------------------
+Elegant Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:49:57 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:49:59 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:01 --------------------------
+Elegant Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:02 --------------------------
+Infernal Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:04 --------------------------
+Infernal Chest
+From: Braveheart
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:50:06 --------------------------
+Forgotten Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:08 --------------------------
+Barbarian Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:09 --------------------------
+Bone Chest
+From: Marvilla
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:50:11 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-05-31 07:50:13 --------------------------
+Elegant Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:14 --------------------------
+Cobra Chest
+From: Well Constantino
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:50:16 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-05-31 07:50:18 --------------------------
+Infernal Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:19 --------------------------
+Sand Chest
+From: Marvilla
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:50:21 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:23 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2023-05-31 07:50:24 --------------------------
+Forgotten Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:26 --------------------------
+Forgotten Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:28 --------------------------
+Forgotten Chest
+From: Rhodry
+Source: Level 25 Crypt
+--------------- 2023-05-31 07:50:29 --------------------------
+Stone Chest
+From: Marvilla
+Source: Level 5 Crypt
+--------------- 2023-05-31 07:50:31 --------------------------
+Barbarian Chest
+From: Kerilir
+Source: Level 15 epic Crypt
+--------------- 2023-05-31 07:50:33 --------------------------
+Forgotten Chest
+From: Rhodry
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:50:35 --------------------------
+Forgotten Chest
+From: Rhodry
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:50:36 --------------------------
+Cobra Chest
+From: Granidred
+Source: Level 15 Crypt
+--------------- 2023-05-31 07:50:38 --------------------------
+Forgotten Chest
+From: Rhodry
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:50:40 --------------------------
+Bone Chest
+From: Thorn
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:50:41 --------------------------
+Bone Chest
+From: Thorn
+Source: Level 20 Crypt
+--------------- 2023-05-31 07:50:43 --------------------------
+Cobra Chest
+From: Granidred
+Source: Level 10 Crypt
+--------------- 2023-05-31 07:50:45 --------------------------
+Forgotten Chest
+From: Braveheart
+Source: Level 10 Crypt

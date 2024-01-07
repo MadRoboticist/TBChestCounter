@@ -1,0 +1,84 @@
+--------------- 2023-12-10 15:41:36 --------------------------
+| Hermit
+--------------- The above segment might not be present in the archive file due to processing errors
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-10 15:41:45 --------------------------
+Wooden Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:47 --------------------------
+Wooden Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:49 --------------------------
+Wooden Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:50 --------------------------
+Wooden Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:52 --------------------------
+Wooden Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:54 --------------------------
+Wooden Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:56 --------------------------
+Bronze Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:58 --------------------------
+Bronze Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:41:59 --------------------------
+Bronze Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:01 --------------------------
+Bronze Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:03 --------------------------
+Bronze Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:05 --------------------------
+Bronze Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:07 --------------------------
+Silver Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:08 --------------------------
+Silver Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:10 --------------------------
+Silver Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:12 --------------------------
+Silver Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:14 --------------------------
+Silver Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:15 --------------------------
+Silver Chest
+From: Heretical Hermit
+Source; Bank
+--------------- 2023-12-10 15:42:18 --------------------------
+Silver Chest
+From: Heretical Hermit
+Source: Bank
+--------------- 2023-12-10 15:42:20 --------------------------
+Bone Chest
+From: Foxhunter
+Source: Level 15 Crypt

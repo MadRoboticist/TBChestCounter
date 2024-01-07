@@ -1,0 +1,300 @@
+Infernal Chest
+From : Nobody special
+Source : Level 5 Crypt
+Cobra Chest
+From : Fire Armor
+Source : Level 20 Crypt
+Mayan Chest
+From : Nobody special
+Source : Level 5 Crypt
+Barbarian Chest
+From : Fire Armor
+Source : Level 20 Crypt
+Mayan Chest
+From : Nobody special
+Source : Level 15 Crypt
+Sand Chest
+From : Nobody special
+Source : Level 5 Crypt
+Orc Chest
+From : Nobody special
+Source : Level 15 Crypt
+Sand Chest
+From : Nobody special
+Source : Level 15 Crypt
+Gnome Workshop Chest
+From : Nobody special
+Source : Level 15 Crypt
+Bone Chest
+From : Nobody special
+Source : Level 15 Crypt
+Barbarian Chest
+From : Nobody special
+Source : Level 15 Crypt
+Fire Chest
+From : Nobody special
+Source : Level 15 Crypt
+Barbarian Chest
+From : Nobody special
+Source : Level 15 Crypt
+Bone Chest
+From : Nobody special
+Source : Level 15 Crypt
+Braided Chest
+From : Vlad the Impaler
+Source : Level 20 epic Crypt
+Forgotten Chest
+From : Nobody special
+Source : Level 15 Crypt
+Orc Chest
+From : Nobody special
+Source : Level 10 Crypt
+Orc Chest
+From : Kirimand
+Source : Level 15 Crypt
+Braided Chest
+From : Fosida
+Source : Level 20 epic Crypt
+White Wood Chest
+From : Fosida
+Source : Level 20 epic Crypt
+Sand Chest
+From : Kirimand
+Source : Level 15 Crypt
+Gnome Workshop Chest
+From : DarkAngel
+Source : Level 20 Crypt
+Stone Chest
+From : Bad FutherMucker
+Source : Level 15 Crypt
+Forgotten Chest
+From : Tha Supreme
+Source : Level 20 Crypt
+Titansteel Chest
+From : Tha Supreme
+Source : Level 15 epic Crypt
+Titansteel Chest
+From : Tha Supreme
+Source : Level 20 epic Crypt
+Cobra Chest
+From : Kirimand
+Source : Level 15 Crypt
+Rare Dragon Chest
+From : Pearl
+Source : Level 20 rare Crypt
+Elegant Chest
+From : Bamsi
+Source : Level 10 Crypt
+Stone Chest
+From : Kirimand
+Source : Level 15 Crypt
+Sand Chest
+From : Kirimand
+Source : Level 15 Crypt
+Cursed Citadel Chest
+From : Racibor
+Source : Level 25 Citadel
+Elegant Chest
+From : Racibor
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Racibor
+Source : Level 20 Citadel
+Stone Chest
+From : Racibor
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Racibor
+Source : Level 25 Citadel
+Scarab Chest
+From : MONTES
+Source : Level 20 epic Crypt
+Cursed Citadel Chest
+From : Racibor
+Source : Level 25 Citadel
+Bone Chest
+From : Muradin Bronzebeard
+Source : Level 15 Crypt
+Elegant Chest
+From : Kirimand
+Source : Level 15 Crypt
+Infernal Chest
+From : Bamsi
+Source : Level 15 Crypt
+Forgotten Chest
+From : Well Constantino
+Source : Level 20 Crypt
+Bone Chest
+From : Mabrinad
+Source : Level 20 Crypt
+Cobra Chest
+From : Well Constantino
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Racibor
+Source : Level 20 Citadel
+Barbarian Chest
+From : Mabrinad
+Source : Level 20 Crypt
+Forgotten Chest
+From : Well Constantino
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Racibor
+Source : Level 25 Citadel
+Stone Chest
+From : Feli
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Feli
+Source : Level 10 Citadel
+Ancient Warrior's Chest
+From : MONTES
+Source : Level 25 epic Crypt
+Elven Citadel Chest
+From : Feli
+Source : Level 15 Citadel
+Elven Citadel Chest
+From : Feli
+Source : Level 10 Citadel
+Sand Chest
+From : MONTES
+Source : Level 5 Crypt
+Fire Chest
+From : MONTES
+Source : Level 5 Crypt
+Forgotten Chest
+From : MONTES
+Source : Level 5 Crypt
+Orc Chest
+From : MONTES
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : Feli
+Source : Level 20 Citadel
+Rare Dragon Chest
+From : Bamsi
+Source : Level 20 rare Crypt
+Elegant Chest
+From : Bamsi
+Source : Level 15 Crypt
+Bone Chest
+From : Alberikh
+Source : Level 25 Crypt
+Mayan Chest
+From : Vlad the Impaler
+Source : Level 15 Crypt
+Sand Chest
+From : Bamsi
+Source : Level 15 Crypt
+Bone Chest
+From : Vlad the Impaler
+Source : Level 10 Crypt
+Elegant Chest
+From : Vlad the Impaler
+Source : Level 20 Crypt
+Scorpion Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Gnome Workshop Chest
+From : Karodor
+Source : Level 15 Crypt
+Minotaur Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Trillium Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Ancient Bastion Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Cobra Chest
+From : Kirimand
+Source : Level 15 Crypt
+Ancient Bastion Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Elegant Chest
+From : Karodor
+Source : Level 20 Crypt
+Ancient Warrior's Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Fire Chest
+From : MADMAN
+Source : Level 10 Crypt
+Cobalt Chest
+From : Karodor
+Source : Level 15 epic Crypt
+Stone Chest
+From : DarkAngel
+Source : Level 20 Crypt
+Chest of the Cursed
+From : Karodor
+Source : Level 15 epic Crypt
+Fire Chest
+From : Karodor
+Source : Level 15 Crypt
+Fire Chest
+From : Karodor
+Source : Level 15 Crypt
+Sand Chest
+From : Kirimand
+Source : Level 15 Crypt
+Forgotten Chest
+From : DarkAngel
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : Rudolf
+Source : Level 20 Citadel
+Orc Chest
+From : MADMAN
+Source : Level 10 Crypt
+Mayan Chest
+From : Kirimand
+Source : Level 15 Crypt
+Mayan Chest
+From : MADMAN
+Source : Level 10 Crypt
+Forgotten Chest
+From : Kall
+Source : Level 15 Crypt
+Rare Dragon Chest
+From : Foxhunter
+Source : Level 10 rare Crypt
+Forgotten Chest
+From : Kall
+Source : Level 10 Crypt
+Bone Chest
+From : Kall
+Source : Level 10 Crypt
+Scarab Chest
+From : Heretical Hermit
+Source : Level 35 epic Crypt
+Barbarian Chest
+From : Kall
+Source : Level 15 Crypt
+Minotaur Chest
+From : Heretical Hermit
+Source : Level 35 epic Crypt
+Stone Chest
+From : Braveheart
+Source : Level 10 Crypt
+Bone Chest
+From : Braveheart
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Stone Chest
+From : Heretical Hermit
+Source : Level 25 Crypt
+Elven Citadel Chest
+From : Rhodry
+Source : Level 30 Citadel
+Stone Chest
+From : Braveheart
+Source : Level 10 Crypt
+Mayan Chest
+From : Heretical Hermit
+Source : Level 25 Crypt

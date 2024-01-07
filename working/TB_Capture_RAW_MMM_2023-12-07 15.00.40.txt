@@ -1,0 +1,52 @@
+--------------- 2023-12-07 15:00:42 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2023-12-07 15:00:43 --------------------------
+Orc Chest
+From: Foolish Mortal
+Source: Level 10 Crypt
+--------------- 2023-12-07 15:00:45 --------------------------
+Scarab Chest
+From: Immortal
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 15:00:47 --------------------------
+Bone Chest
+From: Foolish Mortal
+Source: Level 20 Crypt
+--------------- 2023-12-07 15:00:48 --------------------------
+Infernal Chest
+From: Foolish Mortal
+Source: Level 15 Crypt
+--------------- 2023-12-07 15:00:50 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-07 15:00:52 --------------------------
+Infernal Chest
+From: Foolish Mortal
+Source: Level 20 Crypt
+--------------- 2023-12-07 15:00:54 --------------------------
+Braided Chest
+From: Immortal
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 15:00:55 --------------------------
+Forgotten Chest
+From: Foolish Mortal
+Source: Level 10 Crypt
+--------------- 2023-12-07 15:00:57 --------------------------
+Ancient Warrior's Chest
+From: Immortal
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 15:00:59 --------------------------
+White Wood Chest
+From: Immortal
+Source: Level 15 epic Crypt
+--------------- 2023-12-07 15:01:01 --------------------------
+Infernal Chest
+From: Foolish Mortal
+Source: Level 15 Crypt
+--------------- 2023-12-07 15:01:02 --------------------------
+Gnome Workshop Chest
+From: Foolish Mortal
+Source: Level 20 Crypt

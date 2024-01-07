@@ -1,0 +1,105 @@
+--------------- 2023-11-13 14:47:19 --------------------------
+Elegant Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-11-13 14:47:21 --------------------------
+Forgotten Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-11-13 14:47:22 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-11-13 14:47:24 --------------------------
+Bone Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2023-11-13 14:47:26 --------------------------
+Infernal Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-11-13 14:47:27 --------------------------
+Cursed Citadel Chest
+From: Feli
+Source: Level 20 Citadel
+--------------- 2023-11-13 14:47:29 --------------------------
+Stone Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-13 14:47:31 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-13 14:47:32 --------------------------
+Barbarian Chest
+From: Brandemet
+Source: Level 5 Crypt
+--------------- 2023-11-13 14:47:34 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-13 14:47:36 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-13 14:47:38 --------------------------
+Sand Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2023-11-13 14:47:39 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-11-13 14:47:41 --------------------------
+Orc Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-11-13 14:47:43 --------------------------
+Stone Chest
+From: Foxhunter
+Source: Level 5 Crypt
+--------------- 2023-11-13 14:47:44 --------------------------
+Bone Chest
+From: Foxhunter
+Source: Level 15 Crypt
+--------------- 2023-11-13 14:47:46 --------------------------
+Sand Chest
+From: Foxhunter
+Source: Level 5 Crypt
+--------------- 2023-11-13 14:47:48 --------------------------
+Barbarian Chest
+From: Foxhunter
+Source: Level 5 Crypt
+--------------- 2023-11-13 14:47:49 --------------------------
+Fire Chest
+From: Foxhunter
+Source: Level 10 Crypt
+--------------- 2023-11-13 14:47:51 --------------------------
+Orc Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-13 14:47:53 --------------------------
+Elven Citadel Chest
+From: Foxhunter
+Source: Level 25 Citadel
+--------------- 2023-11-13 14:47:55 --------------------------
+Bone Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-13 14:47:56 --------------------------
+Forgotten Chest
+From: Sir James III Son of Hadur
+Source: Level 20 Crypt
+--------------- 2023-11-13 14:47:58 --------------------------
+Forgotten Chest
+From: Karodor
+Source: Level 15 Crypt
+--------------- 2023-11-13 14:48:00 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-11-13 14:48:55 --------------------------
+Orc Chest
+From: Foxhunter
+Source: Level 5 Crypt

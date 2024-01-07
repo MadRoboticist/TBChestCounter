@@ -1,0 +1,677 @@
+--------------- 2023-12-29 09:02:55 --------------------------
+Elven Citadel Chest
+From: Vlad the Impaler
+Source: Level 10 Citadel
+--------------- 2023-12-29 09:02:57 --------------------------
+Sand Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 09:02:59 --------------------------
+Gnome Workshop Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 09:03:00 --------------------------
+Cobra Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-29 09:03:02 --------------------------
+Bone Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-29 09:03:04 --------------------------
+Stone Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2023-12-29 09:03:06 --------------------------
+Ancient Bastion Chest
+From: Mal
+Source: Level 30 epic Crypt
+--------------- 2023-12-29 09:03:07 --------------------------
+Barbarian Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 09:03:09 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-29 09:03:11 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:03:12 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-29 09:03:14 --------------------------
+Forgotten Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 09:03:16 --------------------------
+Gnome Workshop Chest
+From: Mal
+Source: Level 15 Crypt
+--------------- 2023-12-29 09:03:17 --------------------------
+Gnome Workshop Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-29 09:03:19 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:03:21 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:03:23 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:03:24 --------------------------
+Priest's Chest
+From: Mal
+Source: Level 15 epic Crypt
+--------------- 2023-12-29 09:03:26 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:03:28 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:03:29 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:31 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:33 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:34 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:03:36 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:03:38 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:03:39 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:03:41 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:43 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:03:45 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:03:46 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:48 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:50 --------------------------
+Chest of Authority
+From: DAJMITU
+Source: Authority Rush tournament
+--------------- 2023-12-29 09:03:51 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:03:53 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:55 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:03:57 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:03:58 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:00 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:04:02 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:04:03 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:04:05 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:07 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2023-12-29 09:04:08 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:04:10 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:12 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:04:14 --------------------------
+Chest of Authority
+From: Thoth
+Source: Authority Rush tournament
+--------------- 2023-12-29 09:04:15 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:04:17 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:19 --------------------------
+Mayan Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-29 09:04:20 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:22 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:04:24 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:04:26 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:04:27 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:29 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 15 Citadel
+--------------- 2023-12-29 09:04:31 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:04:33 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:34 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:36 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:04:38 --------------------------
+Sand Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:04:39 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:41 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:04:43 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:45 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:04:46 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:48 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:04:50 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 25 Crypt
+--------------- 2023-12-29 09:04:52 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:04:53 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:55 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:04:57 --------------------------
+Elven Citadel Chest
+From: Amginir
+Source: Level 15 Citadel
+--------------- 2023-12-29 09:04:58 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:05:00 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:02 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:04 --------------------------
+Infernal Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-29 09:05:05 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:07 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:09 --------------------------
+Barbarian Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-29 09:05:10 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:05:12 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:05:14 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:05:16 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:05:18 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:20 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:22 --------------------------
+Gnome Workshop Chest
+From: Mal
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:05:24 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:05:25 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:05:27 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:29 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:31 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:05:33 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:35 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:37 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 15 Citadel
+--------------- 2023-12-29 09:05:38 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:05:41 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:42 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:05:44 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:46 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:05:48 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:05:50 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:05:51 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:53 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:05:55 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:57 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:05:58 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:00 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:06:02 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:06:03 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 25 Crypt
+--------------- 2023-12-29 09:06:05 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:06:07 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:09 --------------------------
+Infernal Chest
+From: Mal
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:06:10 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:12 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:14 --------------------------
+Mayan Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:06:15 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:17 --------------------------
+Cobra Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:06:19 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:20 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 10 rare Crypt
+--------------- 2023-12-29 09:06:22 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:06:24 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:06:25 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:06:27 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:06:29 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:06:31 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:32 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:06:34 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:06:36 --------------------------
+Fire Chest
+From: Mal
+Source: Level 20 Crypt
+--------------- 2023-12-29 09:06:37 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:06:39 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:41 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:42 --------------------------
+Chest of Authority
+From: DAJMITU
+Source: Authority Rush tournament
+--------------- 2023-12-29 09:06:44 --------------------------
+Orc Chest
+From: Legolas
+Source: Level 25 Crypt
+--------------- 2023-12-29 09:06:46 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:06:47 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:49 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:06:51 --------------------------
+Stone Chest
+From: Mal
+Source: Level 10 Crypt
+--------------- 2023-12-29 09:06:52 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:06:54 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:06:56 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 25 rare Crypt
+--------------- 2023-12-29 09:06:57 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:06:59 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:07:01 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:07:02 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:04 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:06 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:07 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:09 --------------------------
+Elven Citadel Chest
+From: Berohef
+Source: Level 15 Citadel
+--------------- 2023-12-29 09:07:11 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:12 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:14 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:16 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:17 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:07:19 --------------------------
+Snowman chest
+From: Maveriel
+Source: Snowman
+--------------- 2023-12-29 09:07:21 --------------------------
+Rare Dragon Chest
+From: Granidred
+Source: Level 15 rare Crypt
+--------------- 2023-12-29 09:07:22 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:24 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:26 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:27 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:07:29 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:31 --------------------------
+Trillium Chest
+From: Snowberry
+Source: Level 25 epic Crypt
+--------------- 2023-12-29 09:07:32 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:34 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:36 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:07:37 --------------------------
+Abandoned Chest
+From: Snowberry
+Source: Level 25 epic Crypt
+--------------- 2023-12-29 09:07:39 --------------------------
+Cursed Citadel Chest
+From: Rhodry
+Source: Level 25 Citadel
+--------------- 2023-12-29 09:07:41 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 20 rare Crypt
+--------------- 2023-12-29 09:07:42 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-29 09:07:44 --------------------------
+Minotaur Chest
+From: Snowberry
+Source: Level 25 epic Crypt
+--------------- 2023-12-29 09:07:46 --------------------------

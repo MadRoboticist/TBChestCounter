@@ -1,0 +1,85 @@
+--------------- 2023-12-11 15:57:08 --------------------------
+Orc Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:09 --------------------------
+Elegant Chest
+From: Gradog
+Source: Level 20 Crypt
+--------------- 2023-12-11 15:57:11 --------------------------
+Mayan Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:13 --------------------------
+Forgotten Chest
+From: Gradog
+Source: Level 20 Crypt
+--------------- 2023-12-11 15:57:14 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-11 15:57:16 --------------------------
+Fire Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:18 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:19 --------------------------
+Orc Chest
+From: Gradog
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:21 --------------------------
+Fire Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:23 --------------------------
+Cobra Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:24 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-11 15:57:26 --------------------------
+Bone Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:28 --------------------------
+Cobra Chest
+From: Mal
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:30 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-11 15:57:31 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-11 15:57:33 --------------------------
+Rare Dragon Chest
+From: Mal
+Source: Level 30 rare Crypt
+--------------- 2023-12-11 15:57:35 --------------------------
+Mayan Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-12-11 15:57:36 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-11 16:01:03 --------------------------
+Sand Chest
+From: Tumitac
+Source: Level 25 Crypt
+--------------- 2023-12-11 16:01:05 --------------------------
+Sand Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2023-12-11 16:01:07 --------------------------
+Orc Chest
+From: Tumitac
+Source: Level 25 Crypt

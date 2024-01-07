@@ -1,0 +1,216 @@
+--------------- 2023-06-21 01:21:13 --------------------------
+Common Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-06-21 01:21:15 --------------------------
+Uncommon Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-06-21 01:21:16 --------------------------
+Rare Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-06-21 01:21:18 --------------------------
+Epic Chest of Wealth
+From: Heretical Hermit
+Source: Clan wealth
+--------------- 2023-06-21 01:21:20 --------------------------
+Gladiator's Chest
+From: MILI
+Source: Arena
+--------------- 2023-06-21 01:21:22 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:23 --------------------------
+Fire Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-06-21 01:21:25 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:26 --------------------------
+Elven Citadel Chest
+From: Rainblade
+Source: Level 15 Citadel
+--------------- 2023-06-21 01:21:28 --------------------------
+Abandoned Chest
+From: MILI
+Source: Level 15 epic Crypt
+--------------- 2023-06-21 01:21:30 --------------------------
+Harpy Chest
+From: Thoth
+Source: Level 20 epic Crypt
+--------------- 2023-06-21 01:21:32 --------------------------
+Ancient Bastion Chest
+From: Thoth
+Source: Level 20 epic Crypt
+--------------- 2023-06-21 01:21:33 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:35 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-06-21 01:21:37 --------------------------
+Sand Chest
+From: Grosvenor
+Source: Level 25 Crypt
+--------------- 2023-06-21 01:21:38 --------------------------
+Gladiator's Chest
+From: Thoth
+Source: Arena
+--------------- 2023-06-21 01:21:40 --------------------------
+Sand Chest
+From: Grosvenor
+Source: Level 25 Crypt
+--------------- 2023-06-21 01:21:41 --------------------------
+Elven Citadel Chest
+From: Nilaath
+Source: Level 20 Citadel
+--------------- 2023-06-21 01:21:43 --------------------------
+Gnome Workshop Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:45 --------------------------
+Orc Chest
+From: Rebellion
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:47 --------------------------
+Orc Chest
+From: Rebellion
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:48 --------------------------
+Orc Chest
+From: Rebellion
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:50 --------------------------
+Infernal Chest
+From: Pearl
+Source: Level 15 Crypt
+--------------- 2023-06-21 01:21:52 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:53 --------------------------
+Mayan Chest
+From: Pearl
+Source: Level 15 Crypt
+--------------- 2023-06-21 01:21:55 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:21:57 --------------------------
+Rare Dragon Chest
+From: Pearl
+Source: Level 20 rare Crypt
+--------------- 2023-06-21 01:21:58 --------------------------
+Summer gift
+From: Pearl
+Source: Summerfest tournament
+--------------- 2023-06-21 01:22:00 --------------------------
+Summer gift
+From: Pearl
+Source: Summerfest tournament
+--------------- 2023-06-21 01:22:02 --------------------------
+Stone Chest
+From: Pearl
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:03 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:05 --------------------------
+Trillium Chest
+From: Pearl
+Source: Level 20 epic Crypt
+--------------- 2023-06-21 01:22:07 --------------------------
+Rare Dragon Chest
+From: Pearl
+Source: Level 20 rare Crypt
+--------------- 2023-06-21 01:22:09 --------------------------
+Master's summer gift
+From: Pearl
+Source: Summerfest tournament
+--------------- 2023-06-21 01:22:10 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:12 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 10 Citadel
+--------------- 2023-06-21 01:22:14 --------------------------
+Cobra Chest
+From: Pearl
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:15 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 10 Citadel
+--------------- 2023-06-21 01:22:17 --------------------------
+Master's summer gift
+From: Mabrinad
+Source: Summerfest tournament
+--------------- 2023-06-21 01:22:19 --------------------------
+Bone Chest
+From: Accelerator
+Source: Level 5 Crypt
+--------------- 2023-06-21 01:22:20 --------------------------
+Barbarian Chest
+From: Feli
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:22 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:24 --------------------------
+Summer gift
+From: Mabrinad
+Source: Summerfest tournament
+--------------- 2023-06-21 01:22:25 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:27 --------------------------
+Infernal Chest
+From: Feli
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:29 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:30 --------------------------
+Master's summer gift
+From: Thorn
+Source: Summerfest tournament
+--------------- 2023-06-21 01:22:32 --------------------------
+Master's summer gift
+From: Thorn
+Source: Summerfest tournament
+--------------- 2023-06-21 01:22:34 --------------------------
+Forgotten Chest
+From: Maedrosin
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:35 --------------------------
+Orc Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:37 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:39 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:41 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2023-06-21 01:22:42 --------------------------
+Cobra Chest
+From: Mighty Forger
+Source: Level 25 Crypt

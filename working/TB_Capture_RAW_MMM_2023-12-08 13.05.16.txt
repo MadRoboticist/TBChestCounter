@@ -1,0 +1,105 @@
+--------------- 2023-12-08 13:05:21 --------------------------
+Elven Citadel Chest
+From: Uhtred
+Source: Level 20 Citadel
+--------------- 2023-12-08 13:05:24 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-08 13:05:26 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-08 13:05:28 --------------------------
+Infernal Chest
+From: Golgotha
+Source: Level 25 Crypt
+--------------- 2023-12-08 13:05:30 --------------------------
+Barbarian Chest
+From: Felharne
+Source: Level 10 Crypt
+--------------- 2023-12-08 13:05:32 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-08 13:05:34 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-08 13:05:36 --------------------------
+Stone Chest
+From: Golgotha
+Source: Level 20 Crypt
+--------------- 2023-12-08 13:05:38 --------------------------
+Stone Chest
+From: Golgotha
+Source: Level 20 Crypt
+--------------- 2023-12-08 13:05:41 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-12-08 13:05:43 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-08 13:05:45 --------------------------
+Cursed Citadel Chest
+From: Uhtred
+Source: Level 25 Citadel
+--------------- 2023-12-08 13:05:47 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-08 13:05:49 --------------------------
+Sand Chest
+From: Felharne
+Source: Level 10 Crypt
+--------------- 2023-12-08 13:05:51 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-08 13:05:53 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2023-12-08 13:05:56 --------------------------
+Forgotten Chest
+From: Legolas
+Source: Level 5 Crypt
+--------------- 2023-12-08 13:05:58 --------------------------
+Cobra Chest
+From: MADMAN
+Source: Level 20 Crypt
+--------------- 2023-12-08 13:06:00 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 15 Citadel
+--------------- 2023-12-08 13:06:03 --------------------------
+Sapphire Chest
+From: Karodor
+Source: Level 30-34 Vault of the Ancients
+--------------- 2023-12-08 13:06:05 --------------------------
+Fire Chest
+From: Legolas
+Source: Level 10 Crypt
+--------------- 2023-12-08 13:06:07 --------------------------
+Bone Chest
+From: Legolas
+Source: Level 20 Crypt
+--------------- 2023-12-08 13:06:09 --------------------------
+Mayan Chest
+From: DarkAngel
+Source: Level 15 Crypt
+--------------- 2023-12-08 13:06:11 --------------------------
+Sand Chest
+From: Legolas
+Source: Level 20 Crypt
+--------------- 2023-12-08 13:06:13 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-08 13:06:50 --------------------------
+House of Horrors Chest
+From: Legolas
+Source: Level 20 epic Crypt

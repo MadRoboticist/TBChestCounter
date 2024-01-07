@@ -1,0 +1,465 @@
+--------------- 2023-12-10 17:57:11 --------------------------
+| Chest
+1
+Citadel
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-10 17:57:42 --------------------------
+Cursed Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-12-10 17:57:44 --------------------------
+Sand Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:57:46 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:57:48 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:57:49 --------------------------
+Elven Citadel Chest
+From: Mabrinad
+Source: Level 15 Citadel
+--------------- 2023-12-10 17:57:51 --------------------------
+Elven Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-12-10 17:57:53 --------------------------
+Elegant Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:57:54 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+--------------- 2023-12-10 17:57:56 --------------------------
+Bone Chest
+From: Mabrinad
+Source: Level 25 Crypt
+--------------- 2023-12-10 17:57:58 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:58:00 --------------------------
+Elven Citadel Chest
+From: Mabrinad
+Source: Level 15 Citadel
+--------------- 2023-12-10 17:58:01 --------------------------
+Forgotten Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:03 --------------------------
+Infernal Chest
+From: Maveriel
+Source: Level 10 Crypt
+--------------- 2023-12-10 17:58:04 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:58:06 --------------------------
+Elven Citadel Chest
+From: Mabrinad
+Source: Level 20 Citadel
+--------------- 2023-12-10 17:58:08 --------------------------
+Elegant Chest
+From: Maveriel
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:58:10 --------------------------
+Stone Chest
+From: Maveriel
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:11 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:58:13 --------------------------
+Forgotten Chest
+From: Maveriel
+Source: Level 10 Crypt
+--------------- 2023-12-10 17:58:15 --------------------------
+Elven Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:58:16 --------------------------
+Fire Chest
+From: Maveriel
+Source: Level 10 Crypt
+--------------- 2023-12-10 17:58:18 --------------------------
+Elegant Chest
+From: Painmoon
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:20 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-10 17:58:21 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:58:23 --------------------------
+Winter gift
+From: Maveriel
+Source: Winterfest tournament
+--------------- 2023-12-10 17:58:25 --------------------------
+Bone Chest
+From: Painmoon
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:58:26 --------------------------
+Union Chest
+From: Mabrinad
+Source: Union of Triumph personal reward
+--------------- 2023-12-10 17:58:28 --------------------------
+Union Chest
+From: Mabrinad
+Source: Union of Triumph personal reward
+--------------- 2023-12-10 17:58:30 --------------------------
+Union Chest
+From: Mabrinad
+Source: Union of Triumph personal reward
+--------------- 2023-12-10 17:58:31 --------------------------
+Union Chest
+From: Mabrinad
+Source: Union of Triumph personal reward
+--------------- 2023-12-10 17:58:33 --------------------------
+Union Chest
+From: Mabrinad
+Source: Union of Triumph personal reward
+--------------- 2023-12-10 17:58:35 --------------------------
+Union Chest
+From: Mabrinad
+Source: Union of Triumph personal reward
+--------------- 2023-12-10 17:58:36 --------------------------
+Forgotten Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:58:38 --------------------------
+Barbarian Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:40 --------------------------
+Barbarian Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:41 --------------------------
+Forgotten Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:43 --------------------------
+Orc Chest
+From: Painmoon
+Source: Level 25 Crypt
+--------------- 2023-12-10 17:58:45 --------------------------
+Winter gift
+From: NEVIO
+Source: Winterfest tournament
+--------------- 2023-12-10 17:58:46 --------------------------
+Bone Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:48 --------------------------
+Cobra Chest
+From: Uhtred
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:58:50 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:58:51 --------------------------
+Stone Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:58:53 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:58:55 --------------------------
+Bone Chest
+From; Rudepravo Italiano
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:58:56 --------------------------
+Forgotten Chest
+From; Rudepravo Italiano
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:58:58 --------------------------
+Elven Citadel Chest
+From: Maveriel
+Source: Level 10 Citadel
+--------------- 2023-12-10 17:59:00 --------------------------
+Cobra Chest
+From; Rudepravo Italiano
+Source: Level 10 Crypt
+--------------- 2023-12-10 17:59:02 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:59:03 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:59:05 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:07 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:08 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:59:10 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:12 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:59:13 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:15 --------------------------
+Orc Chest
+From: Raya
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:17 --------------------------
+Elven Citadel Chest
+From: Lady G
+Source: Level 10 Citadel
+--------------- 2023-12-10 17:59:18 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:20 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2023-12-10 17:59:22 --------------------------
+Rare Dragon Chest
+From: Berohef
+Source: Level 10 rare Crypt
+--------------- 2023-12-10 17:59:23 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:25 --------------------------
+Winter gift
+From: Karodor
+Source: Winterfest tournament
+--------------- 2023-12-10 17:59:27 --------------------------
+Forgotten Chest
+From: Raya
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:59:28 --------------------------
+Cursed Citadel Chest
+From: Karodor
+Source: Level 25 Citadel
+--------------- 2023-12-10 17:59:30 --------------------------
+Rare Dragon Chest
+From: Nilaath
+Source: Level 20 rare Crypt
+--------------- 2023-12-10 17:59:32 --------------------------
+Trillium Chest
+From: Nilaath
+Source: Level 20 epic Crypt
+--------------- 2023-12-10 17:59:33 --------------------------
+Stone Chest
+From: Lady G
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:59:35 --------------------------
+Fire Chest
+From: Nilaath
+Source: Level 25 Crypt
+--------------- 2023-12-10 17:59:37 --------------------------
+Rare Dragon Chest
+From: Karodor
+Source: Level 25 rare Crypt
+--------------- 2023-12-10 17:59:38 --------------------------
+Rare Dragon Chest
+From: Karodor
+Source: Level 25 rare Crypt
+--------------- 2023-12-10 17:59:40 --------------------------
+House of Horrors Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 17:59:42 --------------------------
+Infernal Chest
+From: Nilaath
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:43 --------------------------
+Orc Chest
+From: Raya
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:45 --------------------------
+Orc Chest
+From: Karodor
+Source: Level 25 Crypt
+--------------- 2023-12-10 17:59:47 --------------------------
+Orc Chest
+From: Nilaath
+Source: Level 15 Crypt
+--------------- 2023-12-10 17:59:49 --------------------------
+Bone Chest
+From: Nilaath
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:50 --------------------------
+Mayan Chest
+From: Alberikh
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:52 --------------------------
+Scarab Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 17:59:54 --------------------------
+Forgotten Chest
+From: Nilaath
+Source: Level 20 Crypt
+--------------- 2023-12-10 17:59:55 --------------------------
+Abandoned Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 17:59:57 --------------------------
+Barbarian Chest
+From: Karodor
+Source: Level 25 Crypt
+--------------- 2023-12-10 17:59:59 --------------------------
+Abandoned Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:00 --------------------------
+Rare Dragon Chest
+From: Raya
+Source: Level 15 rare Crypt
+--------------- 2023-12-10 18:00:02 --------------------------
+Stone Chest
+From: Thorn
+Source: Level 25 Crypt
+--------------- 2023-12-10 18:00:04 --------------------------
+Rare Dragon Chest
+From: Karodor
+Source: Level 25 rare Crypt
+--------------- 2023-12-10 18:00:05 --------------------------
+Rare Dragon Chest
+From: Raya
+Source: Level 20 rare Crypt
+--------------- 2023-12-10 18:00:07 --------------------------
+Stone Chest
+From: Feli
+Source: Level 25 Crypt
+--------------- 2023-12-10 18:00:09 --------------------------
+Cobalt Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:10 --------------------------
+Winter gift
+From: Feli
+Source: Winterfest tournament
+--------------- 2023-12-10 18:00:12 --------------------------
+Winter gift
+From: Feli
+Source: Winterfest tournament
+--------------- 2023-12-10 18:00:14 --------------------------
+Winter gift
+From: Feli
+Source: Winterfest tournament
+--------------- 2023-12-10 18:00:15 --------------------------
+Scorpion Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:17 --------------------------
+Trillium Chest
+From: Brandemet
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:19 --------------------------
+Braided Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:21 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 20 Citadel
+--------------- 2023-12-10 18:00:22 --------------------------
+Priest's Chest
+From: Brandemet
+Source: Level 20 epic Crypt
+--------------- 2023-12-10 18:00:24 --------------------------
+Scarab Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:26 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2023-12-10 18:00:27 --------------------------
+Scorpion Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:29 --------------------------
+Cobalt Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:31 --------------------------
+Turtle Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:32 --------------------------
+White Wood Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:34 --------------------------
+Priest's Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:36 --------------------------
+Barbarian Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:37 --------------------------
+Turtle Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:39 --------------------------
+Cobalt Chest
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:41 --------------------------
+Chest of the Cursed
+From: Karodor
+Source: Level 15 epic Crypt
+--------------- 2023-12-10 18:00:42 --------------------------
+Braided Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:44 --------------------------
+White Wood Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:46 --------------------------
+Abandoned Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:48 --------------------------
+House of Horrors Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:49 --------------------------
+Minotaur Chest
+From: Thorn
+Source: Level 25 epic Crypt
+--------------- 2023-12-10 18:00:51 --------------------------
+Winter gift
+From: NEVIO
+Source: Winterfest tournament
+--------------- 2023-12-10 18:00:53 --------------------------
+Cobra Chest
+From: Thorn
+Source: Level 25 Crypt
+--------------- 2023-12-10 18:00:54 --------------------------
+ee
+ee
+ee

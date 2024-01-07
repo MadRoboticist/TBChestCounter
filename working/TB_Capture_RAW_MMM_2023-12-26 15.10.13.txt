@@ -1,0 +1,405 @@
+--------------- 2023-12-26 15:10:16 --------------------------
+Wooden Chest
+From: Mr BaCk
+Source: Bank
+--------------- 2023-12-26 15:10:18 --------------------------
+Wooden Chest
+From: Mr BaCk
+Source: Bank
+--------------- 2023-12-26 15:10:19 --------------------------
+Wooden Chest
+From: Mr BaCk
+Source: Bank
+--------------- 2023-12-26 15:10:21 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2023-12-26 15:10:35 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:10:37 --------------------------
+Chest of the Cursed
+From: Gradog
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:10:38 --------------------------
+Common Chest of Wealth
+From: Hulk
+Source: Clan wealth
+--------------- 2023-12-26 15:10:40 --------------------------
+Uncommon Chest of Wealth
+From: Hulk
+Source: Clan wealth
+--------------- 2023-12-26 15:10:42 --------------------------
+Rare Chest of Wealth
+From: Hulk
+Source: Clan wealth
+--------------- 2023-12-26 15:10:44 --------------------------
+Epic Chest of Wealth
+From: Hulk
+Source: Clan wealth
+--------------- 2023-12-26 15:10:46 --------------------------
+Bone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-26 15:10:47 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-26 15:10:49 --------------------------
+Chest of the Cursed
+From: Gradog
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:10:51 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:10:53 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2023-12-26 15:10:55 --------------------------
+Chest of the Cursed
+From: Gradog
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:10:56 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:10:58 --------------------------
+Snowman chest
+From: Golgotha
+Source: Snowman
+--------------- 2023-12-26 15:11:00 --------------------------
+Chest of the Cursed
+From: Gradog
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:11:02 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:11:04 --------------------------
+Chest of the Cursed
+From: Gradog
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:11:06 --------------------------
+Gnome Workshop Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:11:08 --------------------------
+Snowman chest
+From: Golgotha
+Source: Christmas Ritual tournament
+--------------- 2023-12-26 15:11:09 --------------------------
+Chest of the Cursed
+From: Gradog
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:11:11 --------------------------
+Elegant Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:11:13 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:15 --------------------------
+Minotaur Chest
+From: Berohef
+Source: Level 15 epic Crypt
+--------------- 2023-12-26 15:11:17 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:11:19 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:20 --------------------------
+Mayan Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:11:22 --------------------------
+Sand Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:11:24 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:26 --------------------------
+Elven Citadel Chest
+From: Braveheart
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:11:28 --------------------------
+Barbarian Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:11:29 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:31 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:11:33 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:35 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:11:36 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:11:38 --------------------------
+House of Horrors Chest
+From: Berohef
+Source: Level 15 epic Crypt
+--------------- 2023-12-26 15:11:40 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:42 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:11:44 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:11:45 --------------------------
+Infernal Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:11:47 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:49 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 25 Crypt
+--------------- 2023-12-26 15:11:51 --------------------------
+Elven Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:11:53 --------------------------
+Infernal Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:11:54 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:11:56 --------------------------
+Rare Dragon Chest
+From: Gradog
+Source: Level 25 rare Crypt
+--------------- 2023-12-26 15:11:58 --------------------------
+Sand Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:12:00 --------------------------
+Sand Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:12:02 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:12:03 --------------------------
+Elven Citadel Chest
+From: Rhodry
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:12:05 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:12:07 --------------------------
+House of Horrors Chest
+From: Mabrinad
+Source: Level 20 epic Crypt
+--------------- 2023-12-26 15:12:09 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:12:11 --------------------------
+Scorpion Chest
+From: Mabrinad
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:12:12 --------------------------
+Braided Chest
+From: MILI
+Source: Level 25 epic Crypt
+--------------- 2023-12-26 15:12:14 --------------------------
+Barbarian Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2023-12-26 15:12:16 --------------------------
+Infernal Chest
+From: Mabrinad
+Source: Level 25 Crypt
+--------------- 2023-12-26 15:12:18 --------------------------
+Mayan Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-12-26 15:12:20 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:12:22 --------------------------
+House of Horrors Chest
+From: Mabrinad
+Source: Level 20 epic Crypt
+--------------- 2023-12-26 15:12:23 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:12:25 --------------------------
+Cobra Chest
+From: MILI
+Source: Level 5 Crypt
+--------------- 2023-12-26 15:12:27 --------------------------
+Sand Chest
+From: Mabrinad
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:12:29 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:12:31 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:12:32 --------------------------
+Ancient Bastion Chest
+From: MILI
+Source: Level 20 epic Crypt
+--------------- 2023-12-26 15:12:34 --------------------------
+Barbarian Chest
+From: Mabrinad
+Source: Level 20 epic Crypt
+--------------- 2023-12-26 15:12:36 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:12:38 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:12:40 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:12:41 --------------------------
+Sand Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2023-12-26 15:12:43 --------------------------
+Barbarian Chest
+From: DarkAngel
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:12:45 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:12:47 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:12:49 --------------------------
+Elven Citadel Chest
+From: Feli
+Source: Level 30 Citadel
+--------------- 2023-12-26 15:12:50 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source; Level 20 Citadel
+--------------- 2023-12-26 15:12:52 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:12:54 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source; Level 20 Citadel
+--------------- 2023-12-26 15:12:56 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:12:58 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:00 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source; Level 20 Citadel
+--------------- 2023-12-26 15:13:02 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:03 --------------------------
+Rare Dragon Chest
+From: Feli
+Source: Level 30 rare Crypt
+--------------- 2023-12-26 15:13:05 --------------------------
+Rare Dragon Chest
+From: Feli
+Source: Level 30 rare Crypt
+--------------- 2023-12-26 15:13:07 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:09 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:11 --------------------------
+Ancient Warrior's Chest
+From: MILI
+Source: Level 20 epic Crypt
+--------------- 2023-12-26 15:13:13 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:14 --------------------------
+Elven Citadel Chest
+From: Berohef
+Source: Level 15 Citadel
+--------------- 2023-12-26 15:13:16 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:18 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:20 --------------------------
+Stone Chest
+From: Kerilir
+Source: Level 20 Crypt
+--------------- 2023-12-26 15:13:22 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:24 --------------------------
+Cursed Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:26 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:27 --------------------------
+Elven Citadel Chest
+From: Sir James III Son of Hadur
+Source: Level 25 Citadel
+--------------- 2023-12-26 15:13:29 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source; Level 20 Citadel
