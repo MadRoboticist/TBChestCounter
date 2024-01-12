@@ -1,0 +1,277 @@
+--------------- 2024-01-10 00:16:37 --------------------------
+Sand Chest
+From: Mighty Forger
+Source: Level 25 Crypt
+--------------- 2024-01-10 00:16:39 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 00:16:41 --------------------------
+Rare Dragon Chest
+From: Bamsi
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 00:16:43 --------------------------
+Jormungandr's Chest
+From: Racibor
+Source: Jormungandr Shop
+--------------- 2024-01-10 00:16:44 --------------------------
+Cobalt Chest
+From: Bamsi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 00:16:46 --------------------------
+Rare Dragon Chest
+From: Bamsi
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 00:16:48 --------------------------
+Forgotten Chest
+From: Bamsi
+Source: Level 25 Crypt
+--------------- 2024-01-10 00:16:50 --------------------------
+Cobra Chest
+From: Sir Doc
+Source: Level 10 Crypt
+--------------- 2024-01-10 00:16:51 --------------------------
+Elegant Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:16:53 --------------------------
+Bone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:16:55 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 00:16:57 --------------------------
+Scorpion Chest
+From: Bamsi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 00:16:58 --------------------------
+Cobra Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 00:17:00 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 00:17:02 --------------------------
+Sand Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:17:04 --------------------------
+Mayan Chest
+From: Sir Doc
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:17:06 --------------------------
+Rare Dragon Chest
+From: Bamsi
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 00:17:07 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2024-01-10 00:17:09 --------------------------
+Forgotten Chest
+From: Sir Doc
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:17:11 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 00:17:13 --------------------------
+Rare Dragon Chest
+From: Bamsi
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 00:17:14 --------------------------
+Minotaur Chest
+From: Rainblade
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 00:17:16 --------------------------
+House of Horrors Chest
+From: Rainblade
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 00:17:18 --------------------------
+Rare Dragon Chest
+From: Bamsi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 00:17:20 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2024-01-10 00:17:21 --------------------------
+Sand Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:17:23 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 30 rare Crypt
+--------------- 2024-01-10 00:17:25 --------------------------
+Orc Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:17:27 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 30 rare Crypt
+--------------- 2024-01-10 00:17:29 --------------------------
+Orc Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:17:30 --------------------------
+Mayan Chest
+From: MILI
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:17:32 --------------------------
+Sand Chest
+From: Rainblade
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:17:34 --------------------------
+Barbarian Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2024-01-10 00:17:35 --------------------------
+Rare Dragon Chest
+From: MILI
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 00:17:37 --------------------------
+Sand Chest
+From: Rainblade
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:17:39 --------------------------
+Braided Chest
+From: MILI
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 00:17:41 --------------------------
+Infernal Chest
+From: Rainblade
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:17:42 --------------------------
+Barbarian Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2024-01-10 00:17:44 --------------------------
+Infernal Chest
+From: Rainblade
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:17:46 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 10 Citadel
+--------------- 2024-01-10 00:17:48 --------------------------
+Elven Citadel Chest
+From: Rainblade
+Source: Level 10 Citadel
+--------------- 2024-01-10 00:17:49 --------------------------
+Stone Chest
+From: Rainblade
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:17:51 --------------------------
+Barbarian Chest
+From: MILI
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 00:17:53 --------------------------
+Minotaur Chest
+From: Rainblade
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 00:17:55 --------------------------
+Forgotten Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2024-01-10 00:17:56 --------------------------
+Forgotten Chest
+From: Rainblade
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:17:58 --------------------------
+Infernal Chest
+From: Rainblade
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:00 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2024-01-10 00:18:02 --------------------------
+Rare Dragon Chest
+From: Rainblade
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 00:18:04 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 15 Citadel
+--------------- 2024-01-10 00:18:05 --------------------------
+Rare Dragon Chest
+From: Rainblade
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 00:18:07 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 20 Citadel
+--------------- 2024-01-10 00:18:09 --------------------------
+Fire Chest
+From: MILI
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:18:11 --------------------------
+Gnome Workshop Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:12 --------------------------
+Infernal Chest
+From: Rainblade
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:14 --------------------------
+Abandoned Chest
+From: MILI
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 00:18:16 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 25 Citadel
+--------------- 2024-01-10 00:18:18 --------------------------
+Rare Dragon Chest
+From: Rainblade
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 00:18:19 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 00:18:21 --------------------------
+Rare Dragon Chest
+From: Rainblade
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 00:18:23 --------------------------
+Mayan Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:25 --------------------------
+Rare Dragon Chest
+From: Rainblade
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 00:18:26 --------------------------
+Forgotten Chest
+From: MILI
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:28 --------------------------
+Barbarian Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:30 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 15 Citadel
+--------------- 2024-01-10 00:18:32 --------------------------
+Rare Dragon Chest
+From: Rainblade
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 00:18:33 --------------------------
+Cobra Chest
+From: MILI
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:35 --------------------------
+Sand Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 00:18:37 --------------------------
+Infernal Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 00:18:38 --------------------------

@@ -1,0 +1,3005 @@
+--------------- 2024-01-10 07:52:42 --------------------------
+Wooden Chest
+From: Mr BaCk
+Source; Bank
+--------------- 2024-01-10 07:52:44 --------------------------
+Wooden Chest
+From: Mr BaCk
+Source; Bank
+--------------- 2024-01-10 07:52:46 --------------------------
+Wooden Chest
+From: Mr BaCk
+Source; Bank
+--------------- 2024-01-10 07:52:48 --------------------------
+Wooden Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:52:49 --------------------------
+Wooden Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:52:51 --------------------------
+Wooden Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:52:53 --------------------------
+Wooden Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:52:55 --------------------------
+Wooden Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:52:57 --------------------------
+Wooden Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:52:58 --------------------------
+Bronze Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:53:00 --------------------------
+Bronze Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:53:02 --------------------------
+Bronze Chest
+From: Sir James III Son of Hadur
+Source; Bank
+--------------- 2024-01-10 07:53:04 --------------------------
+Wooden Chest
+From: Grikelv
+Source; Bank
+--------------- 2024-01-10 07:53:06 --------------------------
+Wooden Chest
+From: Grikelv
+Source; Bank
+--------------- 2024-01-10 07:53:07 --------------------------
+Wooden Chest
+From: Grikelv
+Source; Bank
+--------------- 2024-01-10 07:53:09 --------------------------
+Magic Chest
+From: Germanicus
+Source; Bank
+--------------- 2024-01-10 07:53:11 --------------------------
+Magic Chest
+From: Germanicus
+Source; Bank
+--------------- 2024-01-10 07:53:12 --------------------------
+Magic Chest
+From: Germanicus
+Source; Bank
+--------------- 2024-01-10 07:53:14 --------------------------
+ee
+ee
+ee
+--- WARNING: The user has asked to redo the capture so watch for duplicates.
+--------------- 2024-01-10 07:56:38 --------------------------
+Cobra Chest
+From: Menelaos
+Source: Level 10 Crypt
+--------------- 2024-01-10 07:56:39 --------------------------
+Forgotten Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:56:41 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:56:43 --------------------------
+Barbarian Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:56:45 --------------------------
+Barbarian Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:56:46 --------------------------
+Gnome Workshop Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:56:48 --------------------------
+Elegant Chest
+From: MILI
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:56:50 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:56:52 --------------------------
+Bone Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:56:54 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:56:56 --------------------------
+Bone Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:56:57 --------------------------
+Mayan Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:56:59 --------------------------
+Mayan Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:01 --------------------------
+Sand Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:02 --------------------------
+Orc Chest
+From: Hermit 500
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:57:04 --------------------------
+Mayan Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:06 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:57:08 --------------------------
+Gnome Workshop Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:57:10 --------------------------
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:11 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 07:57:13 --------------------------
+Infernal Chest
+From: Thoth
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:57:15 --------------------------
+Rare Dragon Chest
+From: MADMAN
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 07:57:17 --------------------------
+Elegant Chest
+From: doc48
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:57:18 --------------------------
+Mayan Chest
+From: Thoth
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:57:20 --------------------------
+Gnome Workshop Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:22 --------------------------
+Turtle Chest
+From: doc48
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 07:57:24 --------------------------
+Infernal Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:57:26 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:57:27 --------------------------
+Mayan Chest
+From: Thoth
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:57:29 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:57:31 --------------------------
+Forgotten Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:57:33 --------------------------
+Orc Chest
+From: Menelaos
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:57:34 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:57:36 --------------------------
+Forgotten Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:38 --------------------------
+Sand Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:40 --------------------------
+Fire Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:41 --------------------------
+Mayan Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:43 --------------------------
+Forgotten Chest
+From: Menelaos
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:57:45 --------------------------
+Cursed Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:57:47 --------------------------
+Elven Citadel Chest
+From: Menelaos
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:57:48 --------------------------
+Wooden Chest
+From: Brandemet
+Source: Clash for the Throne tournament
+--------------- 2024-01-10 07:57:50 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:57:52 --------------------------
+Cursed Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:57:54 --------------------------
+Forgotten Chest
+From: doc48
+Source: Level 5 Crypt
+--------------- 2024-01-10 07:57:55 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:57:57 --------------------------
+Sand Chest
+From: doc48
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:57:59 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:58:01 --------------------------
+Elven Citadel Chest
+From: Brandemet
+Source: Level 10 Citadel
+--------------- 2024-01-10 07:58:02 --------------------------
+Rare Dragon Chest
+From: doc48
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 07:58:04 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 10 Citadel
+--------------- 2024-01-10 07:58:06 --------------------------
+Elven Citadel Chest
+From: doc48
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:58:08 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:58:09 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:58:11 --------------------------
+Wooden Chest
+From: Rudolf
+Source: Clash for the Throne tournament
+--------------- 2024-01-10 07:58:13 --------------------------
+Cursed Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:58:15 --------------------------
+Cobalt Chest
+From: Grozilkree
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 07:58:17 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 07:58:18 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 07:58:20 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:58:22 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:58:24 --------------------------
+Fire Chest
+From: MONA
+Source: Level 5 Crypt
+--------------- 2024-01-10 07:58:25 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:58:27 --------------------------
+House of Horrors Chest
+From: Rudolf
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 07:58:29 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 07:58:31 --------------------------
+Cursed Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:58:32 --------------------------
+Rare Dragon Chest
+From: Grozilkree
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 07:58:34 --------------------------
+Cursed Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:58:36 --------------------------
+Infernal Chest
+From: MONA
+Source: Level 10 Crypt
+--------------- 2024-01-10 07:58:38 --------------------------
+Priest's Chest
+From: Grozilkree
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 07:58:40 --------------------------
+Cursed Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:58:41 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:58:43 --------------------------
+Forgotten Chest
+From: MONA
+Source: Level 10 Crypt
+--------------- 2024-01-10 07:58:45 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:58:47 --------------------------
+Cursed Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:58:48 --------------------------
+Wooden Chest
+From: Hulk
+Source: Clash for the Throne tournament
+--------------- 2024-01-10 07:58:50 --------------------------
+Forgotten Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:58:52 --------------------------
+Cursed Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:58:54 --------------------------
+Common Chest of Wealth
+From: Hulk
+Source: Clan wealth
+--------------- 2024-01-10 07:58:55 --------------------------
+Uncommon Chest of Wealth
+From: Hulk
+Source: Clan wealth
+--------------- 2024-01-10 07:58:57 --------------------------
+Rare Chest of Wealth
+From: Hulk
+Source: Clan wealth
+--------------- 2024-01-10 07:58:59 --------------------------
+Cursed Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:01 --------------------------
+Cursed Citadel Chest
+From: Mr BaCk
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:03 --------------------------
+Gnome Workshop Chest
+From: AlexLeroc
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:59:04 --------------------------
+Braided Chest
+From: MILI
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 07:59:06 --------------------------
+Bone Chest
+From: SheHulk
+Source: Level 10 Crypt
+--------------- 2024-01-10 07:59:08 --------------------------
+Elegant Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:59:10 --------------------------
+Elegant Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:59:12 --------------------------
+Elegant Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:59:13 --------------------------
+Stone Chest
+From: Well Constantino
+Source: Level 20 Crypt
+--------------- 2024-01-10 07:59:15 --------------------------
+Stone Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:17 --------------------------
+Infernal Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:19 --------------------------
+Cobra Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:21 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:22 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:24 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:26 --------------------------
+Cursed Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:28 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:30 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:31 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 07:59:33 --------------------------
+Gnome Workshop Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:35 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:59:37 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:59:39 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 07:59:40 --------------------------
+Elven Citadel Chest
+From: Mr BaCk
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:59:42 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2024-01-10 07:59:44 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:59:46 --------------------------
+Bone Chest
+From: Mr BaCk
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:47 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 10 Crypt
+--------------- 2024-01-10 07:59:49 --------------------------
+Harpy Chest
+From: SheHulk
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 07:59:51 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:53 --------------------------
+Stone Chest
+From: Mr BaCk
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:54 --------------------------
+Orc Chest
+From: Mr BaCk
+Source: Level 25 Crypt
+--------------- 2024-01-10 07:59:56 --------------------------
+Stone Chest
+From: SheHulk
+Source: Level 15 Crypt
+--------------- 2024-01-10 07:59:58 --------------------------
+Elegant Chest
+From: MONA
+Source: Level 10 Crypt
+--------------- 2024-01-10 07:59:59 --------------------------
+Cobra Chest
+From: Mr BaCk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:00:01 --------------------------
+Elegant Chest
+From: SheHulk
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:00:03 --------------------------
+Mayan Chest
+From: SheHulk
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:05 --------------------------
+Elegant Chest
+From: Mr BaCk
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:07 --------------------------
+Fire Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:00:08 --------------------------
+Rare Dragon Chest
+From: Hulk
+Source: Level 30 rare Crypt
+--------------- 2024-01-10 08:00:10 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:00:12 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:00:14 --------------------------
+Gnome Workshop Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:16 --------------------------
+Mayan Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:18 --------------------------
+Cobra Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:20 --------------------------
+Infernal Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:21 --------------------------
+Infernal Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:23 --------------------------
+Trillium Chest
+From: Hulk
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:00:25 --------------------------
+Orc Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:27 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:00:28 --------------------------
+Bone Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:30 --------------------------
+Cobra Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:32 --------------------------
+Fire Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:33 --------------------------
+Barbarian Chest
+From: Alberikh
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:00:35 --------------------------
+Elegant Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:37 --------------------------
+Elegant Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:39 --------------------------
+Gnome Workshop Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:41 --------------------------
+Infernal Chest
+From: Hulk
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:00:42 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:00:44 --------------------------
+Elegant Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:46 --------------------------
+Forgotten Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:47 --------------------------
+Fire Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:49 --------------------------
+Mayan Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:51 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:00:53 --------------------------
+Cobra Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:00:54 --------------------------
+Elven Citadel Chest
+From: Mal
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:00:56 --------------------------
+Fire Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:00:58 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:01:00 --------------------------
+Sand Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:02 --------------------------
+Fire Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:03 --------------------------
+Sand Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:01:05 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:01:07 --------------------------
+Cobra Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:09 --------------------------
+Bone Chest
+From: Fosida
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:01:10 --------------------------
+Stone Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:12 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:01:14 --------------------------
+Elegant Chest
+From: Fosida
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:01:16 --------------------------
+Cursed Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:01:18 --------------------------
+Infernal Chest
+From: Fosida
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:01:19 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:01:21 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:01:23 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:25 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:01:26 --------------------------
+Cobra Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:01:28 --------------------------
+Forgotten Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:01:30 --------------------------
+Elegant Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:01:32 --------------------------
+Chest of the Cursed
+From: Grozilkree
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:01:34 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:01:35 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:01:37 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:01:39 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:40 --------------------------
+Mayan Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:01:42 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:01:44 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:01:46 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:01:47 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:01:49 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:51 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:01:53 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:01:55 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:01:56 --------------------------
+Cursed Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:01:58 --------------------------
+Stone Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:00 --------------------------
+Mayan Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:02 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:02:04 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:05 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:07 --------------------------
+Sand Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:09 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:02:10 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:12 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:14 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:16 --------------------------
+Elegant Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:18 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:19 --------------------------
+Bone Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:21 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:23 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:24 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:26 --------------------------
+Forgotten Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:28 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:30 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:32 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:33 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:35 --------------------------
+Mayan Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:37 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:02:39 --------------------------
+Sand Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:40 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:42 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:44 --------------------------
+Sand Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:46 --------------------------
+Infernal Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:47 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:49 --------------------------
+Forgotten Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:51 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:52 --------------------------
+Stone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:54 --------------------------
+Cobra Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:02:56 --------------------------
+Elven Citadel Chest
+From: Grozilkree
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:02:58 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:02:59 --------------------------
+Cobra Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:01 --------------------------
+Infernal Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:03 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:05 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:06 --------------------------
+Bone Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:08 --------------------------
+Barbarian Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:10 --------------------------
+Mayan Chest
+From: Grozilkree
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:11 --------------------------
+Mayan Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:13 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:03:15 --------------------------
+Infernal Chest
+From: Magda Ewa
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:17 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:19 --------------------------
+Bone Chest
+From: Grozilkree
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:20 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:03:22 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:24 --------------------------
+Cursed Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:03:26 --------------------------
+Mayan Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:03:27 --------------------------
+Stone Chest
+From: Fosida
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:03:29 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:03:31 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:33 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:03:34 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:36 --------------------------
+Bone Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:03:38 --------------------------
+Gnome Workshop Chest
+From: Funfiren
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:40 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:03:42 --------------------------
+Forgotten Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:43 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:03:45 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:47 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:03:49 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:50 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:03:52 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:54 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:03:56 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:03:58 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:03:59 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:04:01 --------------------------
+Elven Citadel Chest
+From: Maedrosin
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:04:03 --------------------------
+Infernal Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:04:05 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:04:06 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:04:08 --------------------------
+Elven Citadel Chest
+From: Funfiren
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:04:10 --------------------------
+Elegant Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:04:12 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:04:13 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:04:15 --------------------------
+Elven Citadel Chest
+From: Maedrosin
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:04:17 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:04:19 --------------------------
+Cursed Citadel Chest
+From: Fosida
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:04:20 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:04:22 --------------------------
+Elven Citadel Chest
+From: Sir RES
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:04:24 --------------------------
+Orc Chest
+From: Funfiren
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:04:26 --------------------------
+Mayan Chest
+From: Turbrimir
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:04:27 --------------------------
+Elven Citadel Chest
+From: Fosida
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:04:29 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:04:31 --------------------------
+Barbarian Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:04:33 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:04:34 --------------------------
+Rare Dragon Chest
+From: Brandemet
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:04:36 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:04:38 --------------------------
+Elegant Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:04:40 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:04:41 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:04:43 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:04:45 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:04:46 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:04:48 --------------------------
+Orc Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:04:50 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:04:52 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:04:53 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:04:55 --------------------------
+Union Chest
+From: Eydaen
+Source: Union of Triumph personal reward
+--------------- 2024-01-10 08:04:57 --------------------------
+Union Chest
+From: Eydaen
+Source: Union of Triumph personal reward
+--------------- 2024-01-10 08:04:59 --------------------------
+Union Chest
+From: Eydaen
+Source: Union of Triumph personal reward
+--------------- 2024-01-10 08:05:00 --------------------------
+Union Chest
+From: Eydaen
+Source: Union of Triumph personal reward
+--------------- 2024-01-10 08:05:02 --------------------------
+Union Chest
+From: Eydaen
+Source: Union of Triumph personal reward
+--------------- 2024-01-10 08:05:04 --------------------------
+Union Chest
+From: Eydaen
+Source: Union of Triumph personal reward
+--------------- 2024-01-10 08:05:05 --------------------------
+Infernal Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:05:07 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:05:09 --------------------------
+Elven Citadel Chest
+From: Diovani
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:05:11 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:05:12 --------------------------
+Orc Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:05:14 --------------------------
+Cobra Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:05:16 --------------------------
+Sand Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:05:18 --------------------------
+Stone Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:05:19 --------------------------
+Orc Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:21 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:05:23 --------------------------
+Mayan Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:05:24 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:05:26 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:05:28 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:05:30 --------------------------
+Forgotten Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:31 --------------------------
+Orc Chest
+From: Marcelo
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:05:33 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:35 --------------------------
+Gnome Workshop Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:36 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:38 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:05:40 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:05:42 --------------------------
+Cobra Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:05:43 --------------------------
+Barbarian Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:45 --------------------------
+Barbarian Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:47 --------------------------
+Cobra Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:05:49 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:50 --------------------------
+Mayan Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:05:52 --------------------------
+Elegant Chest
+From: Eydaen
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:05:54 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:05:55 --------------------------
+Fire Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:57 --------------------------
+Fire Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:05:59 --------------------------
+Scarab Chest
+From: Sir RES
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:06:01 --------------------------
+Elegant Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:02 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:06:04 --------------------------
+Bone Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:06 --------------------------
+Bone Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:07 --------------------------
+Barbarian Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:06:09 --------------------------
+Sand Chest
+From: Maedrosin
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:06:11 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:06:13 --------------------------
+Elven Citadel Chest
+From: Eydaen
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:06:14 --------------------------
+Stone Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:06:16 --------------------------
+Cobra Chest
+From: White Knight
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:06:18 --------------------------
+Gnome Workshop Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:06:19 --------------------------
+Stone Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:06:21 --------------------------
+Sand Chest
+From: Eydaen
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:06:23 --------------------------
+Elegant Chest
+From: White Knight
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:06:25 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:06:26 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:06:28 --------------------------
+Ancient Warrior's Chest
+From: Sir RES
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:06:30 --------------------------
+Harpy Chest
+From: White Knight
+Source: Level 25 epic Crypt
+--------------- 2024-01-10 08:06:31 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:33 --------------------------
+Elegant Chest
+From: Turbrimir
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:06:35 --------------------------
+Forgotten Chest
+From: Sir RES
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:06:37 --------------------------
+Bone Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:38 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:06:40 --------------------------
+Stone Chest
+From: Sir RES
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:06:42 --------------------------
+Barbarian Chest
+From: White Knight
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:06:43 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:06:45 --------------------------
+Fire Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:47 --------------------------
+Mayan Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:49 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:06:50 --------------------------
+Forgotten Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:06:52 --------------------------
+Cobra Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:06:54 --------------------------
+Elegant Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:55 --------------------------
+Cobra Chest
+From: Sir RES
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:06:57 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:06:59 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:01 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:07:02 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:04 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:07:06 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:07 --------------------------
+Forgotten Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:07:09 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:07:11 --------------------------
+Forgotten Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:07:13 --------------------------
+Elegant Chest
+From: Turbrimir
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:07:14 --------------------------
+Cursed Citadel Chest
+From: Diovani
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:07:16 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:18 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:07:20 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:21 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:07:23 --------------------------
+Sand Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:07:25 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:07:26 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:07:28 --------------------------
+Rare Dragon Chest
+From: Sir RES
+Source: Level 10 rare Crypt
+--------------- 2024-01-10 08:07:30 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:32 --------------------------
+Gladiator's Chest
+From: Hulk
+Source: Arena
+--------------- 2024-01-10 08:07:33 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:35 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:07:37 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:07:38 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:07:40 --------------------------
+Sand Chest
+From: Turbrimir
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:07:42 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:07:44 --------------------------
+Rare Dragon Chest
+From: Diovani
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:07:45 --------------------------
+Turtle Chest
+From: Germanicus
+Source: Level 25 epic Crypt
+--------------- 2024-01-10 08:07:47 --------------------------
+Infernal Chest
+From: Germanicus
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:07:49 --------------------------
+Mayan Chest
+From: Diovani
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:07:50 --------------------------
+Sand Chest
+From: Diovani
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:07:52 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:07:54 --------------------------
+Orc Chest
+From: DarkAngel
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:07:56 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:07:57 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:07:59 --------------------------
+Gnome Workshop Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:08:01 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:08:03 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:08:04 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:08:06 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:08:08 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:08:09 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:08:11 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:08:13 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:08:15 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:08:16 --------------------------
+Elegant Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:08:18 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:08:20 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:08:22 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:08:24 --------------------------
+Infernal Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:08:25 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:08:27 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:08:29 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:08:31 --------------------------
+Cursed Citadel Chest
+From: Kosti
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:08:32 --------------------------
+Cursed Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:08:34 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:08:36 --------------------------
+Cursed Citadel Chest
+From: Kosti
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:08:37 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:08:39 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:08:41 --------------------------
+Abandoned Chest
+From: doc48
+Source: Level 35 epic Crypt
+--------------- 2024-01-10 08:08:43 --------------------------
+Infernal Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:08:44 --------------------------
+Elven Citadel Chest
+From: Kosti
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:08:46 --------------------------
+Stone Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:08:48 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:08:49 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:08:51 --------------------------
+Infernal Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:08:53 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:08:55 --------------------------
+Cobra Chest
+From: SheHulk
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:08:56 --------------------------
+Cobra Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:08:58 --------------------------
+Elven Citadel Chest
+From: AlexLeroc
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:09:00 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:09:02 --------------------------
+Elven Citadel Chest
+From: Kosti
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:03 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:09:05 --------------------------
+Elven Citadel Chest
+From: AlexLeroc
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:07 --------------------------
+Barbarian Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:09:08 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:09:10 --------------------------
+Elven Citadel Chest
+From: AlexLeroc
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:12 --------------------------
+Elven Citadel Chest
+From: Kosti
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:14 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:09:15 --------------------------
+Rare Dragon Chest
+From: Sir Cthulhu |
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:09:17 --------------------------
+Infernal Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:09:19 --------------------------
+Elven Citadel Chest
+From: AlexLeroc
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:21 --------------------------
+Gnome Workshop Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:09:22 --------------------------
+Minotaur Chest
+From: doc48
+Source: Level 30 epic Crypt
+--------------- 2024-01-10 08:09:24 --------------------------
+Elven Citadel Chest
+From: AlexLeroc
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:26 --------------------------
+Elegant Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:09:27 --------------------------
+Mayan Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:09:29 --------------------------
+Sand Chest
+From: Turbrimir
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:09:31 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:09:33 --------------------------
+Forgotten Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:09:34 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:09:36 --------------------------
+Bone Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:09:38 --------------------------
+Forgotten Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:09:40 --------------------------
+Elven Citadel Chest
+From: AlexLeroc
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:09:41 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:09:43 --------------------------
+Orc Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:09:45 --------------------------
+Minotaur Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:09:46 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:48 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:09:50 --------------------------
+Priest's Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:09:51 --------------------------
+Elven Citadel Chest
+From: AlexLeroc
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:09:53 --------------------------
+Abandoned Chest
+From: Kosti
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:09:55 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:09:57 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:09:58 --------------------------
+Rare Dragon Chest
+From: Kosti
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:10:00 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:02 --------------------------
+Rare Dragon Chest
+From: Kosti
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:10:04 --------------------------
+Fire Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:05 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:10:07 --------------------------
+Elegant Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:10:09 --------------------------
+Elegant Chest
+From: AlexLeroc
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:10:11 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:13 --------------------------
+Gnome Workshop Chest
+From: AlexLeroc
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:14 --------------------------
+Sand Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:16 --------------------------
+Infernal Chest
+From: AlexLeroc
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:18 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:20 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:10:22 --------------------------
+Mayan Chest
+From: AlexLeroc
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:24 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:25 --------------------------
+Cobra Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:27 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:10:29 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:10:30 --------------------------
+Elegant Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:10:32 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:10:34 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:10:36 --------------------------
+Elegant Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:10:38 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:10:39 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:10:41 --------------------------
+Bone Chest
+From: Marvi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:10:43 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:10:45 --------------------------
+Fire Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:10:46 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:10:48 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:10:50 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:10:51 --------------------------
+Elven Citadel Chest
+From: Hulk
+Source: Level 30 Citadel
+--------------- 2024-01-10 08:10:53 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:10:55 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:10:57 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:10:58 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:11:00 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:11:02 --------------------------
+Gnome Workshop Chest
+From: Hulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:11:04 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:11:05 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:11:07 --------------------------
+Mayan Chest
+From: Kosti
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:11:09 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:11:11 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:11:12 --------------------------
+Fire Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:11:14 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:11:16 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:11:18 --------------------------
+Elegant Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:11:20 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:11:21 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:11:23 --------------------------
+Gnome Workshop Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:11:25 --------------------------
+Infernal Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:11:27 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:11:29 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:11:30 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:11:32 --------------------------
+Rare Dragon Chest
+From: Marvi
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:11:34 --------------------------
+Scarab Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:11:36 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:11:38 --------------------------
+Ancient Bastion Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:11:39 --------------------------
+Infernal Chest
+From: Diovani
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:11:41 --------------------------
+Scarab Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:11:43 --------------------------
+Cobra Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:11:45 --------------------------
+Braided Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:11:47 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:11:49 --------------------------
+Harpy Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:11:50 --------------------------
+Sand Chest
+From: Turbrimir
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:11:52 --------------------------
+Braided Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:11:55 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:11:58 --------------------------
+Titansteel Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:12:00 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:12:02 --------------------------
+Barbarian Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:12:04 --------------------------
+Stone Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:12:06 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:12:07 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:12:09 --------------------------
+Braided Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:12:11 --------------------------
+Cobra Chest
+From: Turbrimir
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:12:13 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:12:14 --------------------------
+Sand Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:12:16 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:12:18 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:12:20 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:12:21 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:12:23 --------------------------
+Orc Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:12:25 --------------------------
+Barbarian Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:12:27 --------------------------
+Infernal Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:29 --------------------------
+Cobra Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:30 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:12:32 --------------------------
+Cobra Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:34 --------------------------
+Fire Chest
+From: SheHulk
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:12:36 --------------------------
+Cursed Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:12:37 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:12:39 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:41 --------------------------
+Sand Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:43 --------------------------
+Elegant Chest
+From: Rudolf
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:12:44 --------------------------
+Fire Chest
+From: Lirinir
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:12:46 --------------------------
+Forgotten Chest
+From: Snowberry
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:48 --------------------------
+Sand Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:50 --------------------------
+Barbarian Chest
+From: Lirinir
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:12:51 --------------------------
+Sand Chest
+From: Lirinir
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:12:53 --------------------------
+Elven Citadel Chest
+From: SheHulk
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:12:55 --------------------------
+Sand Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:12:56 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:12:58 --------------------------
+Elven Citadel Chest
+From: MILI
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:13:00 --------------------------
+Elven Citadel Chest
+From: Rudolf
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:13:02 --------------------------
+Rare Dragon Chest
+From: Snowberry
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:13:03 --------------------------
+Stone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:13:05 --------------------------
+Ancient Bastion Chest
+From: Snowberry
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:13:07 --------------------------
+Bone Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:13:09 --------------------------
+Bone Chest
+From: Lirinir
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:13:11 --------------------------
+Bone Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:13:12 --------------------------
+Elven Citadel Chest
+From: SheHulk
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:13:14 --------------------------
+Bone Chest
+From: Rudolf
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:13:16 --------------------------
+Trillium Chest
+From: Snowberry
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:13:18 --------------------------
+Turtle Chest
+From: Snowberry
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:13:20 --------------------------
+Elven Citadel Chest
+From: SheHulk
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:13:21 --------------------------
+Elegant Chest
+From: Lirinir
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:13:23 --------------------------
+Forgotten Chest
+From: Morg
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:13:25 --------------------------
+Forgotten Chest
+From: Lirinir
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:13:27 --------------------------
+Priest's Chest
+From: Snowberry
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:13:29 --------------------------
+Rare Dragon Chest
+From: Morg
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:13:30 --------------------------
+Elven Citadel Chest
+From: SheHulk
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:13:32 --------------------------
+Rare Dragon Chest
+From: Morg
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:13:34 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:13:36 --------------------------
+Rare Dragon Chest
+From: Morg
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:13:38 --------------------------
+Gladiator's Chest
+From: White Knight
+Source: Arena
+--------------- 2024-01-10 08:13:39 --------------------------
+Cursed Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:13:41 --------------------------
+Rare Dragon Chest
+From: Morg
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:13:43 --------------------------
+Bone Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:13:45 --------------------------
+Elven Citadel Chest
+From: SheHulk
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:13:46 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:13:48 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:13:50 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:13:51 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:13:53 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:13:55 --------------------------
+Cursed Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:13:57 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:13:59 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:00 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:02 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:04 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:06 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:07 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:09 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:11 --------------------------
+Scorpion Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:14:13 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:14 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:16 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:18 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:19 --------------------------
+Titansteel Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:14:21 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:23 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:25 --------------------------
+Elven Citadel Chest
+From: Morg
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:26 --------------------------
+Cursed Citadel Chest
+From: Morg
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:28 --------------------------
+Jormungandr's Chest
+From: 3CPo
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:14:30 --------------------------
+Jormungandr's Chest
+From: 3CPo
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:14:32 --------------------------
+Jormungandr's Chest
+From: 3CPo
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:14:33 --------------------------
+Jormungandr's Chest
+From: 3CPo
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:14:35 --------------------------
+Jormungandr's Chest
+From: 3CPo
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:14:37 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:14:39 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:40 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:14:42 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:14:44 --------------------------
+Titansteel Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:14:46 --------------------------
+Abandoned Chest
+From: Marvi
+Source: Level 15 epic Crypt
+--------------- 2024-01-10 08:14:47 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:49 --------------------------
+Abandoned Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:14:51 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:14:52 --------------------------
+Abandoned Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:14:54 --------------------------
+Rare Dragon Chest
+From: Foolish Mortal
+Source: Level 30 rare Crypt
+--------------- 2024-01-10 08:14:56 --------------------------
+Elven Citadel Chest
+From: Foolish Mortal
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:14:58 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:14:59 --------------------------
+Abandoned Chest
+From: Marvi
+Source: Level 20 epic Crypt
+--------------- 2024-01-10 08:15:01 --------------------------
+Elven Citadel Chest
+From: Braveheart
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:15:03 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:15:05 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:15:06 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:15:08 --------------------------
+Bone Chest
+From: Bjorn
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:15:10 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:15:11 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:15:13 --------------------------
+Mayan Chest
+From: Bjorn
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:15:15 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:15:17 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:15:19 --------------------------
+Jormungandr's Chest
+From: Funfiren
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:15:21 --------------------------
+Jormungandr's Chest
+From: Funfiren
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:15:22 --------------------------
+Jormungandr's Chest
+From: Funfiren
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:15:24 --------------------------
+Cobra Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:15:26 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:15:27 --------------------------
+Stone Chest
+From: LUCKY BEAR
+Source: Level 5 Crypt
+--------------- 2024-01-10 08:15:29 --------------------------
+Stone Chest
+From: Bjorn
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:15:31 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:15:33 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:15:34 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:15:36 --------------------------
+Infernal Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:15:38 --------------------------
+Rare Dragon Chest
+From: Germanicus
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:15:40 --------------------------
+Bone Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:15:41 --------------------------
+Rare Dragon Chest
+From: Germanicus
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:15:43 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:15:45 --------------------------
+Rare Dragon Chest
+From: Germanicus
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:15:46 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:15:48 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:15:50 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:15:52 --------------------------
+Forgotten Chest
+From: MILI
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:15:53 --------------------------
+Cobra Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:15:55 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:15:57 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:15:59 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:16:00 --------------------------
+Elven Citadel Chest
+From: Germanicus
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:16:02 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:16:04 --------------------------
+Rare Dragon Chest
+From: Germanicus
+Source: Level 25 rare Crypt
+--------------- 2024-01-10 08:16:06 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:16:07 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:16:09 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:16:11 --------------------------
+Chest of the Cursed
+From: Germanicus
+Source: Level 30 epic Crypt
+--------------- 2024-01-10 08:16:12 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:16:14 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:16:16 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:16:18 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:16:19 --------------------------
+Orc Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:21 --------------------------
+Elven Citadel Chest
+From: Snowberry
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:16:23 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:16:24 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:16:26 --------------------------
+Cobra Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:28 --------------------------
+Elegant Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:30 --------------------------
+Elven Citadel Chest
+From: Braveheart
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:16:31 --------------------------
+Mayan Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:33 --------------------------
+Mayan Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:35 --------------------------
+Gnome Workshop Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:36 --------------------------
+Barbarian Chest
+From: Bjorn
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:16:38 --------------------------
+Gnome Workshop Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:40 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:16:42 --------------------------
+Stone Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:43 --------------------------
+Scarab Chest
+From: Bjorn
+Source: Level 25 epic Crypt
+--------------- 2024-01-10 08:16:45 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-10 08:16:47 --------------------------
+Bone Chest
+From: Bjorn
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:16:48 --------------------------
+Bone Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:16:50 --------------------------
+Infernal Chest
+From: Bjorn
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:52 --------------------------
+Barbarian Chest
+From: Foolish Mortal
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:54 --------------------------
+Infernal Chest
+From: Foolish Mortal
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:16:55 --------------------------
+Elven Citadel Chest
+From: Foolish Mortal
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:16:57 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:16:59 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:01 --------------------------
+Sand Chest
+From: Foolish Mortal
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:17:02 --------------------------
+Rare Dragon Chest
+From: LUCKY BEAR
+Source: Level 15 rare Crypt
+--------------- 2024-01-10 08:17:04 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:17:06 --------------------------
+Mayan Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:17:07 --------------------------
+Elven Citadel Chest
+From: Foolish Mortal
+Source: Level 20 Citadel
+--------------- 2024-01-10 08:17:09 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:17:11 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:13 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:17:14 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:17:16 --------------------------
+Bone Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:17:18 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:19 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:17:21 --------------------------
+Stone Chest
+From: Bamsi
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:17:23 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:25 --------------------------
+Jormungandr's Chest
+From: Rainblade
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:17:27 --------------------------
+Jormungandr's Chest
+From: Rainblade
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:17:28 --------------------------
+Jormungandr's Chest
+From: Rainblade
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:17:30 --------------------------
+Jormungandr's Chest
+From: Rainblade
+Source: Jormungandr Shop
+--------------- 2024-01-10 08:17:32 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:34 --------------------------
+Rare Dragon Chest
+From: Marcelo
+Source: Level 20 rare Crypt
+--------------- 2024-01-10 08:17:35 --------------------------
+Cobra Chest
+From: Lerinad
+Source: Level 20 Crypt
+--------------- 2024-01-10 08:17:37 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:17:39 --------------------------
+Fire Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:17:40 --------------------------
+Mayan Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:17:42 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:44 --------------------------
+Fire Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:17:45 --------------------------
+Mayan Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:17:47 --------------------------
+Cobra Chest
+From: Germanicus
+Source: Level 25 Crypt
+--------------- 2024-01-10 08:17:49 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:51 --------------------------
+Elven Citadel Chest
+From: Marcelo
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:52 --------------------------
+Bone Chest
+From: Kirimand
+Source: Level 15 Crypt
+--------------- 2024-01-10 08:17:54 --------------------------
+Cursed Citadel Chest
+From: Marvi
+Source: Level 25 Citadel
+--------------- 2024-01-10 08:17:56 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-10 08:17:57 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 10 Crypt
+--------------- 2024-01-10 08:17:59 --------------------------
+Elven Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
