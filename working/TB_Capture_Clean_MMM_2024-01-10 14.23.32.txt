@@ -1,0 +1,240 @@
+Gnome Workshop Chest
+From : Uhtred
+Source : Level 20 Crypt
+Barbarian Chest
+From : Germanicus
+Source : Level 25 Crypt
+Cursed Citadel Chest
+From : Marvi
+Source : Level 20 Citadel
+Infernal Chest
+From : Uhtred
+Source : Level 20 Crypt
+Elven Citadel Chest
+From : Germanicus
+Source : Level 25 Citadel
+Mayan Chest
+From : Berohef
+Source : Level 10 Crypt
+Cobra Chest
+From : Berohef
+Source : Level 10 Crypt
+Cursed Citadel Chest
+From : Uhtred
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Germanicus
+Source : Level 25 Citadel
+Stone Chest
+From : Berohef
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : DarkAngel
+Source : Level 10 Citadel
+Cursed Citadel Chest
+From : Marvi
+Source : Level 25 Citadel
+Elegant Chest
+From : Berohef
+Source : Level 15 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Fire Chest
+From : DarkAngel
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : Uhtred
+Source : Level 20 Citadel
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Cursed Citadel Chest
+From : Marvi
+Source : Level 20 Citadel
+Elven Citadel Chest
+From : Berohef
+Source : Level 15 Citadel
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Cursed Citadel Chest
+From : Marvi
+Source : Level 25 Citadel
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Mayan Chest
+From : Berohef
+Source : Level 20 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Cursed Citadel Chest
+From : Marvi
+Source : Level 25 Citadel
+Elegant Chest
+From : DarkAngel
+Source : Level 10 Crypt
+Infernal Chest
+From : Berohef
+Source : Level 15 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Barbarian Chest
+From : Foxhunter
+Source : Level 10 Crypt
+Orc Chest
+From : Foxhunter
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Uhtred
+Source : Level 20 Citadel
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Ancient Bastion Chest
+From : Foxhunter
+Source : Level 25 epic Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Orc Chest
+From : Foxhunter
+Source : Level 25 Crypt
+Elegant Chest
+From : Foxhunter
+Source : Level 10 Crypt
+Bone Chest
+From : Berohef
+Source : Level 15 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Cursed Citadel Chest
+From : Marvi
+Source : Level 25 Citadel
+Infernal Chest
+From : Foxhunter
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Uhtred
+Source : Level 20 Citadel
+Stone Chest
+From : Berohef
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : DarkAngel
+Source : Level 10 Citadel
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Barbarian Chest
+From : Foxhunter
+Source : Level 25 Crypt
+Fire Chest
+From : Berohef
+Source : Level 15 Crypt
+Orc Chest
+From : DarkAngel
+Source : Level 10 Crypt
+Bone Chest
+From : Berohef
+Source : Level 20 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Stone Chest
+From : Berohef
+Source : Level 15 Crypt
+Elven Citadel Chest
+From : DarkAngel
+Source : Level 10 Citadel
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Bone Chest
+From : Foxhunter
+Source : Level 10 Crypt
+Sand Chest
+From : Foxhunter
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Uhtred
+Source : Level 20 Citadel
+Cobalt Chest
+From : DarkAngel
+Source : Level 20 epic Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Rare Dragon Chest
+From : LUCKY BEAR
+Source : Level 15 rare Crypt
+Elven Citadel Chest
+From : LUCKY BEAR
+Source : Level 15 Citadel
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Elven Citadel Chest
+From : LUCKY BEAR
+Source : Level 15 Citadel
+Forgotten Chest
+From : Berohef
+Source : Level 20 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Fire Chest
+From : DarkAngel
+Source : Level 10 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Elven Citadel Chest
+From : Foxhunter
+Source : Level 20 Citadel
+Mayan Chest
+From : Foxhunter
+Source : Level 15 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
+Rare Dragon Chest
+From : Foxhunter
+Source : Level 20 rare Crypt
+Forgotten Chest
+From : Berohef
+Source : Level 20 Crypt
+Cursed Citadel Chest
+From : Marvi
+Source : Level 25 Citadel
+Rare Dragon Chest
+From : LUCKY BEAR
+Source : Level 15 rare Crypt
+Cursed Citadel Chest
+From : Foxhunter
+Source : Level 25 Citadel
+Jormungandr's Chest
+From : Lerinad
+Source : Jormungandr Shop
+Elven Citadel Chest
+From : LUCKY BEAR
+Source : Level 15 Citadel
+Mayan Chest
+From : Berohef
+Source : Level 15 Crypt
+Rare Dragon Chest
+From : Germanicus
+Source : Level 25 rare Crypt
