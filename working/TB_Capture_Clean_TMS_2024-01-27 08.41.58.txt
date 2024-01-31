@@ -1,0 +1,141 @@
+Bone Chest
+From : Saintos
+Source : Level 5 Crypt
+Forgotten Chest
+From : Arfiring
+Source : Level 5 Crypt
+Cobra Chest
+From : Gazius
+Source : Level 10 Crypt
+Elegant Chest
+From : Arfiring
+Source : Level 5 Crypt
+Governor's Chest
+From : Elrond
+Source : Story
+Infernal Chest
+From : Lardrien
+Source : Level 10 Crypt
+Stone Chest
+From : Turin
+Source : Level 5 Crypt
+Barbarian Chest
+From : Turin
+Source : Level 5 Crypt
+Stone Chest
+From : Maira
+Source : Level 15 Crypt
+Priest's Chest
+From : Sabriell
+Source : Level 15 epic Crypt
+Ancient Bastion Chest
+From : Lardrien
+Source : Level 15 epic Crypt
+Rare Dragon Chest
+From : Lardrien
+Source : Level 15 rare Crypt
+Elven Citadel Chest
+From : Porcelain God
+Source : Level 10 Citadel
+Gladiator's Chest
+From : Leonardopas
+Source : Arena
+coer Chest
+From : Sabriell
+Source : Level 15 epic Crypt
+Rare Dragon Chest
+From : Sabriell
+Source : Level 10 rare Crypt
+Elegant Chest
+From : Sabriell
+Source : Level 5 Crypt
+Bone Chest
+From : Tashicage
+Source : Level 15 Crypt
+Stone Chest
+From : Sabriell
+Source : Level 10 Crypt
+Gladiator's Chest
+From : Lady Caroline
+Source : Arena
+Gladiator's Chest
+From : Saintos
+Source : Arena
+Forgotten Chest
+From : Lemans I
+Source : Level 5 Crypt
+Orc Chest
+From : Lemans I
+Source : Level 10 Crypt
+Barbarian Chest
+From : Lemans I
+Source : Level 5 Crypt
+Fire Chest
+From : Sabriell
+Source : Level 5 Crypt
+Forgotten Chest
+From : Relentless Realist
+Source : Level 10 Crypt
+Bone Chest
+From : Relentless Realist
+Source : Level 10 Crypt
+Sand Chest
+From : Relentless Realist
+Source : Level 10 Crypt
+Bone Chest
+From : Relentless Realist
+Source : Level 10 Crypt
+Elven Citadel Chest
+From : Deercamp
+Source : Level 10 Citadel
+Bone Chest
+From : Nightraven
+Source : Level 10 Crypt
+Forgotten Chest
+From : Relentless Realist
+Source : Level 10 Crypt
+Barbarian Chest
+From : Sabriell
+Source : Level 5 Crypt
+Ore Chest
+From : Sabriell
+Source : Level 5 Crypt
+Forgotten Chest
+From : Relentless Realist
+Source : Level 10 Crypt
+Common Chest of Wealth
+From : Relentless Realist
+Source : Clan wealth
+Uncommon Chest of Wealth
+From : Relentless Realist
+Source : Clan wealth
+Rare Chest of Wealth
+From : Relentless Realist
+Source : Clan wealth
+Infernal Chest
+From : bookworm
+Source : Level 10 Crypt
+Barbarian Chest
+From : bookworm
+Source : Level 10 Crypt
+Mayan Chest
+From : bookworm
+Source : Level 10 Crypt
+Fire Chest
+From : bookworm
+Source : Level 5 Crypt
+Elegant Chest
+From : bookworm
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Cimorene
+Source : Level 10 Citadel
+Gnome Workshop Chest
+From : bookworm
+Source : Level 5 Crypt
+Stone Chest
+From : bookworm
+Source : Level 10 Crypt
+Rare Dragon Chest
+From : Deercamp
+Source : Level 10 rare Crypt

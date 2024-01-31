@@ -1,0 +1,164 @@
+--------------- 2024-01-27 08:42:00 --------------------------
+Bone Chest
+From: Saintos
+Source: Level 5 Crypt
+Forgotten Chest
+From: Arfiring
+Source: Level 5 Crypt
+Cobra Chest
+From: Gazius
+Source: Level 10 Crypt
+Elegant Chest
+From: Arfiring
+Source: Level 5 Crypt
+--------------- 2024-01-27 08:42:03 --------------------------
+Governor's Chest
+From: Elrond
+Source: Story
+Infernal Chest
+From: Lardrien
+Source: Level 10 Crypt
+oe
+Stone Chest
+From: Turin
+Source: Level 5 Crypt
+oe
+Barbarian Chest
+From: Turin
+Source: Level 5 Crypt
+--------------- 2024-01-27 08:42:07 --------------------------
+Stone Chest
+From: Maira
+Source: Level 15 Crypt
+Priest's Chest
+From: Sabriell
+Source: Level 15 epic Crypt
+Ancient Bastion Chest
+From: Lardrien
+Source: Level 15 epic Crypt
+Rare Dragon Chest
+From: Lardrien
+Source: Level 15 rare Crypt
+--------------- 2024-01-27 08:42:10 --------------------------
+Elven Citadel Chest
+From: Porcelain God
+Source: Level 10 Citadel
+Gladiator's Chest
+From: Leonardopas
+Source: Arena
+coer Chest
+From: Sabriell
+Source: Level 15 epic Crypt
+Rare Dragon Chest
+From: Sabriell
+Source: Level 10 rare Crypt
+--------------- 2024-01-27 08:42:13 --------------------------
+Elegant Chest
+From: Sabriell
+Source: Level 5 Crypt
+Bone Chest
+From: Tashicage
+Source: Level 15 Crypt
+oe
+Stone Chest
+From: Sabriell
+Source: Level 10 Crypt
+oe
+Gladiator's Chest
+From: Lady Caroline
+Source: Arena
+--------------- 2024-01-27 08:42:17 --------------------------
+Gladiator's Chest
+From: Saintos
+Source: Arena
+Forgotten Chest
+From: Lemans |
+Source: Level 5 Crypt
+oe
+Orc Chest
+From: Lemans |
+Source: Level 10 Crypt
+oe
+Barbarian Chest
+From: Lemans |
+Source: Level 5 Crypt
+--------------- 2024-01-27 08:42:20 --------------------------
+Fire Chest
+From: Sabriell
+Source: Level 5 Crypt
+Forgotten Chest
+From: Relentless Realist
+Source: Level 10 Crypt
+oe
+Bone Chest
+From: Relentless Realist
+Source: Level 10 Crypt
+oe
+Sand Chest
+From: Relentless Realist
+Source: Level 10 Crypt
+--------------- 2024-01-27 08:42:23 --------------------------
+Bone Chest
+From: Relentless Realist
+Source: Level 10 Crypt
+Elven Citadel Chest
+From: Deercamp
+Source: Level 10 Citadel
+Bone Chest
+From: Nightraven
+Source: Level 10 Crypt
+Forgotten Chest
+From: Relentless Realist
+Source: Level 10 Crypt
+--------------- 2024-01-27 08:42:27 --------------------------
+Barbarian Chest
+From: Sabriell
+Source: Level 5 Crypt
+Ore Chest
+From: Sabriell
+Source: Level 5 Crypt
+Forgotten Chest
+From: Relentless Realist
+Source: Level 10 Crypt
+Common Chest of Wealth
+From: Relentless Realist
+Source: Clan wealth
+--------------- 2024-01-27 08:42:30 --------------------------
+Uncommon Chest of Wealth
+From: Relentless Realist
+Source: Clan wealth
+Rare Chest of Wealth
+From: Relentless Realist
+Source: Clan wealth
+Infernal Chest
+From: bookworm
+Source: Level 10 Crypt
+Barbarian Chest
+From: bookworm
+Source: Level 10 Crypt
+--------------- 2024-01-27 08:42:33 --------------------------
+Mayan Chest
+From: bookworm
+Source: Level 10 Crypt
+Fire Chest
+From: bookworm
+Source: Level 5 Crypt
+Elegant Chest
+From: bookworm
+Source: Level 5 Crypt
+Elven Citadel Chest
+From: Cimorene
+Source: Level 10 Citadel
+--------------- 2024-01-27 08:42:37 --------------------------
+Gnome Workshop Chest
+From: bookworm
+Source: Level 5 Crypt
+Stone Chest
+From: bookworm
+Source: Level 10 Crypt
+oe
+Rare Dragon Chest
+From: Deercamp
+Source: Level 10 rare Crypt
+--------------- 2024-01-27 08:42:39 --------------------------
+No gifts

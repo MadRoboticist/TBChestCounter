@@ -1,0 +1,583 @@
+--------------- 2024-01-15 14:56:02 --------------------------
+Bone Chest
+From: Mighty Forger
+Source: Level 10 Crypt
+aenr Citadel Chest
+From: Tumitac
+Source: Level 25 Citadel
+Fire Chest
+From: Sir Doc
+Source: Level 10 Crypt
+Ore Chest
+From: Mighty Forger
+Source: Level 15 Crypt
+--------------- 2024-01-15 14:56:05 --------------------------
+Infernal Chest
+From: Sir Doc
+Source: Level 5 Crypt
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+Gnome Workshop Chest
+From: Mighty Forger
+Source: Level 10 Crypt
+aenes
+Stone Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2024-01-15 14:56:08 --------------------------
+Elegant Chest
+From: Thoth
+Source: Level 25 Crypt
+Mayan Chest
+From: Thoth
+Source: Level 20 Crypt
+aenes
+Bone Chest
+From: Mighty Forger
+Source: Level 5 Crypt
+aenes
+Infernal Chest
+From: Thoth
+Source: Level 20 Crypt
+--------------- 2024-01-15 14:56:11 --------------------------
+Elven Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Citadel
+Sand Chest
+From: Mighty Forger
+Source: Level 15 Crypt
+Gnome Workshop Chest
+From: Mighty Forger
+Source: Level 15 Crypt
+aenr Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Citadel
+--------------- 2024-01-15 14:56:14 --------------------------
+Sand Chest
+From: Mighty Forger
+Source: Level 10 Crypt
+Gnome Workshop Chest
+From: Mighty Forger
+Source: Level 10 Crypt
+Gear Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Citadel
+Cobra Chest
+From: Mighty Forger
+Source: Level 5 Crypt
+--------------- 2024-01-15 14:56:17 --------------------------
+Elven Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Citadel
+Gladiator's Chest
+From: idaco
+Source: Arena
+eure Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+Fire Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:56:20 --------------------------
+Orc Chest
+From: NEVIO
+Source: Level 25 Crypt
+Fire Chest
+From: Braveheart
+Source: Level 25 Crypt
+aenes
+Mayan Chest
+From: Brandemet
+Source: Level 10 Crypt
+aenes
+Rare Dragon Chest
+From: NEVIO
+Source: Level 25 rare Crypt
+--------------- 2024-01-15 14:56:23 --------------------------
+Elven Citadel Chest
+From: Grikelv
+Source: Level 15 Citadel
+Fire Chest
+From: Braveheart
+Source: Level 25 Crypt
+aenes
+Fire Chest
+From: Braveheart
+Source: Level 25 Crypt
+aenes
+Forgotten Chest
+From: Braveheart
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:56:27 --------------------------
+Elven Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Citadel
+Rare Dragon Chest
+From: Braveheart
+Source: Level 25 rare Crypt
+Rare Dragon Chest
+From: Braveheart
+Source: Level 25 rare Crypt
+Rare Dragon Chest
+From: Braveheart
+Source: Level 25 rare Crypt
+--------------- 2024-01-15 14:56:30 --------------------------
+Elven Citadel Chest
+From: Grikelv
+Source: Level 15 Citadel
+Bai mere in Chest
+From: Braveheart
+Source: Level 25 epic Crypt
+eure Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+aenr Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Citadel
+--------------- 2024-01-15 14:56:33 --------------------------
+Cursed Chest
+From: Grikelv
+Source: Level 18 heroic Monster
+Fire Chest
+From: Grikelv
+Source: Level 15 Crypt
+aenes
+Bone Chest
+From: Grikelv
+Source: Level 20 Crypt
+aenes
+Elven Citadel Chest
+From: Grikelv
+Source: Level 15 Citadel
+--------------- 2024-01-15 14:56:36 --------------------------
+Cobra Chest
+From: Berohef
+Source: Level 15 Crypt
+ener Citadel Chest
+From: NEVIO
+Source: Level 20 Citadel
+Sand Chest
+From: Berohef
+Source: Level 15 Crypt
+Gear Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Citadel
+--------------- 2024-01-15 14:56:39 --------------------------
+Elegant Chest
+From: Berohef
+Source: Level 15 Crypt
+Gear Citadel Chest
+From: Berohef
+Source: Level 15 Citadel
+Cobra Chest
+From: Berohef
+Source: Level 15 Crypt
+Gear Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 10 Citadel
+--------------- 2024-01-15 14:56:42 --------------------------
+Forgotten Chest
+From: Berohef
+Source: Level 15 Crypt
+Stone Chest
+From: Immortal
+Source: Level 20 Crypt
+Gear Citadel Chest
+From: TOKUGAWA NOBUNAGA
+Source: Level 15 Citadel
+Sand Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2024-01-15 14:56:45 --------------------------
+Sand Chest
+From: Berohef
+Source: Level 15 Crypt
+Barbarian Chest
+From: Berohef
+Source: Level 15 Crypt
+Forgotten Chest
+From: Berohef
+Source: Level 15 Crypt
+Bone Chest
+From: Berohef
+Source: Level 15 Crypt
+--------------- 2024-01-15 14:56:48 --------------------------
+Orc Chest
+From: DarkAngel
+Source: Level 10 Crypt
+Gear Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+Cobra Chest
+From: DarkAngel
+Source: Level 10 Crypt
+Gear Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-15 14:56:51 --------------------------
+Elegant Chest
+From: DarkAngel
+Source: Level 10 Crypt
+Priest's Chest
+From: Berohef
+Source: Level 15 epic Crypt
+Elegant Chest
+From: Immortal
+Source: Level 15 Crypt
+Gear Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+--------------- 2024-01-15 14:56:54 --------------------------
+Sand Chest
+From: Immortal
+Source: Level 20 Crypt
+Gear Citadel Chest
+From: LUCKY BEAR
+Source: Level 15 Citadel
+Sand Chest
+From: LUCKY BEAR
+Source: Level 10 Crypt
+Gnome Workshop Chest
+From: Immortal
+Source: Level 15 Crypt
+--------------- 2024-01-15 14:56:57 --------------------------
+Infernal Chest
+From: Immortal
+Source: Level 20 Crypt
+Infernal Chest
+From: Immortal
+Source: Level 20 Crypt
+Barbarian Chest
+From: DarkAngel
+Source: Level 20 Crypt
+Ore Chest
+From: Immortal
+Source: Level 20 Crypt
+--------------- 2024-01-15 14:57:01 --------------------------
+Gnome Workshop Chest
+From: Immortal
+Source: Level 15 Crypt
+Barbarian Chest
+From: Immortal
+Source: Level 20 Crypt
+Gear Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+Rare Dragon Chest
+From: Immortal
+Source: Level 25 rare Crypt
+--------------- 2024-01-15 14:57:04 --------------------------
+Rare Dragon Chest
+From: Immortal
+Source: Level 25 rare Crypt
+Bone Chest
+From: DarkAngel
+Source: Level 10 Crypt
+Rare Dragon Chest
+From: Immortal
+Source: Level 15 rare Crypt
+Chest of the Cursed
+From: Immortal
+Source: Level 20 epic Crypt
+--------------- 2024-01-15 14:57:07 --------------------------
+Trillium Chest
+From: Immortal
+Source: Level 15 epic Crypt
+Infernal Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Elegant Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Bone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:10 --------------------------
+Mayan Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Infernal Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:13 --------------------------
+Barbarian Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Forgotten Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Bone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+sand Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:16 --------------------------
+Gnome Workshop Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Forgotten Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Gnome Workshop Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Infernal Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:19 --------------------------
+Orc Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Sand Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+aenes
+Elegant Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+aenes
+Sand Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2024-01-15 14:57:22 --------------------------
+Sand Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Cobra Chest
+From: Mighty Forger
+Source: Level 10 Crypt
+aenes
+Fire Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+aenes
+Fire Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:25 --------------------------
+Infernal Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Trillium Chest
+From: Feli
+Source: Level 25 epic Crypt
+Gnome Workshop Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:28 --------------------------
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Turtle Chest
+From: Feli
+Source: Level 25 epic Crypt
+Gnome Workshop Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Fire Chest
+From: Brandemet
+Source: Level 20 Crypt
+--------------- 2024-01-15 14:57:32 --------------------------
+Gnome Workshop Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+sand Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+scarab Chest
+From: Brandemet
+Source: Level 20 epic Crypt
+--------------- 2024-01-15 14:57:35 --------------------------
+Mayan Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Gear Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+Infernal Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:38 --------------------------
+Cursed Citadel Chest
+From: Brandemet
+Source: Level 25 Citadel
+Ore Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Gnome Workshop Chest
+From: Brandemet
+Source: Level 5 Crypt
+Barbarian Chest
+From: Brandemet
+Source: Level 15 Crypt
+--------------- 2024-01-15 14:57:41 --------------------------
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Fire Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Rare Dragon Chest
+From: Brandemet
+Source: Level 10 rare Crypt
+Mayan Chest
+From: Brandemet
+Source: Level 10 Crypt
+--------------- 2024-01-15 14:57:44 --------------------------
+Fire Chest
+From: DarkAngel
+Source: Level 10 Crypt
+Gnome Workshop Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Gnome Workshop Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Forgotten Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:47 --------------------------
+Common Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+Uncommon Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+ore Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+Epic Chest of Wealth
+From: Sir James III Son of Hadur
+Source: Clan wealth
+--------------- 2024-01-15 14:57:50 --------------------------
+Cobra Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Cobra Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+eter Chest
+From: Brandemet
+Source: Level 10 Citadel
+Bone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:53 --------------------------
+Bone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Bone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+aenes
+Stone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+aenes
+Orc Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:57:56 --------------------------
+Forgotten Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Bone Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Infernal Chest
+From: Heretical Hermit
+Source: Level 25 Crypt
+Ore Chest
+From: Brandemet
+Source: Level 25 Crypt
+--------------- 2024-01-15 14:58:00 --------------------------
+Elven Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+Stone Chest
+From: Darvenen
+Source: Level 10 Crypt
+Forgotten Chest
+From: DarkAngel
+Source: Level 10 Crypt
+eure Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2024-01-15 14:58:03 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+Ore Chest
+From: Maveriel
+Source: Level 10 Crypt
+Gear Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+eure Citadel Chest
+From: NEVIO
+Source: Level 25 Citadel
+--------------- 2024-01-15 14:58:06 --------------------------
+Elegant Chest
+From: DarkAngel
+Source: Level 10 Crypt
+Rare Dragon Chest
+From: Rainblade
+Source: Level 15 rare Crypt
+Cobra Chest
+From: Rainblade
+Source: Level 15 Crypt
+Gear Citadel Chest
+From: DarkAngel
+Source: Level 10 Citadel
+--------------- 2024-01-15 14:58:09 --------------------------
+Infernal Chest
+From: Rainblade
+Source: Level 15 Crypt
+ener Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+Infernal Chest
+From: Alberikh
+Source: Level 20 Crypt
+Cobra Chest
+From: Rainblade
+Source: Level 15 Crypt
+--------------- 2024-01-15 14:58:12 --------------------------
+Cursed Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+House of Horrors Chest
+From: Rainblade
+Source: Level 15 epic Crypt
+Stone Chest
+From: Rainblade
+Source: Level 15 Crypt
+Minotaur Chest
+From: Rainblade
+Source: Level 15 epic Crypt
+--------------- 2024-01-15 14:58:15 --------------------------
+Stone Chest
+From: Rainblade
+Source: Level 15 Crypt
+Elven Citadel Chest
+From: Legolas
+Source: Level 25 Citadel
+--------------- 2024-01-15 14:58:16 --------------------------
+No gifts
