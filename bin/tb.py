@@ -12,11 +12,11 @@ import time
 import cv2
 import numpy
 import pytesseract
-from PIL import ImageGrab
+from PIL import ImageGrab, Image
 import pyautogui, sys
 import pygetwindow
 
-
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe' 
 # TBConfig ------------------------------------------------------------------------------------------------------
 class TBConfig(object):
     """ This class parses configuration parameters from the configuration file """
@@ -715,7 +715,19 @@ class TBCapture(object):
                     rows.pop(index)
                     fixed = True
                     print("Fixed OCR capture issue with just '.'")
-                elif row == "An": # Ancient problem
+                elif 'Contains' in row:
+                    rows.remove(row)
+                    fixed = True
+                elif row == "aenes" or row == "oe" or row == "nir" or row == "nir":
+                    rows.remove(row)
+                    fixed = True
+                elif (rows[index].lower().find("ooden") > 0=-) and (row != "Wooden Chest"):
+                    rows[index]	= "Wooden Chest"
+                    fixed = True
+                elif row == "ree" or row == "muro" or row =="1s" or row == "1S": #issue where it interprets the divider line as text
+                    rows.remove(row)
+                    fixed = True
+                elif row == "An" or row == "nir" or (len(row) <8): # Ancient problem
                     rows.remove(row)
                     fixed = True
                     print("Fixed OCR capture issue with Ancient Warrior/Bastion chests")
@@ -731,6 +743,9 @@ class TBCapture(object):
                     rows.pop(index+1)
                     fixed = True
                     print("Fixed OCR capture issue with Ancient Warrior's Chest")
+                elif row == "Source: Epic An" and rows[index+1] == "nt squad":
+                    rows[index] = "Source: Epic Ancient squad"
+                    rows.pop(index+1)
                 elif row == "Cursed" and rows[index+1].lower().endswith("del chest"): # Cursed Citadel Chest problem
                     rows[index] = "Cursed Citadel Chest"
                     rows.pop(index+1)
@@ -749,7 +764,6 @@ class TBCapture(object):
                             print("Fixed OCR capture issue with {}".format(tmp))
                             fixed = True
                 index += 1
-
             if not fixed:
 
                 if len(rows) == 1 and rows[0] == "No gifts": # Nothing to capture
@@ -886,6 +900,10 @@ class TBCapture(object):
 
             print("Some image processing...")
             image = self.screen.get_grayscale(numpy.array(image))
+            self.screen.remove_noise(image)
+            self.screen.thresholding(image)
+            #im = Image.fromarray(image)
+            #im.save("threshtest.png")
             print("Done!")
 
             print("Performing OCR analysis...")

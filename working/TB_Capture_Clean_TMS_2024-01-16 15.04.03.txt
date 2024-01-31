@@ -1,0 +1,54 @@
+Bone Chest
+From : Arfiring
+Source : Level 5 Crypt
+Sand Chest
+From : Arfiring
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Robot Monk
+Source : Level 10 Citadel
+Infernal Chest
+From : Dimes
+Source : Level 10 Crypt
+Elegant Chest
+From : Dimes
+Source : Level 15 Crypt
+Stone Chest
+From : Dibrineyl
+Source : Level 5 Crypt
+Forgotten Chest
+From : Dibrineyl
+Source : Level 5 Crypt
+Stone Chest
+From : Sergen
+Source : Level 5 Crypt
+Bone Chest
+From : Finiing
+Source : Level 5 Crypt
+Gladiator's Chest
+From : Sergen
+Source : Arena
+Mayan Chest
+From : Lemans I
+Source : Level 5 Crypt
+Elegant Chest
+From : Lemans I
+Source : Level 5 Crypt
+Stone Chest
+From : Lemans I
+Source : Level 5 Crypt
+Fire Chest
+From : Lemans I
+Source : Level 5 Crypt
+Barbarian Chest
+From : Lemans I
+Source : Level 5 Crypt
+Stone Chest
+From : Adorahuginn
+Source : Level 5 Crypt
+Elven Citadel Chest
+From : Robot Monk
+Source : Level 10 Citadel
+Governor's Chest
+From : Dafur
+Source : Story
